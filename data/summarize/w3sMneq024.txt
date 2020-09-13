@@ -1,0 +1,1026 @@
+I got interview call from:
+
+  *  **IISc Bangalore for M.tech in Nanoscience Engineering(Interdisciplinary)**
+  *  **IITD for M.Tech VLSI Design Tools and Technology(called as VDTT)** which is also Interdisciplinary
+
+I attended both the Interviews and I got selected in both of them :-)
+
+I wrote GATE exam in Instrumentation this year(2018) and secured AIR 28. I’m
+from Biomedical Engineering background. Since I have more interest in
+electronics, I chose IITD VLSI over IISc Nanoscience. The answer will be a
+little long, so brace yourself!!
+
+ **IISc Interview Experience:**
+
+I reached Bangalore on Sunday, May 13 and stayed in PG which is near to
+Nanoscience Department. I visited the department on the same day and it
+started raining as soon as I entered the campus. You won’t believe, the campus
+looked liked heaven with greeny look and rain added more beauty to the campus.
+
+> Coming to the interview, it scheduled for 3 straight days from May 14-May 16
+with 3 panels. My interview is in first slot i.e. 9:30 AM on May 14. I went to
+the department on-time and marked my attendance. They asked me to sit in a
+waiting hall. After 30 minutes I was called for Interview. There were 3
+professors inside the interview room. One professor went out as soon as I
+entered the room. So I was interviewed by 2 professors. They had my details
+which I had given in application in their PCs. I had given Nanoscience in
+first preference as I’m interested in it.
+
+>
+
+>  **Professor 1:** Tell me about yourself.
+
+>
+
+>  **Me:** My name is Hemasai. I did my BE in Biomedical Engg from PSG College
+of Technology.
+
+>
+
+> Professor 1 interrupted me..
+
+>
+
+>  **Professor 1:** Why you wrote GATE in IN and What is your AIR? (In
+application they have asked only for GATE score)
+
+>
+
+> ME: I wrote it as it related more to Biomedical and there is no separate
+stream in GATE for Biomedical . My AIR is 28.
+
+>
+
+>  **Professor 1:** Good!
+
+>
+
+>  **Professor 2:** Why are you interested in Nanoscience and why did you gave
+it in first preference?
+
+>
+
+>  **Me:** There is a great scope for Biomedical research in Nanoscience and
+I’m interested top do research.
+
+>
+
+> Then they asked about my final year project, which I explained well and they
+asked few formulas which I used in my project.
+
+>
+
+>  **Professor 2:** Draw a sinc function and write its mathematical
+derivation.
+
+>
+
+> I did it with ease.
+
+>
+
+>  **Professor 1:** Can you draw the graph for 1/(1-x^2)
+
+>
+
+> I plotted graph immediately and drew it wrong initially.
+
+>
+
+>  **Professor 1:** Take your time and draw the graph correctly.
+
+>
+
+> After taking little help from the professors, I drew it correctly.
+
+They asked me to leave after his question. My Interview happened for 15
+minutes and the professors were damn nice. I was so confident that I will get
+selected. **After 12 days of my Interview I got offer letter in mail from IISc
+Bangalore.**
+
+![](https://qph.fs.quoracdn.net/main-qimg-d17c372cdafa42c0f8245a03ee5b5203)
+
+ **IITD Interview Experience:**
+
+I reached Delhi on Sunday, 20th May. i stayed at my friend’s home which is
+20km away from IITD.
+
+VDTT is an Intediciplinary course under Electrical Engg Dept, CS Dept and CARE
+(Centre for Applied Research in Electronics).The cut-off is 770 GATE Score for
+general candidates and mine is 801.
+
+First round of this Interview is held on 21st may. Around 80–100 people were
+attended first round. There were 4 panels( 2 panels for circuits and 2 panels
+for devices). It’s the choice of students to select either circuits/devices.
+
+I selected circuits. I was the second student interviewed that morning. 2
+professors interviewed me.
+
+>  ** _Professor 1:_** _Tell me about your Engg background._
+
+>
+
+>  ** _Me:_** _I told that I’m from Biomedical background._
+
+>
+
+>  ** _Professor 2:_** _Why did you applied for VDTT and why did you appeared
+for IN stream in GATE?_
+
+>
+
+>  ** _Me:_** _Sir I’m interested in Electronics and IN is more related to my
+Bachelor’s degree._
+
+>
+
+>  ** _Professor 1:_** _If you’re interested in Electronics why didn’t you
+take EC in GATE?_
+
+>
+
+>  _After some heated interaction they asked technical questions. They prepare
+few questions before the interview and asked me those questions. They asked me
+to draw the output of few RC circuits one by one for a rectangular input
+without using mathematical derivations/ Laplace Transforms._
+
+Same questions were asked in M.Tech Integrated Circuits Interview. You can
+refer those questions in the following answer:
+
+[Sudeep Thakur's answer to What are your IIT MTech interview
+experiences?](/What-are-your-IIT-MTech-interview-experiences/answer/Sudeep-
+Thakur-9)
+
+I was able to answer 3 out of 4 RC circuits. That’s all they asked me in
+preliminary round. the results were announced around 8PM and I made it i the
+second round. 39 people were selected for second round.
+
+ **DAY 2: This is sponsors round**
+
+A total of 6 companies sponsored this year for 18 seats. Those companies are
+**TI** (Texas Instruments) **, Qualcomm, Cadence, Aura semiconductors and two
+startups (Haskell communications and Sensonics devices Pvt Ltd)**. After 2
+hours of PPT presentations by sponsors, we were asked to fill up preference
+form.
+
+My order of preference was this: **TI, Qualcomm, Aura, Sensonics, Haskell.**
+
+I didn’t took Cadence as I’m not interested in their projects.
+
+ **TI Interview:**
+
+Very basic questions on OP-AMP were asked. I was doing good until I screwed up
+on one simple question. That question is:
+
+>  ** _Q:_** _What will happen if you interchanged +,- in inverting OP-Amp._
+
+>
+
+>  ** _My ans:_** _Non-Inverting amplifier sir. (He asked me to leave after my
+ans. The ans is Schmitt Trigger which it striked my mind as soon as I left. It
+was a blunder!!)_
+
+ **My second Interview was with Haskell and Sensonics combined:**
+
+It was around 11:15 AM. Very basic questions were asked like few puzzles, my
+final year project, etc,. I did well. The Interview went for half an hour.
+
+ **Qualcomm experience:**
+
+>  _I was the last candidate for the first round of Qualcomm. It was around
+3:30 PM. Question on Diodes, MOSFETs, Zener and Avalanche Breakdown, Flip-
+Flops, Logic Gates, Machine Learning were asked and I did very well answering
+those questions immediately. I was said to be called for second round but they
+didn’t call as they already shortlisted candidates. The Interview went for
+around 15 minutes._
+
+ **Aura Semiconductors Interview:**
+
+Similar to Qualcomm, I was the last candidate to be Interviewed for Aura.
+
+>  _They seemed a little angry as I gave it as 3rd preference and they asked
+me why so. The time was 3:50 PM. The selected candidates based on one round
+only. my Interview went for 20–25 minutes. Many questions were asked from
+MOSFETs, RC circuits, BJTs, Signals, Transfroms, Digital Electronics, etc,. I
+did pretty well but they didn’t select me as I gave their company as 3rd
+preference._
+
+ **After few weeks I got mail from VDTT office that I got offer from Sensonics
+Devices which I happily accepted.**
+
+![](https://qph.fs.quoracdn.net/main-qimg-39db34f137940700a0876c7c7d3261e0)
+
+ **I chose IITD over IISc because of the course. I’m pretty much upset that
+I’ll miss IISc campus!**
+
+ **I’ll be joining IITD** on 20th July.
+
+ **Edit:** People who are asking about how I prepared for GATE, please read
+this:
+
+[HEMASAI KUMAR's answer to What's your GATE 2018 result and are you satisfied
+with it?](/Whats-your-GATE-2018-result-and-are-you-satisfied-with-
+it/answer/HEMASAI-KUMAR)
+
+P.S.: For people who wonder why I selected VLSI in M.Tech with Biomedical
+backgound: B.E. Biomedical Engg is an Interdisciplinary course consisting 40%
+Instrumentation, 10% Mechanical/material science, 20% Programming(Signal &
+Image Processing), 30 % others (Biology). In my BE I got passion in
+Electronics.
+
+Happy Reading:-)
+
+Suggest any edit if required.!
+
+-Hemasai.
+
+
+##########
+My IITD interview was scheduled on 24 May, 2018. I have made up my mind to not
+join IITB and join IITD(due to location preference). I was setting my foot
+inside an IIT for the first time in my life. The first shock came when I
+entered the college gate. I asked the guard where is **** hostel. As I was on
+foot he started smiling and politely replied beta wo hostel to 2 kilometer
+door hai. Then I remembered that this is not NIT srinagar(My B tech college).
+It is one of the most prestigious IITs. How naive of me to underestimate its
+campus area. While I was thinking all this an auto came from inside the
+campus. The guard stop that auto and asked him to take me to the hostel. I
+reached the hostel and told the receptionist that I have come for M tech
+interview. I was asked to pay Rs800 for two day day boarding and mess facility
+usage. I was then allotted a room. I met some other candidates and spent the
+whole day roaming here and there.
+
+On the day of interview first there was a briefing in which Professor Sarangi
+gave us details about the interview process. Points from the briefing:
+
+  *  _A candidate has to score at least 7 points out of 10 in the interview to be even considered for M tech programme._
+  *  _A candidate has to score at least 9 points out of 10 in the interview to be considered for MSR programme._
+  *  _Weightage given to GATE score would be 70 percent. 30 percent weightage would be given to interview._
+  *  _Even if only 10 candidates qualify the interview, IITD would proceed with only those 10 candidates. No compromise on quality and no waiting list._
+
+After this we were asked to sit inside a waiting room. My turn came in the
+very last. I entered the interview room to find 3 people sitting there. I
+greeted them and they asked me to take a seat. After this the 1st person asked
+the following questions:
+
+  1. What is quicksort?
+  2. Can you find the kth largest element in an array using the approach taken by quicksort?
+  3. Write the code for that algorithm?
+  4. A rectangular grid was drawn and I have to find the number of paths from one corner to another?
+  5. Write code for printing all paths in question 4?
+  6. Find the recurrence relation for the recursive solution that I wrote for Question 5?
+
+I was able to answer all questions completely except question 3 where the
+professor confused me and then I got stuck.
+
+The first professor was satisfied. After this the 2nd professor asked
+
+  1. Give the mathematical proof for If a number is divisible by 3 then the sum of digits must me divisible by 3 ?
+
+I said I don’t know and then he asked the 3rd professor to ask questions?
+
+  1. He explained a processor (which can have infinite number of cores) and then told about a program where the sequential part is 20 percent and rest is parallel. He then asked to find the minimum number of cores required to achieve 10 times speed up?( A tricky one)
+  2. My answer to first question made him happy. He made some changes to the above question and asked me to solve the question. I don’t remember that question now. This was the last question of the interview.
+
+ **Result: selected for M Tech but joined IITB.**
+
+ _You can read about my other interviews at_[ _From 0 to
+1_](https://kishanku56.quora.com) _._
+
+
+##########
+I belong to civil engineering, I will list out the interview calls I have got
+thorough GATE - 2017!
+
+  1. IIT Madras,MS Ocean engineering
+  2. IIT Madras,MS Civil engineering
+  3. IIT Kanpur, MS civil engineering
+  4. IIT Kanpur, Mtech (WRE, Geotechnical and Geoinformatics)
+  5. IIT Kharagpur
+  6. IIT Gandhinagar, Civil engineering
+  7. IIT Delhi, (Water resources engineering and Rock mechanics)
+  8. IIT Guwahati, eligible for direct admission and interviews also
+  9. IIT BHU, Civil engineering and material science
+  10. IIT Roorkee, All the departments applied
+
+I was called for these institutions but I gave only interviews at IIT Madras
+and IIT Delhi due to clash of dates and health issues. But I was lucky and got
+success in 2nd college I attended the interview! As it was one of the top
+colleges in India I didn't take much tension to attend others.
+
+Before I attending these interviews, I got direct admission offer from IIT KGP
+in ocean engineering in first round, I declined and I was officially thrown of
+KGP for not participating.
+
+Now only thing left was to crack interviews.
+
+ **IIT Madras, Ocean engineering** :
+
+I reached one day before and room was alloted for me, food was nice, I loved
+the place!
+
+Next day I walked till Ocean engineering block which was 2km away from hostel
+area, in the morning also I could feel the humid of Chennai, when I reached
+the block I was almost in sweat. The test was about to start at 9 AM, but they
+proceeded the pre-talk upto 9:30 AM and sent us to exam hall. Honestly I
+didn't prepare anything, the questions were too tough for me, although I did
+some mathematics and core civil well. The result was put up at 12:00 and guess
+what! I was selected fortunately or unfortunately. I was facing problem with
+kidney stones and for my fate, it started to stab me in the back and feeling
+nausea and vomited in the washrooms! I was pretty sure I can't attend
+interview then, so I went to room and took painkiller and had a nap, it was
+already 4:30, I knew interview would be over, I was disappointed but thought I
+could come better next week for civil engineering interview and left Chennai
+for Bangalore.
+
+ **IIT Madras, Civil engineering MS** :
+
+I prepared well after that tough day at Chennai, I went to Doctor and had some
+precautionary measures.
+
+This time I prepared well for maths, Geotechnical and transportation
+engineering. I went there with my father so that I can feel safe in that
+health situation, I was very happy by the environment present at that day, I
+didn't prepare the night before, had a nice sleep.
+
+I took bus this time to reach civil engineering block, then there was some
+introduction, after that they sent us to write the exam.
+
+The exam pattern was such that, we have to attend 2 subjects or 1 subject of
+our choice! For safety I attended 2 papers (1 hour each)!
+
+I gave Geotechnical first and transportation next! Geotechnical was easy, but
+numerical part was little confusing but I did well! Then I gave
+transportation, it was very very easy, everything was basic and basic
+mathematics in each paper. I thought I could crack written of both! After
+exam, we were proceeded to some classroom to wait for results and after one
+hour result came and meanwhile we were doing documents verification!
+
+Results out!! And I couldn't make in Geotechnical but I was shortlisted in
+transportation, I knew I will easily get this as I marked 90% answers
+correctly.
+
+After this, interview, the biggest hurdle! Almost they were taking interview
+for about 40 minutes, I went in after waiting for 4 members!
+
+As I went in my confidence went low, as I saw some of the best professors of
+nation! The panel consisted of 8 members, looked like a round table
+conference! I wished them and entered.
+
+ _Professor 1 : Please, have a seat._
+
+ _Me : Thank you sir!_ (low tone)
+
+ _Professor 2 :_ (after saying something to his colleague in Tamil) _Tell me,
+which topic you are okay with._
+
+ _Me : Highway Geometric Design._
+
+ _Professor 2 : Difference between Simple and compound curve? Can you write
+the transition curve on this sheet?_
+
+It started like this, and I was nervous I couldn't perform well, I was not
+answering well, meanwhile they were giving so much clues! Asked me to explain
+layers of road on board, and all the professors grilled me! Each time I
+answer, they'll give a smile and look at each other professors, I had no clue
+what was going on :( I looked at watch it was already 30 minutes over after my
+entry. And then…
+
+ _Professor 3 : You're looking so weak in technical, at last, you give us a
+topic we'll ask from that part._
+
+ _Me : Traffic engineering._
+
+And they asked all the basic questions from traffic engineering, luckily I
+answered them all. Finally they allowed me to go after 50 minutes! And
+sarcastically said All the best :(
+
+I knew I screwed it, disappointed! And went to catch a bus and one guy who was
+interviewed after me met me at the canteen, he told me that his interview
+didn't go as well. I got little hope atleast at that instant. I sacrificed IIT
+Kanpur and Gandhinagar for this. I said to myself, ‘ **you moron, last time
+you didn't study, this time didn't prepare for interview, next you'll go with
+mastering in both part or else stay’**
+
+After this I went to room and returned back karnataka next day!
+
+I went home, I had 11 mm kidney stone right side (I found it through CT Scan)
+Doctor suggested that I can pass with pain naturally or else I have to go
+under laser technique to remove! Asked me to stay in my hometown only
+(Karnataka), but I told my father at any cost I have to attend ROORKEE, my
+last hope.
+
+I forgot to mention, I also left atmospheric Science and applied mechanics
+interviews at Delhi due to Madras dates. But fortunately I had a shot at Delhi
+in civil engineering on 25th! I booked a flight to Delhi and planned to reach
+Roorkee on 30th so that I can finish both, but I had all hopes on Roorkee, but
+with no hopes I went to Delhi. I was very fortunate and the kidney stone just
+passed a week before interview :)
+
+ **IIT Delhi, Mtech interview Civil engineering** :
+
+I went to Delhi a day before, they alloted me a room and I have to say Delhi
+was so humid that day, hitting 47°! And being a Kannadiga, I never faced that
+extreme temperature, and in the same time no AC in hostels! ‘no pain, no gain’
+and it was great to stay there though!
+
+Next day, I took a cold water bath and had a quick bite and left for civil
+block! First I went to register for MS seats and came back to Mtech section to
+register my name in interview list. And in Delhi, there was no written test
+but only interview. After 2 hours they called me, and told me that next is my
+turn to go in, as I was standing outside I was thinking, should I act
+innocent? I remembered IITM where people judged me as unconfident! So I
+planned to be confident and should impress professor in different way! I have
+nothing to lose, I already screwed up madras and I had seen cutoff of all
+candidates in interview list and there were many people ahead of me, anybody
+looking at the my position anyone could tell me, ‘go dude, it's not your day’!
+Anyway I don't get here, I have huge hopes on Roorkee, either I get it or I
+will screw, lemme give a confident shot I thought and went in. **Carefree**!
+
+It was a panel of 4 members, aged more than 45+ for sure! Oh my God! How can I
+handle this now? Nothing to lose, and things went like…
+
+ _Professor 1 : Your application says you're from Karnataka?_
+
+ _Me : Yes sir._
+
+ _Professor 1 : Which place in Karnataka?_
+
+ _Me_ : (thinking he's from South India, looking at his body language)
+_Chikmagalur sir._
+
+ _Professor 1: Such a nice place, I think it is hill station. What's the
+Altitude?_
+
+ _Me : Sir 1200m_ (wild guess, actually 950+ it is)
+
+ _Professor 2 : Oh, nice! What is the temperature at night?_
+
+ _Me : 20° I think sir._
+
+ _Professor 3 : Haha, We never get that in summer here!_
+
+ _Professor 1 : Why did you come this far to study?_
+
+ _Me : I wanted IIT Delhi sir._
+
+ _Professor 1 : Why no colleges there?_
+
+ _Me : My first and last choice was IIT Delhi sir._
+
+ _Professor 2 : Okay, tell me what is outcrop, Strike and unconformities?_
+
+ _Me_ : (answered about unconformities) _I don't know others sir._
+
+ _Professor 3 : Tell me honestly, did you study about this topic or not? Tell
+me what you know atleast._
+
+ _Me_ : (I told about the subjects I am going to study in mtech in that
+programme, which I checked just before interview) . _I know this much ma'am ,
+but I came prepared for mathematics ma'am!_
+
+ _Professor 1 : Okay My mathematics days are over!_ (taking a book from side
+and wrote a problem involving triple integration and asked me to solve, I
+pretty much know that professor was well versed in mathematics too! But he was
+tricking me) _Go here, solve this!_
+
+ _Me_ : (started to solve,did 2 steps correctly, he stopped me and said OK
+enough) _but sir._
+
+ _Professor 1 : You may leave, interview is over._
+
+ _Me : Sir, but I can solve._
+
+ _Professor 3 : It's over. Send me the next candidate._
+
+As I started to move out,
+
+ _Professor 1 : Look, you have to learn to face 30° nights for the next 2
+years in summers!_
+
+Me : (Just smiled at them) (Inside, I felt like, thanks for the sarcasm and I
+have already had this at Madras)
+
+And left the building and reached room and a long nap after food. Woke up and
+thought ‘ **Delhi bhi aukat ki bahar** ’ and started to chill thinking about
+Roorkee.
+
+And next day also, I stayed in IIT Delhi hostel, and after that I booked 3
+days at hotel to fill the gap between Roorkee and Delhi dates.
+
+Next day evening, results were out! Guess what, I was selected! I can't even
+believe that, how did I make it!? I was very happy, those professors really
+liked my approach and my intent of joining Delhi, even the better rankers
+couldn't make it! I didn't think other things, just started to read about IITD
+on quora.
+
+Next day, I went to Gurgaon and met my friend, and went to Pizza Hut with her.
+I came to hotel that evening, and oh man, AC gave me a new life there! And
+watched South Africa vs England match! Next day, I went to India Gate,
+Humayun's tomb and aksharadham, I was exhausted and reached the hotel. Next
+day I went to palika bazaar and involved in bargain game and didn't buy a
+thing. In the evening, I met my other friend and roamed in connaught place,
+and reached hotel very late. I wasn't feeling well, I was drinking about 6
+ltrs water but water output was low, I phoned my doctor and he said that I
+have to make my way back, as fragments of stones maybe causing problem. As I
+got a shot in Delhi, I decided to leave all the IITs atleast for others, and
+unfortunately I had no choice to make my way back, I went to travel agent to
+look for flight and there was no seat available in economy class, so he
+insisted me on tatkal train ticket and to my luck, I got a train from
+Nizamuddin to Bangalore! Happily, I did shopping and enjoyed all the foods of
+Delhi and next day morning I made my way to Karnataka!
+
+I didn't try any interviews after that, I am happy with this, whatsoever!
+Sorry for the long answer, hope you have some idea, how things go in mtech
+interview! Thank you for reading my non-sense stuff! I forgot to mention, I
+was not selected in IITM MS but waitlist is yet to be announced, fingers
+crossed! But not going to Madras though, I want my name just for my
+satisfaction :)
+
+Thank you! Cheers :)
+
+Edit 1 : Finally I got a seat in IIT Bombay and got admission on 07.07.2017
+through spot round! I feel I'm very very lucky to get my dream place :)
+
+
+##########
+**LONG ANSWER AHEAD : IISc and IIT D interview experience EC branch**
+
+ **IISc :**
+
+![](https://qph.fs.quoracdn.net/main-qimg-7660466e058775f999d3aeda7f92e67a)
+
+So on 22nd I wrote written test for VLSI and ESE .
+
+ **Test type : Descriptive . Logic and steps matters , final answer doesn’t.**
+
+ _ESE Written test questions :_
+
+![](https://qph.fs.quoracdn.net/main-qimg-c0a198a324bd3ec236b55fd5aa5f972c)
+
+Image taken from my youtube video series [My IISc INTERVIEW Experience -
+YouTube](https://www.youtube.com/playlist?list=PLpdrqkhk4i42-wg9jXUSziw0fFDjTtr2v)
+.
+
+ **NOT SHORTLISTED .**
+
+ _VLSI Written test questions :_
+
+  1. Energy vs Momentum of Free Particle and Particle in a infinite square potential well
+  2. Fermi level and fermi energy
+  3. Given non Linear element with operating points V1,I1 V2,I2 …..Vn,In   
+What is the easiest way to measure the loop current . (Supply and a Resistor
+is given
+
+  4. Design a state machine for 101 ,1010
+  5. 3 bit numbers a>b comparator design
+  6. Internal Block of 555 is given. Explain astable operation. Derive f. What happens when R is changed C is changed .
+  7. Circuit under test has 5 analog voltage outputs. Single Channel input ADC is given. All 5 voltages have to be converted to Digital values.   
+We are provided with 5 analog switches (implemented as transmission gates )
+and 5 D flip flops
+
+  8. 5 inverter ring oscillator setup given . Inverter implemented using CMOS . Device parameters given . Find f
+  9. Interfacing between 3.3V NOR and 5v NAND is asked. Provided with Voh Vol Vih Vil .
+
+ **RESULT :SHORTLISTED .  
+** Approx 120 students were called for interview
+
+Single professor . 4 panels.
+
+Interview questions :
+
+General : College , rank , why not job , why not psu , why drop year
+
+  * Draw the graph of x e^-x sin x
+  * Voltage gain of 2 CMOS configurations ( in both PMOS had ro)
+  * High frequency analysis causes what ? Derive miller effect
+  * Transient and conservation of charge with 2 capacitors and 1 resistor
+
+Answered all questions with / without help of professor.
+
+ **RESULT : Offered seat in COAP round 1. (My 1st preference)**
+
+ _Signal processing Interview Questions_
+
+![](https://qph.fs.quoracdn.net/main-qimg-eaa9c2fffd451d351f02cff51e14d982)
+
+Communication and Networks Interview Questions :
+
+![](https://qph.fs.quoracdn.net/main-qimg-799ffb8e7af3a2773a0feb000fdc5823)
+
+ **IIT Delhi Experience :**
+
+ _VDTT programme : (Around 100 people were called)_
+
+  *  _Basic C programming and algorithms test (20 minutes)_
+
+  1. Sorting Algorithms (time complexity)
+  2. a b ‘n’ element arrays if merged into 2n elements how long does it take to execute ?
+  3. A is n element array from 0 to n-1 how many iterations to sort?
+  4. C output logical and , functions
+  5. Recursive function based output question
+  6. Power calculator based condition question
+  7. Base 7 number conversion
+  8. 2s complement
+  9. A number Divisible by 3 or 5 or 7
+
+  *  _2nd written test which consists of 5 subjective questions_
+
+1.RC circuit, CR circuit. output for Pulse input.
+
+2.Metal- n-si p-si junction CV graph
+
+3.Cmos inverter
+
+Vin is 0 to 1s ramp ,1 to 2s 5 V , 2 to 3s ramp down
+
+Sketch i(t)
+
+4\. Ax=λx
+
+λ1 ,x1. λ2,x2 given
+
+Evaluate (A+AT) (x1+2x2)
+
+5.Second order linear DE given. Solve using circuit.
+
+  * Followed by professor interview.
+
+  1. NI amplifier expression
+  2. R changed to L what happens
+  3. Inverting amplifier draw and Ri Ro
+  4. Laplace transform proof of dx/dt
+  5. Looking through the source what is the impedance if Drain resistance is inf,0, finite
+
+ **Shortlisted for Sponsors Interview (45 people)**
+
+![](https://qph.fs.quoracdn.net/main-qimg-f929b89f0c4096d27913cf2724722dce)
+
+ ** _Cadence Interview (ML profile) :_**
+
+Why cadence
+
+Programming classes ,polymorphism, inheritance
+
+  1. Array consists of N+1 elements 1….N one number twice
+
+How to find duplicate
+
+2\. If any number is there in array in any order twice and one number occurs
+once
+
+How to find single time number
+
+ML basics : Being an EC student I am not in touch with programming concepts
+and I don’t know the basics of ML . But fortunately few days before the
+interview , I had seen a Youtube Series on the basics by one of my favourite
+creators : **3Blue1Brown** [Neural networks -
+YouTube](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
+
+So I explained the basic concepts .
+
+ _Participated in a 2nd round (HR)_
+
+ ** _AURA SEMICONDUCTOR (analog , rf)_**
+
+  1. Ro, Cl given for Nmos Common Source Amplifier.  
+Draw the Bode plot , what happens if Ro is high , gm is low and so on. Gain
+increases , gain decreases,what happens to the plot.
+
+  2. A circuit with 1V 1 ohm S1 1H llel S2 1F is given . Transitent conditions for switches is given .Tank circuit, Amplitude ,Oscillation explanation asked.
+  3. 2 NMOS circuit. Output impedance from Drain of 1st Mos
+  4. Tank 10^6 incoming water for 30 days.10^5 outgoing all time. How long does the city sustain .
+
+ _Got a call regarding tentative list and when I would be able to pay the fee,
+Cadence had tentatively selected me._
+
+ ** _IIT D , IEC interview:_**
+
+Written test questions
+
+MOS CAP , QV Graph
+
+Mealy circuit
+
+ADC-DAC (Sampling question)
+
+NI amplifier and schmitt trigger waveforms.
+
+ _Interview was based on these questions._
+
+Final Result : Didn’t wait for Round 2 (ie participation of IITD , IIT K)
+
+![](https://qph.fs.quoracdn.net/main-qimg-4792201f834eac0713116b053e2374b5)
+
+
+##########
+[Interview Experience for IIT BOMBAY (EN) and IIT DELHI (JES) Mtech Program in
+ENERGY ENGINEERING from Electrical Engineer’s Point Of
+View.](https://travelingelectron.wordpress.com/2016/06/11/interview-
+experience-for-iit-bombay-en-and-iit-delhi-jes-mtech-program-in-energy-
+engineering-from-electrical-engineers-point-of-view/)
+
+
+##########
+For Computer Science Only:  
+  
+You can find the below experiences of mine :
+
+IIT Bombay (M Tech RA) (2016) :  
+[http://www.techtud.com/bl…/iitb-ra-interview-
+experience-2016](http://www.techtud.com/blog/iitb-ra-interview-
+experience-2016)
+
+IIT Madras (MS) (2016):  
+[http://www.techtud.com/…/ms-interview-experience-iitm-
+ms-20…](http://www.techtud.com/blog/ms-interview-experience-iitm-ms-2016)
+
+IIT Hyderabad (M.Tech TA)(2016):  
+[http://www.techtud.com/blog/iith...](http://www.techtud.com/blog/iith-ta-
+round-2-2016)
+
+IIT Hyderabad (M.Tech RA)(2016):  
+[http://www.techtud.com/blog/iith...](http://www.techtud.com/blog/iith-ra-
+interview-2016)
+
+IIT Delhi (M.Tech TA) (2017):  
+[http://www.techtud.com/…/mtech-interview-experience-iit-
+del…](http://www.techtud.com/blog/mtech-interview-experience-iit-delhi-2017)  
+IIT Kanpur (M.Tech TA) (2017):  
+[http://www.techtud.com/…/mtech-admission-process-
+experience…](http://www.techtud.com/blog/mtech-admission-process-experience-
+iit-kanpur-2017)
+
+
+##########
+I got interview calls from
+
+ **1\. IIT Delhi for M.Tech in Computer Technology**
+
+ **2\. IIT Bombay for M.Tech in Geo informatics.**
+
+ **3\. IISc for M.Tech in Smart Manufacturing**
+
+ **IIT Delhi**
+
+They conducted the interviews at lecture hall complex, which was magnificent.
+The TAs were very supportive as I had to catch a flight in the evening and
+hence asked them to schedule my interview as soon as possible. As I entered
+the room, there were 3 panels, one for people from electrical background, one
+for people from electronics background and one for, i guess, people from
+Computer Science background. In my panel there were two professors.
+
+Professor 1 : What subjects have you studied?
+
+Me : Sir, Network, control, signal and systems…
+
+Professor 1: Signal and systems? You have studied? Ok..
+
+After that he asked me the following questions:
+
+  1. What is an LTI System?
+  2. What is that thing on the basis of which we can distinguish two LTI system?
+  3. Define Transfer function. Not using Laplace transform but using impulse response.
+  4. Given an impulse response, how do you find response for any other input. I said convolution. Then he asked me to write it. Then he asked me how can i say that this is the output. I told him that there is a proof that I don’t remember exactly.
+  5. Then he asked me to take a discrete system.. and well well well, he guided me to the end of proof. I was not able to believe that I did it by myself. The way he guided was strangely awesome.
+  6. Then they asked me few questions from mathematics and control.
+
+ **IIT Bombay**
+
+Here there was a written test also for GNR. It consisted of 2 parts. Part A
+was all aptitude. And part B contained questions from Maths, signals and
+system, communication.
+
+There were 2 professors in my panel. The one asked few questions from
+mathematics like  
+What is Gaussian curve? What is bayes’ theoram?
+
+The other professor asked few questions from signal and systems:
+
+Asked me about nyquist criteria? Drew a perfect sinusoidal signal and asked to
+find the Fourier spectrum? Then sampled it at nyquist rate and draw the
+sampled curve. Then if it can be restored back perfectly if it is sampled at
+this rate.
+
+ **IISc Bangalore**
+
+It was related to smart manufacturing.  
+They asked me the approach to design a temperature control system which can
+adjust temperature according to the need of the human being automatically.
+
+I tried to answer using temperature sensor and fuzzy logic (as I used it
+during 4th Bachelors project).
+
+Another question was from mathematics. A 4*4 matrix. All 1s. And then asked
+what would be the rank? What will be eigen values?
+
+Verdict : IISc selected. IIT Delhi selected. IIT Bombay - Not selected till
+now. Waiting for other rounds.
+
+
+##########
+Mine was of IITB for Structural Engineering.
+
+To be called for interview, we need to clear the written test first.
+
+I didn't study anything after knowing my gate marks through response as I
+assured myself that I would get one of the old iits structural engineeing.
+LAZYNESS at PEAKS. Happens with many.
+
+Like all other aspirants I also attended the written test. I felt it was quite
+easy as my basics were quite good. But I didn't satisfy, as I didn't attempt
+an easiest question of 10marks, which could be solved just by formula
+substitution. Result of the LAZYNESS..I forgot lengthy formulae.
+
+Though I didn't regret, I just felt like,” I didn't prepare well, so I don't
+deserved to be qualified the written test”..
+
+But I attempted all other questions absolutely well except the easiest one.
+So, I was feeling very low about qualifying the test.
+
+After the written test, I went to hostel 16 along with my peers. And, decided
+myself that I would not qualify and started thinking of travelling to guwahati
+for counselling.
+
+Meanwhile, all my peers went to check the written result. I called one of my
+friends and asked him to check if my name was on the list to attend interview.
+He said “NO”..
+
+I felt a bit sad. And started thinking of packing the luggage. But after
+20minutes, I just thought that why I should not check the list again with my
+naked eyes..
+
+Immediately, rushed to the academic area where the written results were being
+shown in the notice board. And, I started checking the names one by one from
+top, simultaneously my heart was beating super fast.
+
+As going down along the names one by one..BOOM..my name was on the list.. I
+was on cloud nine..and scolded my friend mildly for checking the list blindly.
+
+Immeadialty rushed back to my room as the interview would start in next five
+minutes. Dressed up in formals and moved back to the interview arena.
+
+After waiting for nearly 1.5 hours I was called in for the interview.
+
+Interview was purely technical. They asked exactly 3questions. This is same to
+everyone. The questions were of good standard. I answered well..hope they were
+correct too..
+
+ **Result** : you know it.
+
+Lessons learnt :
+
+1) Never ask anybody to check your names whether they are on the list or not.
+
+2) Attend as many interviews as possible, that will really give great
+experience and you will get to know some good standard questions.
+
+Overall my experience was really good.
+
+Thank you.
+
+
+##########
+I attended interview only in **IIT Delhi** for **_IEC_** (integrated
+electronics and circuit), as most of the IITs gave direct admission offer to
+me.
+
+The GATE score cutoff for this was 800 for General. All the students were
+sitting inside a class waiting for their turn. When my turn came I went inside
+the room and I saw around 4–5 professors each taking interview of 1 or 2
+students at a time.
+
+>  **INTERVIEW questions**
+
+ _Firstly, they asked me why do you want to do this course and about my
+favorite subjects._
+
+I calmly handled this question and told him about my favorite subject i.e
+**analog circuits** .
+
+ _Then he took a white sheet of paper and drew a passive RC low pass network
+and asked me if the input is a pulse waveform of duration 1sec then draw its
+output waveform without using any mathematical calculations._
+
+After that, he added a resistor in parallel with capacitor and asked me to do
+the same without maths.
+
+> After solving these two problems he said “let's see how far you can go” :-D
+
+ _Then he again took the normal RC low pass network and added a capacitor in
+parallel with resistor, with same pulse input he asked me the same to draw the
+output waveform_.
+
+This question took time as I was not allowed to use any mathematical analysis.
+
+ _After this, he asked me to draw the cross section view of MOSFET._
+
+At last he asked me to draw the output characteristics of MOSFET for different
+values of Vgs and the relation between them.
+
+ **RESULT** :- _Selected_
+
+
+##########
+I am a final year student.
+
+Qualified **Gate 18**
+
+ **Rank 1516**
+
+Category **OBC**
+
+ **Gate score : 586**
+
+I got interview call from :
+
+ **IIT KGP IITGN IITK(SPCOM) IITB (RA)**
+
+Due to my semester exam, I was unable to attend any interview (Except IITGN).
+
+So I decided to leave any one midsem exam & attend atleast one interview of
+IIT.
+
+I decided to go first **IITK,** Interview was on 4th of may.
+
+At the evening, I was called for interview, there was a panel of 3 faculty
+members.
+
+Prof Aditya K. Jagannatham **(NPTEL Communication)** , Prof R.K. Bansal , Prof
+X ( Maths)
+
+First they ask me general question :
+
+My introduction
+
+Why do you want to do m.tech. & also in this specialization ?
+
+Tell me about your B.tech. College
+
+ **After this Main interview begins :**
+
+Prof A: Tell me about Communication in a general way .
+
+First I told what is the need of communication then I explained about Tx Rx
+Block Diagram.
+
+Prof A: What type of errors occur in communication ?
+
+Prof A : Tell about Probability of error
+
+After this They asked few questions based on probabilty (Binomial
+Distribution)
+
+Then he asked me about Signals​ & Systems​.
+
+Now they switched to maths :
+
+Prof X: What is the meaning of eigen value & eigen vector?
+
+I explained in a mathematical way but they were not satisfied
+
+Prof X: Physical significance of eigen value & eigen vector
+
+Ok…Sir If there is a eigen vector on a plane with some magnitude let us assume
+**j2** in which **2** tells about its eigen value where **j** tells about the
+direction  & this is a eigen vector, If we shrink the plane then eigen value
+may change but its direction will be same ,like this i was explaning as i
+studied this answer on Quora :P
+
+Prof X: Write a 2×2 matrix & find its eigen value , eigen vector .
+
+ **Interview Over ! Thank you**
+
+ **IITGN**
+
+Written stage : Aptitude & english
+
+Not qualified for Interview !
+
+ ** _Finally ,_**
+
+ **Selected At IITK (SPCOM)**
+
+
+##########
+I attended VLSI Interview in IITk, IITD, Communications Interview in IITD :-
+
+  1. Analog circuits
+  2. Electronic Devices (EDC)
+  3. Digital Electronics (flip-flops , state diagrams )
+
+In IIT Kanpur Interview they gave me the choice & asked me to choose either
+analog circuits or EDC . So,I told EDC and Interview went entirely based on my
+input !
+
+In IIT Delhi Interview no choices like that, but all questions from analog
+circuits , digital electronics .
+
+ **P.S : Revising those 3 subjects before Interview will help u a lot.**
+
+In IITD Communications Interview, mostly questions are from Probablity, Few
+questions from Noise concept of communication. Others from digital modulation
+techniques
+
+
+##########

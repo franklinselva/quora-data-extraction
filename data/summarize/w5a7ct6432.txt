@@ -1,0 +1,593 @@
+I have recently qualified for the TCS through the off campus mode conducted in
+the year 2016 so i will share maximum of my experience **in case you need more
+do comment-**
+
+First thing First -( **1,)The Mail Writing (or verbal)and the Aptitude Test-**
+
+Following points are worth noting in case of mail writing don't miss any of
+the given points it can lead you to elimination-
+
+  *  **Format of Mail** -You will be asked to write a mail on the given topic using all the words given in the question in a time slot of 10 mins.
+  *  **Don't miss a single word**.
+  * As mail will be evaluated by machine so try to keep the format of t **ense unchanged like if a given word is "COMPLAIN" then use it in the following manner-"** ** _He have a complain for you"_** **not in the format "** ** _He is complaining"._**
+  * You don't have to write the subject so never waste your time in that.
+  *  **Receiver and sender name is must.**
+  *  **Proper salutation to sender must be included.**
+  *  **The most important part -Minimum of 50 words is required for evaluation below which can lead you to elimination.**
+  *  **It is not mentioned anywhere but try to complete the mail in 65-70 words for better Grades.**
+  * Never take mail writing casually .Never think it is a simple mail writing i can do it without any preparation.I have seen people scoring good in aptitude but failing drastically in mail writing. Remember 10 mins only
+  *  **Once 10 mins are over you will be not allowed to revisit the mail part so what ever you do in 10 mins will be final and you will be automatically redirected to aptitude part.**
+  * One more important -There will be a **save button on the screen so while writing the mail keep on saving.**
+
+Link for having an overview the of mail witting-Do practise
+all-[http://etest.programminggeek.in/...](http://etest.programminggeek.in/exam/tcs/verbal)
+
+Aptitude Part-
+
+Once you are done with Verbal Part you will be redirected to Aptitude part-
+
+28 QUESTIONS OF EQUAL MARKS WITH NEGATIVE MARKING +2 STAR QUESTIONS OF HIGHER
+MARKS ALONG WITH NEGATIVE MARKING.
+
+Disclaimer-No body knows what is the marks weight age of questions i.e whether
+it is of 1 marks ,2 marks or any other so try to avoid any marks distribution
+rumor.
+
+The time allocated for this section will be 80 mins.
+
+Important Topics for this part are-Number system, Equations, Ratio and
+Proportion, Percentages, Profit and Loss, Time and Work, Time speed Distance,
+Areas and Mensuration, Averages, Permutations and Combinations, Probability,
+Plane geometry, Seating Arrangements, Sets, Progressions.
+
+What to do for clearing TCS apti-
+
+  1. Solve all the test papers given in the campus gate portal and on [Free Mock Tests Online Tests and more...](http://testpot.com) -[TCS Aptitude test syllabus and test pattern](http://www.campusgate.co.in/2015/05/tcs-syllabus-important-topics-for-aptitude-written-test-pattern.html)
+  2. Never assume questions will be directly asked form the sets given anywhere on the internet but rather try to focus on the concept building.Avoid mugging the questions.
+  3.  **No body knows the cutoff so try to solve maximum of them. Solving 18 questions or rather saying 24 will do is just an illusion all depends on type of questions.**
+
+ **On screen Calculator will be provided in this part also Candidates have the
+option of taking scientific calculator with them**.(use them widely very
+helpful).
+
+Majority of candidates will be eliminated in this round now comes the
+interview part-
+
+Interviews will be face to face comprising of three rounds.
+
+1.TR+MR
+
+[2.HR](http://2.hr)
+
+From here on no hard and fast rule how to clear this part but some worthy
+points to be keep in mind are-
+
+FOR TECHNICAL PART-
+
+  * YOUR CV IS YOUR FACE SO DETAILS GIVEN IN THE CV SHOULD BE 100% PERCENT TRUE.
+  * Never give any superfluous information in the CV just in wake of showing them that you know a lot of things.
+  *  **Be ready with your project details.Questions like "what was your role in project" "why did you used xyz software for this" ...you may be asked to write the codes for your project.**
+  *  **Basic coding like swapping prime number ,palindrome ,string,linked list,stack,queue can be asked . So be ready.**
+  * SQL queries are often asked.
+  * Basics of IT subjects should be mirror cleared.
+  * Your favorite subject may be asked.
+
+ **Dressing matter. So have proper dress up with a good personality i.e your
+look should have an insight of professionalism.**
+
+For MR & HR part-
+
+Totally depend on the person taking it.
+
+1.)Have the proper knowledge of our HOBBY and likes.
+
+2.)Professional communication skills is required
+
+3.)Proper grip on English Language is [must. No](http://must.no) compromise on
+that.
+
+4')Know TCS well its founder,CEO,Chairman ,profit etc.
+
+If u follow all the above points you are sure to become a TCSier and pree
+upvote if you like the content.
+
+
+##########
+Technically, you should do adequate practice for tests, algorithms/tech
+puzzles…
+
+Prepare yourself well before going for any test/interview.
+
+For non-technical questions, the following will help:
+
+Interviewers primarily evaluate the following:
+
+1\. Does this candidate have the **knowledge** and **experience** required for
+producing results as per the job requirement? (This is the reason why they
+probe into the projects completed by you.)
+
+2\. Can this candidate **consistently** produce the expected results if
+selected? (This is the reason why many organizations say they want consistent
+60+ in at least 6 or 7 out of 8 semesters.)
+
+3\. Is this candidate the **best fit** out of the candidates shortlisted for
+the position?
+
+4\. Will this candidate **gel well** with the team and the organization after
+he/she joins? (They also try to gauge if you are a loner / solo performer or a
+team player.)
+
+5\. Does this candidate possess the type of **communication & leadership
+skills** required for the job to be done? (This can be gauged through group
+discussions as well as interviews.)
+
+6\. Does this candidate have a **potential for further growth** in our
+organization or will he/she not be able to grow in our organization because of
+his/her limited capabilities/potential?
+
+\-----------------------------------------------------------------------------------
+
+You should go well prepared for any interview if you want to get selected.
+
+Many good candidates are rejected because they don’t handle interviewers &
+their questions well. Sometimes they blurt out something they should not say.
+
+There are some Dos & Don’ts to follow when you appear for an interview. The
+same are listed below. Also, some frequently asked questions with suggested
+answers are stated below.
+
+ **1\. Don't try to do anything unusual to impress the interviewers.** (If you
+try to do something unusual, then it may look a bit odd and may work against
+you.)
+
+ **2\. As the first impression definitely counts, dress well for all your
+interviews**. Don't take dressing casually for any of the interviews. Not even
+for the 2nd,3rd or ... th interview in a company.
+
+ **3\. Recommended dress code** : Well ironed full sleeve shirt (preferably
+plain white or light), dark trousers, shoes. Short, trimmed hair. For women,
+any conservative formal dress like Punjabi Dress is okay. (Dress for the job
+for which you are going to be interviewed. If you are a software engineer and
+you are going for a marketing job, then dress like a marketing person.)
+
+ **4\. Give respect & importance to all panel members even if some of them are
+silent**. Remember that all panel members give their rating. Sometimes, the
+most silent or unimpressive person in a panel is the most important person.
+Only those people are selected who are liked by the panel members. (Remember,
+out of many technically equal candidates, only those who are liked by panel
+members are selected.)
+
+ **> > You should show your ‘I can do it’ / ‘I will do it’ attitude throughout
+your interview.** You should not say things like ‘I am not sure’/ ‘I will try’
+as these indicate that you are not likely to take responsibility for your on-
+the-job performance. If you indicate that you are not sure and you are not
+confident about producing results, then why should an interviewer select you?
+
+5\. PREPARE YOUR ANSWERS IN ADVANCE to these typical questions:
+
+ **a. 'Tell us something about yourself'** :
+
+Tell only positive things about yourself in 10-20 sentences. Your education,
+experience, something that you are good at... Make sure that whatever you say
+highlights those skills which are required for the job for which you are being
+interviewed. Rehearse 5-10 times at home.
+
+ **b. 'Tell us about key projects that you have executed'** :
+
+Make sure that you can explain 4-5 good projects well, including (1) What the
+project was about,(2) Application (like Inventory control, Financial
+accounting, Device driver…),(3) Client name, (4) Industry, (5) Technology, (6)
+Team size, (7) Your role,(8) YOUR contribution, (9) Challenges, (10)
+Highlights...(THIS IS THE MOST IMPORTANT PART in any interview. So, prepare
+yourself well for this part.) Rehearse 5-10 times at home.
+
+ **c. 'Why would you like to join our company?'** :
+
+Before going for an interview, Study the company's website well. Try to
+understand what they do, How they are different, Read some latest press
+releases which are normally available on company websites. Based on these, you
+will know what you find interesting about the company... You should know the
+following if you are going for a technical interview (1) Company’s exact name
+(as many companies in the same business group have similar sounding names)
+(2)What are its products & services? (3) Which products/services are of
+interest to you?
+
+IF you are going for a marketing/finance… interview, then you should know (4)
+CEOs name (5) Names of prominent individuals, if any, on the board of
+directors (6) Total Revenue (7) Profitability (8) Information stated in the
+latest press releases which are typically available on company website
+(9)Competing companies………
+
+ **d. 'Why do you want to leave your current company?':** Have a logical
+answer for this. Don't say 'For better prospects' or 'For a higher salary'.
+Talk more about the work content that you are looking for.
+
+ **e. For each job-switch in the past, you should be able to give a 'logical
+reason for leaving and joining'.** But, Don't criticize your past/present
+company or boss.
+
+ **f. For each gap in your education and job, you should have a
+justification.**
+
+ **g. 'On which technologies you would like to work?':** You may like to ask
+them about the kind of technologies being used by the company and then talk
+about which technologies would interest you and why?
+
+ **h. 'What kind of role are you looking for?':** You may like to ask them
+about the kind of roles available and then talk about which roles would
+interest you and why?
+
+ **i. 'What are your strengths?':** Indicate your strengths keeping in mind
+the job for which you are being interviewed.
+
+ **j. 'What are your weaknesses?':** Indicate a weakness which will not come
+in the way of the job for which you are being interviewed. (Like: I am a bit
+emotional compared to my friends.)
+
+ **k. Don't say anything negative about yourself in the interview.**
+
+ **l. 'How much salary do you expect?':.**
+
+Be reasonable when you quote the figure.
+
+Neither quote a low figure nor a very high figure.
+
+You may like to say, I am expecting 15/20/25% hike on my current CTC. (Quote
+whichever percentage you feel is reasonable.)
+
+OR, just say 'as per your company standards' if you are not comfortable
+quoting the figure.
+
+ **m. Prepare well for tests by giving free tests available on the net.**
+
+ **n. What do you see yourself doing after 5 years?**
+
+This is normally asked to know the following:
+
+Are you clear about your career plans & career direction?
+
+or Are you a **directionless person?**
+
+If you are a **directionless person** then your interviewer may not like it.
+
+If you are a person with a direction then he would like to know if your plans
+match with what his company can offer you in the next 5 years. **If there is a
+substantial mismatch then you may not be offered the job.**
+
+Normally, when somebody is employed, we would like him/her to be with our
+company for a long period unless we don’t like him/her attitude or his/her
+work.
+
+So, if you say ‘I want to go for post-graduation in the next year’ or ‘I want
+to start my own business after 2 years’ or if a girl says ‘I am planning to
+get married in the next year.’……….., then the interviewer may reject you as
+the interviewer would like you to be with the company for a long period and
+not just for 1–2 years. Employees start producing substantial results only
+after 1–2 years and so interviewers would like you to be with the company for
+a much longer period than just 1–2 years.
+
+(‘I am planning to get married in the next year.’ can mean that she may have
+to relocate and so may leave because of that reason.)
+
+Please note that employment is almost like a marriage. It is intended to be
+for a long term.
+
+If you start talking about divorce (=leaving) for whatever reasons even before
+getting married, then the interviewer would not feel comfortable with your
+selection.
+
+Your answer to this question could be on these lines: “As I see it, I should
+be a team leader in 2–3 years handling larger projects, and may be a manager
+leading a larger team in 5–6 years.”. Say whatever is reasonably logical.
+
+If you say that you would like to be the General Manager or CEO in 5–6 years,
+then the interviewer would feel that you are a dreamer with unrealistic
+expectations. If you give this impression then the interviewer may not select
+you.
+
+(In reality, you may get quick promotions if your on-the-job-performance is
+very good. But, don’t sound unrealistic/ immature during interviews.)
+
+ **o. What are your hobbies?**
+
+Please note that your hobbies reveal some personality traits of yours.
+
+For some jobs like General Management, Sales, Sr IT / Business Consultancy
+positions etc. you are required to be an extrovert person and a team player
+who is very good in dealing with people, as you are required to deal with
+internal teams and client personnel continuously.
+
+For some other jobs, it does not matter much whether you are an extrovert or
+not. (These are jobs of programmers, mathematicians, research people, clerks…)
+
+Those who play outdoor/group games (which involve interaction with many
+people) are typically considered extroverts / good in dealing with people.
+(Games like cricket, basketball, baseball, hockey, tennis, table tennis……)
+
+Those who play **only** indoor games or have hobbies which don’t require much
+interaction with other people (except for a couple of people in the room) are
+likely to be considered introverts / not so good at dealing with people.
+(Hobbies/ Games like reading, singing, cooking, chess, cards, carom, web
+browsing, facebook, philately……)
+
+So, the hobby highlighted by you should ideally be in line with the job for
+which you have applied, even if it is not your major hobby. Make sure that you
+have adequate knowledge of the game/ hobby as otherwise you will not be able
+to answer questions on the same if asked.
+
+If you do this much, then you will do well in your interviews.
+
+* * *
+
+For Quora members, we plan to conduct 90-minute online training programs.
+
+Would you like to attend any of these training programs, to be conducted using
+Skype or a similar facility, on Saturdays / Sundays?:
+
+(1) ‘How to Get Selected in a Job Interview?’
+
+(2) ‘How to Get Selected in an MBA/BBA Admission Interview?’
+
+(3) ‘How to get a Promotion?’,
+
+(4) ‘How to become an Effective Manager?’,
+
+(5) ‘Preparing to become a CEO’,
+
+(6) ‘How to become better at Selling and exceeding Sales Targets?’,
+
+(7) ‘KBC: How to Build Wealth by investing in Mutual Funds?’,
+
+(8) Many other training programs,
+
+Follow me & communicate with me if you are looking for Career Advancement
+advice.
+
+
+##########
+Well, to brief you out we will have 3 rounds.
+
+  1. Aptitude
+  2. Technical
+  3. HR
+
+One thing is sure we have a lot of material available that can be used to
+prepare for all the above topics.
+
+But, we need to be stragetical to prepare all the topics accordingly and to
+our help many organisations have launched complete courses.
+
+Here comes the question.
+
+ **“What to choose?”**
+
+“Time and Tide waits for none” we may end up wasting time if we end up in
+choosing the wrong lecture.
+
+We at P@cketprep have prepared proper blend of all topics covering all
+required concepts and releasing videos in sequence. If you really wanted to
+prepare for interview I would suggest you to check out our course.
+
+[Prepare for TCS NQT, TCS Ninja and TCS Digital -
+YouTube](https://www.youtube.com/playlist?list=PLPiOSvowot1KAgZMjgn1v1peaJb6Kqt8s)
+
+We have stressed the required topics to enhance your understanding and even
+provides you confidence to move further.
+
+All the best!!
+
+
+##########
+A B Prakash has given a well complete detail answer .Let me add a few points
+to it
+
+1)For Aptitude test In addition to whatever A.B Prakash has mentioned do a
+little RS agarwal apti book + some words from barrons GRE book(Not sure if
+this pattern still exists but it did in 2010)(Will take approx 4 to 5 days)
+
+2)For technical interview make sure you know each and every word written in
+your resume.And brush up your basics ,no one expects you be a master but they
+expect you know some basic concepts like class diagram,UML,different basic
+data structures.(Should take approx 1 week but along with point 1)
+
+3)Make sure you know your projects well .And never ever mention in your
+interview about your further studies plan or your limitations on locations
+.(Example if they ask you if you are ready to transfer to any city in india
+and you say its far off from your home but at the same time if they say for
+location in europe ,america continent and if you say yes then its a red mark)
+
+4)If there is a managerial round it would be on your resume plus behavioural
+so be sure of what you are saying dont panic,if you dont know the answer just
+say no but don’t fake it.
+
+All the best!!
+
+
+##########
+I’m in my final year & got placed in **Tata Consultancy Services (TCS)**[1] in
+August 2018 so I qualify to answer this question.
+
+![](https://qph.fs.quoracdn.net/main-qimg-e4f0ad99004202b48b7061d56cafa610)
+
+TCS campus drive starts pretty early as compared to the other companies. So
+you can expect a drive somewhere in July-August if you’re looking up for
+coming year and so you have plenty of time to work upon yourself.
+
+The selection process this year took place in two steps.
+
+  1. A **“National Qualifier Test”**[2] under which any student irrespective of college backgrounds could appear as long as he/she meets the GPA requirements. This is an aptitude test consisting of following sections.
+
+  *  **Grammar & Vocabulary (10 blanks):** This is quite easy. Try not to lose even a single point here. Until last time it was e-mail writing section but this year they replaced it with objective fill-ins to test your basic grammar skillset.
+  *  **Quantitative problems(15+5)** : You can expect mathematical problems on Ratio and proportions, graph reading, work-time problems, permutation-combination, probability etc. in this section. It is meant to test your application skills. 15 problems are of moderate difficulty whereas around 5 are quite hard to crack.
+  *  **Technical MCQs:** This section could be tricky especially for those who didn’t have data structures in their coursework. You can expect questions of stack, linked lists, queues, trees etc. Even if you don’t have any knowledge of these topics, grab on some youtube tutorial for a couple of weeks prior to test and you’ll be fine.
+  *  **Coding round (1 question):** Here you’ll be asked to code a program to test your logical and programming skills. The programming languages allowed this year were C, Java and Python.
+
+As far as I can interpret from my performance, the possibility of your success
+depends on how well you perform overall without any single section having less
+importance or so. Most importantly, about 80% of all the questions appearing
+shall have **negative marking scheme**. So don’t take chances of marking
+anything unless you’re sure.
+
+After you clear the NQT round (which I’m sure you will) you’ll be called up
+for a personal interview. Applicants of Mumbai can expect a location for
+interview at Yantra Park, Thane.
+
+The interview takes place in three rounds:
+
+  1.  **Technical interview:** My technical interview went on for quite long. I was asked questions on data security, security attacks, RSA algorithm, questions on my B.E project, web technologies: HTML, CSS, JavaScript, data structures: sorting methods, their differences, complexities etc. I was also asked a ton of questions on Object-Oriented Programming (which they’ll ask irrespective of your branch), some questions on topics of my coursework like SDLC, Agile, the diagram of waterfall model. Lastly, I was asked to write just the logic for a program in Java.
+  2.  **Managerial interview:** This one took place along with the technical interview. You can expect questions on work ethics or case-scenarios of some project issue or client conflicts here. Just be mentally awake  & confident and you’ll do fine here.
+  3.  **HR round:** I was pretty bedazzled here. Mostly because I was expecting something like “tell me about yourself” or perhaps your “strengths/weaknesses” but was hit with a python libraries question here out of nowhere. This went quite well later. Prepare for basic questions like short-term goals, long-term goals, fields  & technologies you’ll like to work in. Present the best version of you in this round for getting eliminated here would hurt too bad, deep inside!
+
+After the interviews are done, you can expect results in a week or so through
+your TPO.
+
+Things I liked about the interview process of TCS (Mumbai)
+
+  * Transparency in the selection process.
+  * Friendliness of the entire company staff conducting interviews.
+  * Efficiency in handling such a huge crowd of applicants so effectively. Like there were no candidates walking cluelessly or kept waiting all day. The entire process was fast & impressive.
+
+Hope this helps! I’m also planning to do an entire section on campus
+placements sharing experiences of me & friends placed in other MNCs. You can
+expect information on GDs, writing skills, quants, topics for TR etc. in
+there. It could be a blog or perhaps a YouTube video. Stay tuned to my Quora
+and Instagram for the same.
+
+Image source: Pinterest.[3]
+
+Best wishes until then! You'll do great!
+
+Footnotes
+
+[1] [Tata Consultancy Services | Technology, Digital Solutions,
+Consulting](https://www.tcs.com)
+
+[2] [TCS Democratizes Recruitment to Provide an Equal Opportunity to Young
+Engineers across
+India](https://www.google.co.in/amp/s/www.tcs.com/content/tcs/en/discover-
+tcs/about-us/press-releases/tcs-democratizes-recruitment-provide-equal-
+opportunity-young-engineers-across-india.amp.html)
+
+[3] [TCS looking at scaling to $100m ER&D clients | tech newa in 2018 |
+Pinterest | Latest mobile, Movies and 100m](https://pin.it/fhcm26avf5q6uf)
+
+
+##########
+Like you know, TCS has changed the pattern of the online exam that they used
+to conduct on Day 1. Now it consists of 4 sections with individual sectional
+cutoffs. The four sections comprises of Verbal Ability which includes writing
+a letter. Quantitative Aptitude which consists of Number System, Ratio,
+Percentage, Average, Profit and Loss, Speed Distance Time, Work and Time,
+Cubes, Mensuration etc. The third section comprises of Technical Aptitude
+consisting of C questions, followed by Coding Proficiency.
+
+From a preparation point of view, having a basic knowledge of English is
+sufficient. Go through a standard aptitude book like RS Agarwal to cover the
+Technical aptitude. The book by Kanethkar or websites like Tutorials Point
+should be good enough for the Technical section. Basic coding knowledge with a
+touch of analytical thinking is good enough to get you through the last
+section.
+
+Once you are shortlisted, you will need to appear for three further rounds,
+i.e. Technical, Managerial and HR. Be yourself. Keep calm. Revise your
+projects. Maintain a good CV. Good luck!
+
+
+##########
+GET READY FOR THE HOMEWORK
+
+U can refer to these sites:
+
+ **Campus Gate**
+
+ **India bix**
+
+ **GeekforGeeks**
+
+[Technicalbaba.com -Placement papers, interview, online tests, puzzles,
+coding.](http://technicalbaba.com)
+
+[http://Fresherworld.com](http://fresherworld.com)
+
+ ** _“U can get your dream job by doing this small homework”_**
+
+Search Search Search …for _TCS Placement Papers_ and _Interview Experiences_
+of the candidates regional/colleges wise over these sites.
+……………………………………….although TCS recruitment is not so tough but there may be a
+difference in there patterns like South recruitment team and North recruitment
+team ask diff. level of question…as u should be prepare what they coming for,
+
+U may be an excellent programmer but if lack in fullfiling their demnads they
+will not going to buy u, as i previously said in one of my answer that :
+
+ **“INTERVIEW is a SALE OF YOUR SKILLS”**
+
+[Priya Srivastava's answer to What is the best way to describe yourself in an
+interview?](/What-is-the-best-way-to-describe-yourself-in-an-
+interview/answer/Priya-Srivastava-19)
+
+Yes, your **technical skills** will play a major role while interview,Ur role
+Project Work, programming language and subject of interest.
+
+But along along with these u must have an **Excellent Communication Skills**
+and **Confidence** your answers should be relevant and impressive(good vocab
+will help), Also go for for puzzle questions,Brainstorming questions.
+
+They can counter you with day to day life questions just to check your
+communication skills and confidence level…
+
+ **e.g** Summarize your favourite movie?
+
+For HR round -
+
+  1. Tell me about yourself?
+  2. Why I should hire u?
+  3. Your strengths and weakness(be ready with this u should **5** strong point to explain them).
+  4. Tell me something about TCS?(your [NextStep- Tata Consultancy Services](https://nextstep.tcs.com/campus?geo=VVNB) id will help you).
+
+There are many more questions….
+
+but There are many answers on quora related to query .
+
+And for After joining scenario u can check on [Glassdoor – Get Hired. Love
+Your Job. ](http://glassdoor.com)U can also contact to TCS placed seniors.
+
+All the Best !
+
+e.g
+
+
+##########
+First let me start by telling you that TCS is ranked #64 in the Forbes list
+and they are mass recruiters and I am lucky to be a part of the firm for over
+3 years now. TCS may hire a lot of people but not many make it past the
+training. You either get benched or fired. In order to survive you need to be
+pretty good. TCS again lets you choose the field you want to work in be it
+telecommunication , EIS etc so you should have a basic idea of what you want
+to take up after joining the company. TCS gives you a very good opportunity to
+take up on-site projects. You should be a very strong understanding of the
+basic concepts in your field of specialization. IF YOUR SOFT SKILLS AREN'T
+SOUND I RECOMMEND,YOU WORK ON IT. Once you crack the aptitude round it's
+pretty simple to crack the rounds thereafter. Be confident and be frank to an
+extent. Be ready to answer cliched questions like
+
+1\. Why should we hire you?
+
+2\. Where do you see yourself in 5 years?
+
+3\. What is so unique about you?
+
+4\. What do you bring to the table if we hire you?
+
+TCS has a specific set of topics that they use to test the students/applicants
+on. Make sure you have practiced as many questions as possible. Percentages,
+ratio and proportion, ages and averages, number systems, permutation and
+combination, probability, simple and compound interest, geometry are the main
+concepts that you are tested on as far as the quants section goes. Basic
+vocabulary would do the trick for the verbal section. I was in a similar
+scenario a few years ago and a company called FACE helped me get through the
+placement process. I think you might find this link useful. [TCS Recruitment:
+Most Repeated TCS Aptitude Test Questions | ChalkStreet](http://goo.gl/z1CRwd)
+
+
+##########

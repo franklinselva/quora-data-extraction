@@ -1,0 +1,1867 @@
+*Long Answer Alert*
+
+My UPSC ESE interview was on 8th Aug 2017 in the afternoon session.
+
+I could not sleep properly the night before because of anxiety, and I was
+already feeling heavy in the morning. Could not even eat breakfast, such was
+anxiety taking over me.
+
+Let me give you my background. I have worked with Thornton Tomasetti for 10
+months in Mumbai before my preparation. I worked as a structural engineer but
+was never given any work related to structural engineering. For all those 10
+months I reviewed shop drawings for Hudson Yards Tower A, New York City.
+
+I was skeptical of how what to answer regarding my job, but then I decided, I
+will speak truth, whatever the case may be. Speaking Truth is always easy, you
+don’t have to search for any other reasons for counter questions.
+
+So I reached well in time at UPSC Bhawan. Had my documents verified, waiting
+for my turn to be called. We (group of 6 candidates) learnt there itself that
+our board is headed by **ARVIND SAXENA** Sir.
+
+Saxena Sir is known to ask only technical questions, I somehow felt happy,
+atleast there wont’t be many questions from DAF or Job Profile.
+
+Here to the best of my memory is my interview-
+
+ **Me:** Sir may I come in?
+
+ _No Responses….._
+
+ **Me:** May I come in Sir?
+
+ **AS:** (in a low voice) Yes Namit, you may come in. Have your Seat.
+
+ **Me:** (Bit nervous of facing Saxena Sir) Thank You Sir.
+
+ **AS:** (Going through my DAF) So you are from **Shivpuri,** You studied at
+**IIT Guwahati,** graduated in 2015. You have worked with **Thornton
+Tomaa….setti** , for…. 10 months. What did you do after that?
+
+ **Me:** Sir I was preparing for ESE full time.
+
+ **AS:** What did you do at Thornton Tomasetti
+
+ **Me:** Sir, I worked as shop drawing reviewer. (I said shop drawing reviewer
+intentionally rather than structural engineer, because I could never justify
+my work from structural engineering point of view)
+
+ **AS:** What is shop drawing?
+
+ **Me:** Explained.
+
+ **AS:** Namit, you know, these days we see lot of floods in cities like
+Gurgaon, Mumbai. As a civil engineer what measures would you take?
+
+ **Me:** Sir, these floods mainly happen due to poor drainage, we must improve
+drainage system in these cities.
+
+ **AS** : Yes that is one thing, but think in terms of seepage.
+
+ **Me** : Sir, we must have lot of area covered in vegetation in these cities
+to increase the seepage of water.
+
+ **AS** : Namit, land is very costly, do you think the builders will allow you
+to have vegetation. Suggest me something else.
+
+ **Me** : (series begins here, after a pause of 5 seconds) **Sorry Sir, I
+can’t think anything else**.
+
+ **AS** : These cities are mostly paved, can we do something to increase the
+seepage through these paved roads. Have you heard of porous concrete?
+
+ **Me** : **No Sir**. (although I knew that the answer to his previous
+question is porous concrete, I chose to say NO, because I had no knowledge
+about the materials used in porous concrete)
+
+ **AS** : Have you heard of **Floor area ratio**. Why do you think
+municipality puts a limit to the height of the building for a given plan area?
+
+ **Me** : Sir, I think more the height, more will be floor area, more will be
+occupancy, more will be the responsibility of the municipality to serve the
+people well, water supply, disaster mitigation etc.
+
+ **AS** : Do you think only civil amenities govern it?
+
+ **Me** : **Sorry Sir, I have limited awareness.**
+
+ _He then passes on to the technical advisers, who begin asking me._
+
+To keep it short- Member 1 asked me about contours, catchments, total
+stations, asked me if I knew any software for water resource modelling. Said
+**NO** with confidence. Again asked do you know any software in hydrology,
+again answered with another **confident NO**. Finally asked me what software
+do I know, I answered with SAP 2000, STAAD PRO, Tekla. He said so you know
+softwares related to structural modelling.
+
+ _He then passed it to the second member._
+
+Member 2 asked me about **underwater welding.** Believe me I almost freaked
+out. Replied with a **confident NO**. He tried giving me hints, asked me if I
+know about **Low Hydrogen Flame** , replied with **confident NO**. He then
+asked me if I know about **PMF.** Replied with another **confident NO**. You
+see a series of **NOs….** Then he gave me hints, asked me you might know about
+drainage filters in dams, why do we use them. Answered. He asked me, what are
+they made of. Answered- Sir, geo-textiles, geo-synthetics etc. He said **PMF
+is perforated membrane filter** , which is same as geo-synthetics. I said
+Thank You.
+
+ _Finally the last member begins._
+
+Asked me Bernoulli’s theorem, different types of water supply schemes,
+residual chlorination in water supply. I cannot recall more.
+
+I was awarded **128/200** marks, which is considered a very good score. I
+never expected more than 110–120.
+
+May be you need to have guts to say **NO**. I believe this is what they liked
+in me. Everything that I knew was answered very precisely. Based on this
+experience I would suggest you to be yourself in the interview. Always choose
+to speak truth. Don’t bluff. It is better to say Sorry Sir, I don’t know than
+guessing.
+
+And BTW if you are reading this line, thank you for your patience.
+
+-NJ
+
+
+##########
+This is the first platform where I am sharing my ESE-17 Interview Experience.
+
+DATE : 31 July, 2017
+
+Venue : UPSC, Dholpur House, Shahjahan Road, New Delhi.
+
+Board : Shri Vinay Mittal
+
+ **Background :**
+
+Already appeared for ESE-2016 Interview.
+
+Hobbies:
+
+  1. Reading about Electronics Gadgets and Mobile Technology.
+  2. Cooking North Indian Dishes
+
+Experiences:
+
+  1. AIR-139 in GATE-17 and Selected as Material Management Officer in ONGC
+  2. Organized LAN Gaming
+  3. Team Leader of LAN Gaming Team of Counter Strike
+  4. Badminton
+  5. Some Prizes at college level events.
+
+ **INTERVIEW:**
+
+I was first candidate to be interviewed on first day of ESE-2017 interviews. I
+was told that panel was of Shri. Vinay Mittal and I was made to sit outside
+his office for about 5 minutes. This is the most difficult time of the
+Interview because at this time anxiety will take over you. I tried to remain
+calm and my experience of ESE-16 Interview came very handy. I was called
+inside and peon opened the door for me.
+
+Me: May I come in Sir ?
+
+Vinay Mittal: Yes, Please come in.
+
+(I wished the Chairman and then all the members Good Morning.)
+
+VM: Please take a seat.
+
+(I pulled the chair outside. I tried my best but still a creaking sound came
+:D)
+
+VM: So Sudhanshu, Is this your photo ? (Showing me my photo)
+
+Me: Yes sir.
+
+VM: (Reading my DAF) You have graduated from Beant College of Engineering and
+Technology. Where is this college ?
+
+Me: Sir, it is in Gurdaspur, Punjab.
+
+VM: You completed your B.Tech in 2015. What were you doing since then ?
+
+Me: Sir, I was preparing for Engineering Services.
+
+VM: Ok, Your father is in Railways ?
+
+Me: Yes sir.
+
+VM: You have secured AIR-139 in GATE-2017. What is the significance of this
+AIR-139?
+
+Me: Sir this means I have secured All India Rank - 139 in GATE-2017 which is
+organised by IITs in Electronics branch only.
+
+VM: That means this rank is among Electronics people only. How many people
+appeared in this exam ?
+
+Me: Sir, 1,44,000 candidates appeared in this exam.
+
+VM: Means you got 139 rank among 1,44,000 candidates. That’s great.
+
+Me: Thank You sir (Smiled :D)
+
+VM: You are also selected in ONGC as MM Officer. So why do you want to join
+Engineering Services instead of ONGC ?
+
+Me: Sir, no doubt Petroleum sector is crucial and promising sector, but in
+ONGC I will be working only in limited domain whereas in Engineering Services
+I will get different domains to work on, which is my top priority in career.
+
+VM: Means you want a broader and diverse field to work on. Good.
+
+VM: You have written that you were team leader of Counter Strike team. Please
+tell me something about this ? (I told about Counter Strike). Don’t you think
+this is a hobby which has less benefits and can prove to be a wastage of time
+?
+
+Me: Sir, everything in excess can be harmful, but as proven scientifically and
+also from my personal experience, if computer games are played in a limited
+manner then it can prove to be advantageous.
+
+VM: How ?
+
+Me: Like Decision making skills, Skill of working in pressure, Teamwork and
+Hand Eye coordination can be improved by playing games. Also as I was Team
+Leader of my team, it helped me in improving my Leadership skills.
+
+VM: Ok. As you have written that your hobby is to read about Electronics
+Gadgets and Mobile Tech. tell me about any latest technology for electronic
+gadgets?
+
+Me: Sir, technology like VR, Smart watches, Google Goggles, Amazon Alexa can
+prove to be game changing for electronic gadgets.
+
+VM: Have you heard about Artificial Intelligence(AI) ? What is the concept of
+AI ?
+
+Me: Yes sir. In AI, any machine/computer is designed such that it can learn
+from it’s experience and can take decisions based on those past learnings.
+Hence computer will be Intelligent and can have it’s own thinking ability.
+
+VM: How can a machine learn ?
+
+Me: Sir, it will be achieved by programming computer in such a manner that it
+can save results due to its decision and will use those save results in it’s
+future decisions.
+
+VM: Don’t you think that in a country like India where unemployment is a
+serious issue, a technology like AI can reduce employment ? Can you provide
+any solution for it ?  
+(These types of questions are decisive questions, If you can handle these type
+of questions diplomatically, you are definitely selected)
+
+Me: Yes Sir, AI can reduce employment in India because it can easily replace
+labours. But on the other hand importance and competency of AI cannot be
+ignored. One possible solution can be that we can limit the use of AI in
+industries for eg. We can use AI in those sectors where quality is utmost
+important and we can avoid AI to keep unemployment in control in those sectors
+where quality is not of utmost importance.
+
+VM: What are the examples of these sectors ?
+
+Me: Sir, in field like Defence and Railways, quality is utmost important, so
+AI can prove to be very helpful there. Whereas in sectors dealing with local
+industries, we can limit the use of AI.
+
+(Chairman was satisfied and passed on to technical members)
+
+Member 1: Continuing with previous discussions do you know about machine
+learning language and (said some other weird sounding languages) ?
+
+Me: No mam, I never got the opportunity to learn about AI languages in
+details.
+
+M1: Ok. Do you know about FinFET ?
+
+Me: Yes mam, FinFET is the latest technology used in the manufacturing of
+transistors in chips. In this technology channel is made in the form of a Fin
+and the current flow is controlled from 3 sides.
+
+M1: Why FinFET is preferred over MOSFETs ? What are the disadvantages of
+MOSFET ?
+
+Me: Mam, when making small transistors, after a threshold of about 60nm size,
+short channel effects get so large that it becomes unfeasible to fabricate
+MOSFET of smaller size. Fin shaped channel are better to control, hence FinFET
+is preferred in current technology.
+
+M1: What is the size of current tech? Which company is manufacturing it ?
+
+Me: Current tech is of 10nm size. Company like Samsung, Nvidia and Intel is
+manufacturing it. (I was not sure about Intel, but still I said)
+
+M1: Are you sure about Intel ?
+
+Me: Sorry mam, I am not sure about Intel, but Samsung and Nvidia are
+definitely manufaturing it. (Be ready to accept your mistakes)
+
+M1: As FinFET requires entirely new labs to manufacture them, what will happen
+to the old MOSFET labs ?
+
+Me: (I barely had an Idea about it, but still I tried. But do mention that I
+is from you views and may be wrong also. This will reflect your honesty) Mam I
+am not sure, but I think for cost effective chips, we can manufacture the old
+MOSFET based chips. (M1 was not much satisfied)
+
+M1: Ok. Do you know about Embedded systems? How it is different from
+Computers? Draw an basic diagram of embedded system ? Give an Example. Air
+Conditioner’s temperature control system is an Open loop system or Closed Loop
+? Washing Machine control system is Open or Closed ? Tell some examples of
+microcontrollers ?
+
+(I answered all of them correctly as it was already prepared)
+
+Member 2: Tell me about you B.Tech final year project ? Draw it’s schematic
+diagram? Tell me about your internship ? Tell me difference between LCD and
+LED TV ?? How they are different from old CRT TVs ?
+
+(I told everything as it was already prepared)
+
+M2: Is there any latest development ??
+
+Me: Sir, OLED is the latest development in field of TVs.
+
+M2: Yes, How it is different from conventional LED TVs ?
+
+(I was not sure, but still I told something but I made sure to notify them
+about it, it restricts the interviewer from going deep inside the topic which
+in turn saves you from making an bad impression on chairman as if you do not
+know anything about any topic, it may give an bad impression)
+
+Me: Sir, I am not sure enough, but as far as I can remember, it has some
+Organic matter which helps in reducing power consumption and improves quality.
+
+M2: What is the power consumption of LCD and LED ?
+
+Me: Sir, I dont remember the exact range, but LCD has less power consumption
+than LED.
+
+M2: The why LED is preferred over LCD ?
+
+Me: Because LED provide better output quality than LCD.
+
+M2: Tell me about Power supply (AC to DC) ? Why it is used ? Use of Regulator
+? How the output DC can be again converted back to AC ?
+
+(Already prepared question)
+
+Member 3: What are your favourite subjects ?
+
+Me: Sir, I like Digital Electronics and Control System ?
+
+M3: Any other subject ?
+
+Me: Sir, I like Signal & Systems and Communication?
+
+M3: (Asked me about some basic Fourier Transform and Filtering based questions
+using pen and paper. I answered most of them correctly. Though directly these
+type of questions do not matter much, but helps in making and overall good
+impression)
+
+(Now Chairman again started asking questions)
+
+VM: As you have talked about FinFETs and MOSFETS and short channel effects,
+what are these short channel effects ?
+
+(I explained about high leakage currents in short channel)
+
+VM: How will you explain the Gate of MOSFET to a common person ?
+
+(I explained using the analogy of an normal electrical switch that here that
+switch will be controlled using Gate)
+
+VM: Why we are continuously decreasing the size of Transistors in fabrication
+process ?
+
+(I explained about the reduced power consumption and better speed due to more
+number of transistors.)
+
+VM: Why are we people increasing the speed of chips ? What will we get from
+that ?
+
+(Now, this question was so obvious that as such I never thought about it. When
+Chairman asked third question, I was like “Ohh ! I never thought about it”.
+This was the question on which I was really fumbling. Though eventually I told
+some relevant points, but was not enough and satisfying. So we should always
+keep an eye on very obvious points also)
+
+VM: Ok Sudhanshu. Your Interview is over now.
+
+(This was my longest interview till date. It lasted for about 40 minutes. I
+thanked everyone and stood up. That creaking sound was again produced from
+chair :P)
+
+ **Take-away from my interview:**
+
+  1. Interview is not a test of your technical knowledge (which has already been tested in written stage). Rather it is test of your personality. But your personality is tested from your technical knowledge only. Hence your technical knowledge does play a role but your primary emphasis should be on delivery of your views.
+  2. In interviews sometimes you may be tested by putting you under the stress. Panel may contradict you. They may try to prove you wrong to bring down your confidence. But keep one thing in mind that they will never show their ego or superiority. They are just acting to test you. So be ready for it and always try to be calm and composed in averse situation and always speak in confident but respecting tone. It will definitely improve your final marks.
+  3. UPSC ESE interview will be mostly technical oriented. But they will not ask technical concepts. Rather they will ask you about latest technologies and as a responsible engineer and a future officer of Govt. of India, you should be able analyse all the new technologies i.e you should know that what could be the pros and cons of the technology.
+  4. Your hobbies, interests, extra-co curricular activities and job profile should be prepared thoroughly. Most probably your interview will start from one of these only and may give you an opportunity to start interview on a confident note.
+  5. If you are dropper and have been preparing full time from last 1–2 years for ESE, be confident about that and say it clearly to the panel. UPSC panel will not reduce your marks just because you took a drop and prepared for ESE (rather it may give a positive impression that you have been determinant about your goal). But if your confidence is low due to it then it will hamper your confidence and impression.
+  6. Do not try to bluff the panel. They have more knowledge than you. If you do not know answer of any question, say it clearly. If you have some knowledge and want to try, let them know that you have minimal knowledge about it. Your efforts and honesty will be definitely appreciated.
+  7. I appeared for about 7 interviews in my preparation phase, 2 of them were of UPSC. What I can assure is, USPC interview is best of all and a lot better than PSU interviews. UPSC panel is very polite, most knowledgeable and humble than any other interview panel. So be confident in USPC interview and enjoy the whole process. it is once in a lifetime opportunity.
+
+ **BEST OF LUCK !!**
+
+ **PS:** I got 130/200 marks in my interview.
+
+
+##########
+My Interview experience :
+
+IES Pankaj Gadhave
+
+Stream : Mechanical
+
+M.Tech (Machine Design), IIT Kharagpur
+
+IES Officer, Ministry of Defence,
+
+Government of India.
+
+First and foremost, I will guide you all for the preparation of UPSC ESE
+interview.
+
+At last I will be sharing the questions asked by the UPSC panel to me.
+
+Interview Guidance UPSC ESE :
+
+Interview lasts for approximately 25-30 mins
+
+The Interview panel consists of 4 members out of which -
+
+a) 1 member is from the 11 members of UPSC
+
+b) 3 members are from technical background of respective branch ( Mech, Civil,
+Electrical or Electronics) from renowned colleges ( IITs, NITs) and sometimes
+you can expect a member having Industrial experience as well.
+
+I will divide the Interview into 3 parts -
+
+A) Entrance into the Interview hall
+
+B) Actual Interview
+
+C) Exit
+
+A) Entrance
+
+This part deals with all the basics and very important since its going to
+create first impression on the Interview panel members.
+
+Dont panic when you enter the Interview hall.
+
+Stay cool and calm.
+
+Remember -
+
+a) When you are about to enter the room, ask them, May I come in Sir? They
+will reply, Yes come in.
+
+b) When you enter the room, take care that you should close the door gently
+without making any noise.
+
+When you enter the room, enter completly. Dont just show your face leaving
+your body outside the room.
+
+c) After closing the door gently, walk to your place and wish them Good
+Morning all or Good Afternoon All and please dont sit on the chair until and
+unless they ask you to do so.
+
+d) Decide your dress code properly. If its winter, you can go for a blazer.
+But if its summer, then choose formals which you are comfortable in.
+
+Choose the colours which will not make them feel irritated.
+
+Generally, you can go for Dark Blue trouser and White shirt with a blue tie or
+Black trouser and White shirt.
+
+Dont use strong deodorants which will again make them uncomfortable.
+
+Wear Black polished formal Shoes.
+
+Actual Interview
+
+Remember -
+
+a)The first question will be asked from your DAF ie Detailed application form
+submitted online.
+
+b) DAF will include all your details like SSC, HSC, Bachelors, Masters, Job
+Profile, Hobbies, Extra Curricular, Co-curricular, Family background, Choices
+of Engineering services and Untertaking.
+
+c) First question will be asked by the member of UPSC from your DAF.
+
+Some people can even get questions like, Introduce yourself. Such guys are
+lucky enough because these answers are already prepared before interviews.
+
+d) Remember one thing,
+
+Many people think that Interviews are luck based. They can ask anything, who
+knows ??
+
+This is completely wrong thinking.
+
+According to me, Questions asked in Interviews are from what answers you give
+to the previous questions.
+
+Just an example,
+
+Interviewer - Where do you come from ?
+
+Candidate - I come from the holy place of Saibaba i.e Shirdi.
+
+Interviewer - Why do we call it as a Holy Place ?
+
+Candidate doesnt know what to answer and he ends up screwing himself.
+
+Instead if he wud have answered, "I come from Shirdi", The interviewer will
+stop there itself.
+
+So please remember guys,
+
+Include only those words in your answers, which you feel you are confident
+about.
+
+Include only those concepts which you feel they will ask you for sure and you
+will answer it with much ease.
+
+You are the one who will decide, In which direction your interview shall go.
+
+c) Now about the type of Questions that can be asked in Interview,
+
+IES interviews are mostly 80-20
+
+80% Technical and 20% on General awareness.
+
+Though they never test your tecnical knowledge because they know you are here
+cracking Prelims and Mains.
+
+They check your honest answers, Basic concepts.
+
+If you dont know answers, Please dont try to bluff them.
+
+They are very experienced.
+
+They have taken interviews of many many candidates.
+
+So please stay honest.
+
+Simply say, " Sir, I dont know" or
+
+"Sir, I have read about this but cant recall right now"
+
+They will never torture you.
+
+In fact, Interview panel makes you feel very comfortable and frank so that you
+can answer and recollect your knowledge easily.
+
+But that does not mean you should cheat them. Never do that.
+
+You might feel your interview was awesome, but your marks will make you
+realise, what went wrong.
+
+Questions expected -
+
+a) Prepare your DAF in details.
+
+b) Prepare your M.Tech project and B.Tech projects in detail even if you did
+not do anything in college days.
+
+c) Prepare your Job profile if anyone is working in any private or Government
+organisation.
+
+d) Prepare Current affairs of past 1 month and trending topics.
+
+e) If anyone comes from a historic place or a place which is in news, Prepare
+everything about that.
+
+f) If anyone has bachelors from a organisation with famous Alumni, prepare
+everything about that.
+
+g) Prepare your basic technical subjects and concepts. No need to mug up
+formulae but mandatory that you know the concepts in details.
+
+h) Questions are expected about your Choices of Engineering services. So make
+sure that you visit the official websites of Indian Railways, Indian
+Ordinance, Indian Defense, Border Roads Organisation, Geological Survey of
+India and other depts and not going into details just see what kind of work
+you will be doing or what work goes in these departments.
+
+i) Questions are expected about your Hobbies which you gave in your DAF. So
+mention only those hobbies which you try atleast 2-3 times in a week.
+
+Remember one thing,
+
+While answering the questions, Never try to argue with them. Never try to
+prove them wrong until and unless you are damn 100% sure about your answer.
+
+Never blame the System ie Government policies and measures taken by Government
+because you are going to be the part of that system.
+
+C) Exit
+
+Once you finish your interview, they will ask you to leave.
+
+Gently move the chair backwards, stand up and say them Thank you Sir's and
+start moving.
+
+Open the door without any noise and move outside the room.
+
+I hope this will help you guys a lot.
+
+Questions Asked in my Interview :-
+
+First question comes from the member of UPSC. In my case it was Shri Vinay
+Mittal.
+
+  1. You have done masters from IIT Kharagpur. Tell me about your M.Tech project and how can it be useful in day today life.
+  2. Indian Railways is your first choice. Which type of Engine is used in Diesel locomotives? 4 stroke or 2 stroke?
+
+Shri Vinay Mittal asked other experts to take over.
+
+Member 1 :
+
+  1. What is dry bulb temperature?
+  2. Difference between VCR & VAR?
+  3. Human comfort chart
+  4. Engine used in Marine applications
+
+Member 2 :
+
+  1. Tell me about your hobby of Motivating People?
+  2. B.Tech project
+  3. What is cycle time study?
+  4. What is ABS (Anti skid braking system)
+  5. Basic concepts from Industrial Engineering
+
+Member 3 :
+
+  1. M.Tech project in details.
+  2. Line contact and Point contact with examples. Asked me to draw and write everything.
+  3. Derivations from M.Tech project.
+
+That ended my interview which lasted for 25–30 mins approximately.
+
+While answering questions, kindly maintain eye contact and seek attention of
+every member of panel. Dont just look around while giving answers or dont just
+answer to the member who has asked you question.
+
+Thats it. All the best.
+
+Pankaj Gadhave
+
+IES, Ministry of Defence,
+
+Government of India.
+
+M.Tech (Design), IIT Kharagpur
+
+
+##########
+After submission of DAF ( Detailed Application From), interview schedule was
+declared on 14th July 2017 and interviews started from 31st July 2017 onward.
+**So you will get at least 15+ days from the date of schedule announcement.**
+
+My interview was scheduled on 3rd August 2017. I can't recall exact
+conversation now. But I have list of questions asked which I prepared on the
+same day of interview.
+
+After checking your e-summon and identity card, they allow you in UPSC
+premises. You have to submit all the electronic items before entering the
+central hall, where tea, coffee and biscuits are eagerly waiting for you :P.
+
+You are asked to sit on specific round table, where your document verification
+takes place. They have a random order of interview ( suppose you are 4th in
+the interview schedule published earlier and you be facing the first interview
+of the slot). So, Be ready for this. On your turn, the peon escorts you to the
+interview room and asks you to wait outside till the bell rings.
+
+And, here are my interview questions:
+
+> Panel: Shri Vinay Mittal
+
+>
+
+> Chairman:
+
+>
+
+> From where did you your graduation? Is it private or Government?
+
+>
+
+> What are the moments in your life you feel proud?
+
+>
+
+> Did you appear in Gate? What was your rank? Why did you not join psu?
+
+>
+
+> (I said I was selected in IISc) Why did you not join IISc? In which
+department were you selected? What is done in that Department?
+
+>
+
+> What, apart from studies, you did?
+
+>
+
+> What did you do in Night Marathon ( I mentioned Night Marathon in DAF) in
+which you were volunteered? How time is recorded? How RFID works? How RFID can
+differentiate between thousands of different tags?
+
+>
+
+> How conduction takes place in semiconductor? What is Hole? How current flows
+in semiconductor? Which Field influences motion of electrons and holes? How
+electric field exits? From where to where electron moves (conduction and
+valance band)? What if semiconductor is replaced by copper?
+
+>
+
+> Member 1:
+
+>
+
+> Current is scalar or vector? Current Density is scalar or vector? Why
+Current is scalar and current Density is vector?
+
+>
+
+> Which transistor will you use npn or pnp? Why?
+
+>
+
+> Why mobility of electron in greater than mobility of hole? Why effective
+mass of electron in less than hole? What is rest mass of electron? What is
+effective mass?
+
+>
+
+> What is hole? Is it real or virtual? What is hole current? Is it real or
+virtual? How virtual hole (concept) gives real hole current?
+
+>
+
+> How conduction and valance bands are defined? How current flow takes place
+using conduction and valance band? How electrons move in conduction band and
+holes in valance band?
+
+>
+
+> Member 2:
+
+>
+
+> What is your first service preference?
+
+>
+
+> What job is there for signal engineers? What is name of circuit used for
+detection of train on track? How SCADA is used in railways? Where SCADA is
+used?
+
+>
+
+> What other things can you provide as a signal engineer? Suppose you enter in
+Railway station, what you see? What innovative things can you provide?
+
+>
+
+> Member 3:
+
+>
+
+> How metro token system works? What mechanism is used in doors at entry
+(token based)? What sensors can be used for detecting passenger’s presence?
+How proximity sensor works? How doors are operated? What mechanism is used
+there? Which type of motor can be used? Principle of Servo motor? Is it driven
+by voltage or current? What is motor driver? What is L293D IC? Where it is
+used?
+
+>
+
+> How line follower works? Where it can be used? What are the components of
+line follower? What other than IR can be used as transmitter and receiver?
+
+>
+
+> What are different types of MOSFET? What is MFET? What is depletion and
+enhancement type MOSFET? In depletion type how current varies with voltage?
+Only increased current is possible in depletion type or both increased and
+decreased? What about in enhancement type MOSFET increasing decreasing or
+both?
+
+>
+
+> What is linear IC? Give example of linear IC. What is non-linear IC? Give
+example of non-linear IC.
+
+>
+
+> What digital ICs you used? What does LS stands for? What is Schottky diode?
+Why it is low power? How much is it faster than normal diode?
+
+Overall interview experience was good. It lasted around 25–30 mins.
+
+ **My advice to future IES officers:**
+
+  * Once Mains is over, take a break for couple of weeks. After that **start working on your hobbies** , collect some in-depth information.
+  *  **Major interview preparation is based on the knowledge of current technology and current infrastructure**. But if you loose grip on your basics, you won't feel confident. **So** **revise basic subjects at least once.**
+  * Keep in mind you are human being not Google, so it's alright if you don't know everything. Whenever you don't know, say **NO** with confidence.
+  * Don't be surprised if chairman ( having a non-technical background) starts asking you technical questions and mentioning technical terms. (I was surprised :D)
+  * Always remember this is your personality test. **So bring out the best version of you.**
+
+If you need any other information, let me know in comment.
+
+ **All the best.**
+
+
+##########
+I already answering this questions but on repeatedly asking I will like to
+answer it again. From my experience aspirants can automatically can have get
+some idea how’s ESE UPSC interview like
+
+I will tell you the **brief about my Interview and it’s Panel.**
+
+ **Date of Interview:** \- 11th December 2015
+
+ **Chairman** :- Prof. Hem Chandra Gupta
+
+My interview panel comprises of 3 Specialists from Different reputed college
+which was headed by chairman Prof. H.C. Gupta.
+
+As I am from Civil Engineering Background so all the specialists are from
+civil background
+
+ **Interviewer 1:** \- Specialist in Structure Engineering
+
+ **Interviewer 2:** \- Specialist in Environment Engineering
+
+ **Interviewer 3:-** Specialist in Hydropower and Water Resource Engineering
+(This one was from my college whose name was **Dr. B.K. Samtani** )
+
+Now come on to the main part that is Interview .
+
+The most toughest part for any interviewer is when he was sitting outside the
+chairman’s cabin and the interview of another candidates is going inside the
+chamber of chairman. Literally that was the most difficult time for anyone and
+it feels like that time has been literally stop. and it even feels more when
+you are appearing in a UPSC interview which has it’s own prestige.
+
+I waited almost 25 minutes outside the cabin. And on waiting after 25 minutes
+the red light of Chairmen’s cabin stop glowing and the candidate whose
+interview just finished came outside the cabin. On seeing his expression I am
+in little bit tension because he was sweating even in AC.
+
+Now One men came and take me to inside the cabin for a interview.
+
+ _On entering the Chairmen’s chamber_
+
+ **Chairman** :- Hello Avdhesh have a seat.
+
+ **Me** :- Thanku Sir and _I wish chairmen and all the specialists_ “Good
+Morning Sir“(with smiling face).
+
+ **Chairman:-** So Mr. Avdhesh Meena can you tell me the place where
+earthquake of 11.6 Richter scale has been occurred.
+
+ **Me:-** Yes In beginning only he asked me this question( _But I keep calm
+and answer the question with pose of almost 20 sec._ ) Sir Nowhere in world.
+
+ **Chairman :-** Why ?
+
+ **Me:** \- Sir the instrument that we used to measure earthquake i.e richter
+scale can’t measure beyond 10. And Sir the maximum 9.6 Richter scale
+earthquake came in Chile in 1960.( _I read this 2 week back only )_
+
+ **Chairman :-** (With Smiling face ) How can we measure it using Richter
+Scale ?
+
+ **Me:-** Sir Richter Scale defines magnitude as the logarithm of the ratio of
+the amplitude of the seismic waves to an arbitrary, minor amplitude, as
+recorded on a standardized seismograph at a standard distance.
+
+ _Chairman now seems satisfy with answers so after that he did’t asked any
+further technical questions_
+
+ **Chairman :-** Avdhesh What you learn from your recent job experience that
+is of 10 months according to your DAF _._
+
+Me:- Sir My current job profile is more about managerial skills compared to
+technical skills( As I works as Deputy Manager ) So sir major hurdles for me
+_is to_ ensure that my project will in time . So sir this type of work
+experience help me to learn how can I use your resources in better way. which
+I also consider the major thing in any construction project or for any Civil
+Engineer.
+
+ **Chairman:** \- What is the difference between team games and the game of
+Individual Player.
+
+ **Me:** \- (With a Pose of 5–10 sec) Sir every Individual have different
+capabilities and different potential. So sir team game depends on each and
+every individual capabilities. sir the team which utilizes the capabilities of
+it’s player in best way is the only winner team. And sir in individual player
+game everything will depend on particular individual only. Sir here I like to
+explain with example Sir as like in cricket the team only wins when it’s
+player perform well in all the three field i.e Fielding, bowling and Batting.
+But on games like chess everything depends on particular individual only.
+
+ **Chairman :-** So what about kho-kho ? ( I mention in my DAF that I played
+kho-kho upto state level)
+
+Me:- Sir kho-kho is a team game in which Each team consists of twelve players,
+but only nine players take the field. A match consists of two innings with
+each inning consisting of chasing and running turns of 9 minutes each. One
+team sits on their knees in the middle of the court, in a row, with adjacent 8
+members facing opposite directions. The runners play in the field, three at a
+time and the team that takes the shortest time to touch all the opponents in
+the field, wins. There is a pole on each end and the runner can go between two
+players who are sitting in zig-zag manner, but the chaser is not allowed to
+turn back while running and go between the players. However, the chaser can go
+to the pole and touch it and can go back or towards the other side
+
+Sir Kho-kho is a best example of team game in which it’s performance depend on
+each and every individual.
+
+ **Chairman:-** Why you prefer to play kho-kho while your generation like
+games like cricket and football.
+
+ **Me:-** Sir i done my primary schooling from local government school of
+Rajasthan where still this type games are more popular than cricket and
+football. And Sir I feels that kho-kho is also interesting game like cricket
+and football, the only thing in which it’s lagging is in promotion at national
+and international level.
+
+ _Now Chairman seems fully satisfy and he stop asking further questions and
+asked specialist 1 to ask questions_
+
+ **Specialist 1:-** So Avdhesh can you tell me the design philosophy for
+earthquake resistant structure ?
+
+ **Me:-** _( i was thinking Aaj yeh earthquake mhujhe marwa k hi chodega
+“today this earthquake is going to kill me literally” but I replied with
+confident)_ Sir for earthquake resistant structure be prefer “Strong Column
+and weak beam design philosophy _(As during 2nd year of my college my optional
+subject was Earthquake Engineering only that’s why i recall this )_
+
+ **Specialist 1:-** This means you can allow to break beams ?
+
+ **Me :** \- Sir During Earthquake our main aim is to avoid sudden collapse of
+building as this will lead to if their is column failure so sir for getting
+pre warning of collapsing a structure we can allow to fail beam first compare
+to column.
+
+ **Specialist 1:-** Can we make earthquake Proof Structures .?
+
+ **Me:-** ( _Taking pose of 10–15sec and thinking yeh mere zindagi m
+earthquake aane wala h ab aur earthquake related questions puche to lagne
+waali h kuki full ho gaya h Mera quota ab But I knew the answer that was the
+only relief_ ) Sir we can make the earthquake proof building but that is not
+advisable because it will be costly and unnecessary bulky . So sir it’s better
+if we made earthquake resistant building which give pre warning before failure
+which allow us to escape easily at the time of collapse . __ Sir the most
+important part in designing a building which fall under the earthquake prone
+area is that the at the time of earthquake building will not lead to sudden
+failure. before any structural failure it should will give atleast some
+warning so that losses of life can be avoided . And sir if we are going to
+design for maximum earthquake or we can say earthquake proof building whose
+frequency is once in 150–200 year it’s going to be very costly and sir the
+life of structure that we taken in account is almost about 50–60 years . So
+sit it's not even economical and feasible to make earthquake proof building .
+
+N _ow Specialist 1 tells chairman sir I am done with my questions and now
+chairman asked Specialist 2 to ask me questions ._
+
+ **Specialist 2:-** Avdhesh can you tell me the type of filters and difference
+between them?
+
+ **Me:-** Sir there are generally 2 types of filter 1.) Rapid sand filter 2.)
+Slow Sand filter
+
+Sir their are many criteria on which we distinguish them
+
+1.) Rate of filter is more in rapid sand filter compare to slow sand filter
+
+2.) Improvement of water quality is more in Slow sand filter compare to rapid
+sand filter
+
+3.) Pre treatment requires in rapid sand filter while it not required in slow
+sand filter .
+
+I give 2–3 more points which I am not able to recall currently.
+
+ **Specialist 2:-** Avdhesh you are from Rajasthan can you give me
+disadvantage of Indira Gandhi canal .
+
+ **Me :-** (with a pose of 5–10sec) Sir as such there are mainly advantages of
+it but as some disadvantage which I fells are following
+
+1.) As sir this canal passes through desert area so it will reduce the desert
+portion which is the tourist hub of Rajasthan so it will affect the tourism of
+Rajasthan to some extent
+
+2.) As sir those people who are residing in desert area are not habitant to
+such moist atmosphere so sir this will cause them pron to water born diseases
+easily . As they are not habitant to such moist atmosphere
+
+ _Now Specialist 2 said to Chairman that sir I am done with my questions now
+chairman asked specialist 3 to ask me questions_
+
+ **Specialist 3 :-** ( _The Professor who was from my college who teaches us
+Hydro and we usually bunk his classes_ ) So Avdhesh can you tell me how the
+height of Dam decided .?
+
+ **Me :-** _( Sala ise abhi tak yaad h ki humne iski yahi topic wali class
+bunk maare thi_ But I know answer of this question partially) Sir there are
+many factors on which the height of dam depend some are following
+
+1.) Rate of sedimentation
+
+2.) Bearing Capacity of Soil
+
+3.) Type of Dam
+
+4.) Material of Construction
+
+5.) Purpose of a Dam
+
+ **Specialist 3:-** To kya patal tak bana doge Dam (So can you make dam of
+infinte height ?
+
+ **Me:-** ( _Sala yeh lekar hi rahega ) No_ Sir there are many factors which i
+mention earlier from that we can decide the height of dam and do the the
+further calculations .
+
+ **Specialist 3:-** (He seems not satisfied ) Can you drive the f1/f2 equation
+?
+
+ **Me :-** (I know this very well ) I drive the F1/F2 equation (Civil
+Engineers can understand what I am talking as it’s not easy for me to answer
+this question here. But I drive the equation )
+
+ **Specialist3:-** (Bura sa face bana k ) Avdhesh can you write Navier- Stokes
+Equation ?
+
+ **Me** :- Yes Sir I write it in one paper.
+
+ **Specialist 3:** \- Are you sure this equation you wrote is correct.
+
+ **Me** :- Sir as per my knowledge this is correct. But I like to know any
+correction.
+
+ **Specialist 3** : He than corrected my equation and told to chairman that
+sir I am done with my set of questions.
+
+ **Chairman :-** So Avdhesh Your Interview is over Thank you (with smiling
+face )
+
+ **Me:-** (With Smiling face I wish chairman and all specialists) Thanku very
+much Sir and came outside the chamber and take long breath and thinking (
+_sala khud ka professor_ _he watt na laga de_ )
+
+Duration of my interview is of around 30–35 minutes and somehow I was
+satisfied with my Interview .
+
+And one More thing my Interview is of around 75% Technical and only 25% non
+technical.
+
+#Thanks for reading
+
+#Upvote if you find usefull
+
+
+##########
+I appeared for ESE 2018 interview on 12.09.2018.
+
+Branch - Civil Engineering
+
+Panel - Sathyawathi Ma'am (Ch.)
+
+My interview was in the morning session and I was the 4th candidate for
+interview. There were 3 member (M1, M2, M3) other than chairperson.
+
+I was waiting outside and was very nervous. But as I entered all the
+nervousness was gone. I wished all of them and chairperson asked me to sit.
+
+Ch. - (looking my DAF) madhukant You have got AIR 11 in GATE 2018 exam so
+which college you want to join for M.Tech.
+
+Me - sorry Ma'am I don't want to pursue M.tech . I want to join NHAI through
+GATE.
+
+She was little surprised as she didn't have any idea that PSU/NHAI also
+recruits through GATE exam then one of the Member explained her about it.
+
+Ch. - what is the difference between National Highway and state Highway ??.
+Colour coding for this. And what is the setback in a building.
+
+Then she passed it to the other member.
+
+M1 - There are small pieces of a cylinder and we want to connect these pieces
+and form a new big cylinder. So we will use some material to hold all the
+particles together. Now all the pieces will try to move so there will be some
+stress in Material connecting these pieces. Now tell me how will you find
+stress in material because if we find stress then accordingly we can decide
+the type of material.
+
+(He explained me question for nearly 2–3 minutes, I was just blank. What he
+has asked. I have never heard such type of question. I thought for a minute
+then told him sorry sir, I dont know.)
+
+M1 - There is a party hall and at the end it has a cantilever slab. Authority
+came and told that during party people may come on slab and due to load it may
+collapse as it is not supported on all sides. So he tella you to provide
+support to this cantilever slab now as a civil Engineer what will be your
+decision. ( I answered it and explained him )
+
+M1 - We have to to do the earthwork. What is the process and criteria to
+select Borrow Area and then he asked about field test to check Dry density.
+(Answered)
+
+He passed it to the M2.
+
+M2 - There is a plot nearby a forest fire. Contactor starts building
+construction without considering forest fire. Now all the flats are sold out
+and people starts living in the flats. Now what is happening due to that
+wildfire heat waves are coming and vibrations are generated in building and
+doors are shattering. As a civil engineer now what will you do. There is no
+option to vacate the building and fire can not be controlled.
+
+(I was blank again).
+
+M2 - Hot mix plant is setup on site. There are some critical conditions during
+execution that we have to take care. Tell me those critical conditions.
+
+( I told him 2 conditions but he was not satisfied)
+
+M2 - Draw flexible and rigid pavement cross section .
+
+Now he passed it to M3.
+
+M3 - We have to design a road in snow covered area. What changes will be there
+in design.
+
+M3 - Tell me the type of precipitation and What is catch basin.
+
+M3 - if a road is completely covered with a snow and we have to clean it with
+in minutes for army movement. What will you do.
+
+M3 - 20 Miles is equivalent to how many kilometers . (Till the last I was so
+frustrated that I was not able to answer even this question and he told we are
+done Ma'am).
+
+They asked me to leave. As I started walking , last question answer was
+clicked and I was like shit man …1 minute phle aa jata.
+
+I am able to recall all these queation. This was my one of the worst interview
+experience. I got 104/200 in interview and I secured AIR 62.
+
+Most of the question were related to practical application , Even I had not
+mentioned my work experience. So it was quite unexpected.
+
+I will advise all the candidates to be yourself and don't guess the answer, If
+u don't know it then simply say No.
+
+Thank You.
+
+
+##########
+**ESE 2018 Interview (Electronics and Telecommunication)**
+
+ **Name: Aishwary Anand**
+
+ **Date: 09-Oct-2018**
+
+ **Shift** : Afternoon
+
+ ** _Chairman (CM):_** Retd. Air Marshall A.S. Bhonsale
+
+ ** _Technical Advisors:_** _2 male members (M1 and M2 ) and 1 female (F3)_
+
+I reached the UPSC Bhavan well before time. I was very nervous in the
+beginning. When the Security guard asked me to show my ID proof. Instead of
+showing my pan card I showed them Delhi Metro Smart Card. After entering the
+UPSC Bhavan, documents verification began and I got to know that I was the
+second person to be interviewed after lunch on that day.
+
+Outside UPSC Bhavan I got to know that Bhonsale sir was on leave the day
+before my interview but when I went inside I got to know that he was present
+so I felt relaxed because I had heard good reviews of Bhonsale Sir.
+
+I was waiting for my interview and after some time the peon came. He escorted
+me to the interview room. The bell rang, After taking a deep breath, I went
+inside.
+
+ **Interview:**
+
+ **Me** - __ May I come in, Sir?
+
+ **Chairman** \- Yes, come in.
+
+(I walked towards the chair and stood near it and wished everyone good
+afternoon)
+
+ **Chairman** \- Please have a seat.
+
+ **Me** \- Thank you, sir.
+
+ **Chairman** \- So, Mr. Aishwary, you make yourself comfortable, since you
+have already cleared first two rounds in this round we will check your
+personality. We will take the next 20–30 minutes of your time _._ Before
+answering any question, please take some time to think about it. You should
+not go out and then think that I could have answered that question in a better
+way. There is a glass of water, you may have some. There are a pencil and pad
+before you, you may use it if required.
+
+ **Me:-** Thank you, sir.
+
+ **Chairman** \- By going through your name in DAF I thought that some girl
+will come.
+
+ **Me:-** I smiled, did not know how to answer that. (After a pause) Sir, many
+times people confuse my name with a famous celebrity name.
+
+Everyone laughed.
+
+ **Chairman** \- I was joking. I hope you don't mind. Btw your personality is
+very charming. I like your name. What is the meaning of your name?
+
+ **Me:-** Thank you, sir. **** Definitely not sir. Aishwary means Prosperity.
+
+ **Chairman** \- Do you have that?
+
+ **Me:-** Not fully sir in the process to get that.
+
+ **Chairman** -Going through my DAF, So you have done your schooling from KV
+then DAV and you have studied from Pune. Then You started working with Infosys
+in Chennai then Joined Mercer in Gurgaon. Then you took a gap now you are
+working in BSNL.
+
+I nodded yes after every sentence.
+
+ **Chairman** \- You have faced lots of struggle and difficulties in your
+life.
+
+ **Me:-** Not exactly struggle sir but it was full of challenges which I have
+accepted.
+
+ **Chairman** \- What kind of work exactly you do in BSNL?
+
+ **Me:-** I explained my job profile. I felt Chairman Sir was satisfied with
+my answer.
+
+He asked a few questions about my job profile. I answered all of them then he
+signaled to M1.
+
+ **M1:-** So you are working in Optical Fiber Communication. Why we use OFC
+over Copper?
+
+ **Me:-** Explained.
+
+ **M1:-** What is the principle used in OFC?
+
+ **Me:-** Explained.
+
+ **M1:-** What is FDM?
+
+ **Me:-** Explained.
+
+ **M1:-** What is WDM?
+
+ **Me:-** Explained.
+
+ **M1:-** Difference between both?
+
+ **Me:-** Explained. I thought he was not satisfied with my answer.
+
+ **M1:-** Which demodulation technique is used in WDM?
+
+ **Me:-** Explained. I thought he was not satisfied with my answer.
+
+Now it was M2 turn to ask the question.
+
+ **M2:-** What is your favorite subject?
+
+ **Me:-** Mobile Communication.
+
+ **M2:-** Difference between 4G and 5G?
+
+ **Me:-** Explained the basic differences between them. Talked about MIMI and
+OFDM.
+
+ **M2:-** What is OFDMA?
+
+ **Me:-** Explained.
+
+ **M2:-** Why we use OFDMA?
+
+ **Me:-** Explained.
+
+ **M2:** \- What is MIMO?
+
+ **M2:-** Difference between 4G and 3G?
+
+ **M2:-** What do you mean by frequency reuse?
+
+ **M2:-** Explain the benefits of using OFDM?
+
+ **M2:-** How Orthogonality is achieved in OFDM?
+
+ **M2:-** Difference between OFDM and OFDMA?
+
+ **M2:-** Have you heard about PAPR?
+
+ **M2:-** Explain PAPR in details.
+
+ **Me:-** I explained but he was not satisfied with my answer.
+
+Then Mam took the charge.
+
+ **F3:-** Going through my DAF. So what is your review about BSNL?
+
+ **Me:-** I told her about BSNL but she was not satisfied with my answer.
+
+ **F3:-** DO you Know BSNL is in huge loss?
+
+ **Me:-** Mam after JIO every telecom operator is under heavy loss. To remain
+competitive BSNL have also reduced their tariff plans. The move to respond to
+market competition has impacted the revenue and subscriber base of BSNL. But
+the government only intention is not to make profits It should focus on
+**Public Welfare**. Bsnl is the only service provider which was working during
+Kerala floods and provided free services to the people after undergoing heavy
+operational costs. It is the only service provider which is working to bring
+down the rural-urban digital divide. Private operators work for profit
+maximization they don't provide services at extremely rural places, Northeast
+and LWE places but you will find BSNL services at all the places. Company has
+to spend a lot of money to provide services at such remote places so it is
+making losses.
+
+ **F3:-** Since you had already worked in the private sector. With the
+experience of Infosys and Mercer, how will you take BSNL forward so that it
+will be in profit?
+
+ **Me:** \- **By Training lower level staff:** The linemen and the lower staff
+were trained in old technology so training will help them update their
+knowledge and they can better tackle the new technology. When I was working
+with Infosys then we have compulsory training of 40 hours per year which leads
+to improvement in our technical skills.
+
+ **Up gradation to the latest technology** : BSNL was not able to update with
+the latest technology. In rural places, BSNL is still providing 2G services
+where another operator has shifted to 4G.
+
+Giving priority to increased broadband penetration and complaint resolution at
+earliest. Most of the customer have complaints regarding our complaint
+resolution mechanism. Shifting focus to FTTH connection as fiber is the
+emerging technology and it has vast potential.
+
+ **F3:-** Do you think that BSNL employees are efficient?
+
+** I thought that in my team I was the only inefficient one as I was preparing
+for the interview at that time while the rest of the team was working
+sincerely.**
+
+ **Me:-** Yes Mam. ( Very Confidently)
+
+***Madam likes my confidence but she did not agree with my answer. I thought
+that maybe she was a victim of BSNL bad service and that’s why she is
+releasing her frustration on me.
+
+ **Chairman** \- Aishwary I have heard that BSNL takes money from the
+government and didn't utilize that money efficiently. Do you really believe
+that you will take BSNL forward?
+
+*** Here there was a catch, If I would have told that yes Sir I will take BSNL
+forward then maybe he would have told that ok then why you want to join IES
+you should first improve BSNL service. So I decided to answer it
+diplomatically.
+
+ **Me:-** Sir, it's not about me or some individual. It's a team effort. If
+all the employees of BSNL will come forward and work as a team to improve the
+service then definitely BSNL will have a bright future ahead.
+
+Sir was satisfied with my answer.
+
+Then the snacks came.
+
+ **Chairman** \- Ok Aishwary, your interview is over. You may leave now. All
+the best.
+
+I thanked everyone and left.
+
+I answered HR questions in very detail and confidently. I face some problem
+with technical questions. I was expecting around 130. But My technical was
+average So I got 118 marks out of 200.
+
+Tips for aspirants.
+
+Be confident. Be honest. Be polite and Smile.
+
+Thanks for reading.
+
+
+##########
+*Long and interesting interview experience*
+
+My interview was on 4th August 2017
+
+Chairperson: B.S. Bassi sir.
+
+I want to share my interview experience and can just tell you that whatever
+questions that are asked to me by chairperson was completely unexpected ones…I
+haven't prepared for one also as it was my 2nd core job interview after Barc
+
+Just as I sat down..
+
+First question from chairperson was..
+
+Whether this is my first interview?
+
+I told him this was 2nd. First was BARC
+
+C: were you selected?
+
+M: no
+
+C: why?
+
+M: in mid of my interview I was completely blanked out and couldn't answer
+even very easy questions
+
+C: what were those questions?
+
+M: sir couldn't answer the full form of ACSR conductor
+
+C: whatever were the other questions?
+
+M: how to improve power transfer capability of line
+
+And in this way chairperson asked few more questions that I couldn't answer
+there.
+
+Then chairperson asked me that are those interviewers were so harsh that you
+forgot all these.
+
+M: No sir they were very helpful and helped me whenever I couldn't reach to
+the answers and even asked me these easy questions in mid of the interview to
+boost my confidence but I couldn't recall anything .Then sir laughed and told
+me to tell at the end of interview who is better between them and barc
+interviewers
+
+Then he passed onto technical advisors. basically they asked from power system
+n machines
+
+About facts devices, power transmission and generation, induction motor
+principal, starters, voltage regulation( deeply) definition, method ,
+synchronous reactance
+
+Chairperson: asked me in which states I have lived?
+
+M: Bihar , jharkand, odisha, jammu n Kashmir, assam( I had not mentioned assam
+in daf , so I haven't prepared anything from it, but somehow Assam word
+slipped from my mouth)
+
+C: where you have lived in Assam?
+
+C: have u heard about dim dim mosquito( as chairperson was ips officer of
+Assam n arunachal cadre, hence he had lived in Assam so he asked me about this
+mosquito)
+
+M: no sir. (*Never in my life I had heard about this mosquito*)
+
+C: you never come out from your house as how u haven't heard about it.
+
+Then there was laughter in room n chairperson n technical advisor were
+discussing about it.
+
+M: just smiled a bit and told sorry sir haven't heard of it but I will
+definitely ask my father .
+
+C: ask him , I am sure he knows about it
+
+C: have u opened any electrical appliances?
+
+M: yes , stabilizer
+
+C : what components have u seen inside it?
+
+M: answered
+
+C: told me whatever components you answered are of automatic stabilizer , have
+you opened manual one?
+
+M: no sir
+
+C: can you open switchboard n do wiring?
+
+C: in which direction do we rotate screw driver while opening bolts?clockwise
+or anticlockwise
+
+Can tell you just that be truthful and be optimistic about every situation
+about your life. This actually helps a lot in upsc interview. After coming out
+from interview I thought I would get around **100 marks** as I thought I had
+made blunder by telling actually what happened in barc interview as once in
+between chairperson asked next technical advisor to ask question and told
+sarcastically that leave her as she should have some stories of this interview
+also . I was really sad that day and thought I should have answered it in more
+politically correct way..
+
+But today I can tell you that telling exact condition n not blaming
+interviewers but taking entire blame on me of an bad interview gave me those
+extra marks . In technical I couldn't answer many questions
+
+when we fail in life , it's due to our fault not someone else, and if we will
+learn this thing it can change anyone life as it did mine..
+
+ **FOR UPSC INTERVIEW, KEEP YOUR THINKING CORRECT AND OPTIMISTIC.**
+
+Marks : 124/200
+
+Much more than I expected.
+
+
+##########
+Here is my detailed description of ESE interview . I had given about 15–20
+interviews before ESE interview ( These include Placement interview , PSUs
+interview for Gate 2017 and 2018 , BARC '17 and '18 and ISRO '18 ) . All I can
+say is , ESE interview was the most calm interview among all the interview I
+gave . They check your personality skills , presentation skills rather than
+your knowledge ( Your knowledge is being checked by them earlier in prelims
+and mains ) .
+
+Date - 14 September 2018
+
+Panel - Manoj Soni
+
+Time - 2:15 - 2:45 (approx)
+
+So that day we were asked to arrive by 1:00 pm at UPSC bhavan . I reached well
+at 12:55 pm . ( Please don't go early , as they will not allow you to go
+inside before 1 . For UPSC 1 pm means dot 1 pm . Thanks to my seniors, they
+gave me this tip before my interview ) . As I entered the first thing that was
+done is document verification ( document verification for students of same
+panel are done separately ) . They did the document verification in same order
+in which we were going to be interviewed by the panel . So we got to know
+about our order of interview by about 1:15 pm . I was the first one to be
+interviewed . But they don't disclose the chairperson of your panel( you will
+come to know about that after document verification ) . The document
+verification continued till 2 . And this was time from where tension , anxiety
+etc etc starts , as I was the first to be interviewed . Soon I came to know
+that my panel chairperson is Manoj Soni sir !! . This relaxed me bit . Than a
+person came to call me and took me right outside the cabin of Manoj Soni sir .
+I was asked to sit at the chair kept outside the cabin . A standing fan was
+kept facing me ( may be to keep me calm and cool , but for me it appeared to
+be scary ) . For around 5 minutes I was waiting outside with all mixed
+feelings and worrying about the interview . Then I was asked to go inside . A
+person who was standing outside the door opened the door for me . I asked the
+permission to come inside from the chairman . He nodded to come in .
+
+As I entered, (Monaj Soni sir was sitting like a king in his large sized
+cabinroom with other 3 technical advisor. The environment inside the room was
+simply awesome , so much of calmness . This relaxed me alot ) I wished the
+chairperson first and then to other 3 technical advisor ( not individually )
+and stood in front of the chair kept . Then chairperson asked me to sit . Now
+for around 10 -15 seconds he was just staring me , maybe checking my
+appearance and the confidence . I was simply smiling with being confident .
+And then **the interview** begins . Initially chairperson sir started !
+
+ **Chairman** \- Manoj Soni Sir .
+
+So Jayshreedeepak
+
+How is your day going ?
+
+I said its wonderful , was waiting for this day since last 1 and half year .
+
+He said gd . So have you ever been to UPSC before . I said no sir , this is my
+first attempt .
+
+Then he started going through my DAF . So you are from the place of Ganga. (
+As My college is MNNIT Allhabad . ) I said yes sir . So have you ever visited
+to Sangam there . I replied yes sir , we all friends used to go there sometime
+.
+
+Then he read my hobbies , so u love watching highlights of cricket matches . I
+said yes sir .Then he said yes it's good to get information in short span . He
+smiled . I smiled back . Then he said so you like Diary writing . I said yes ,
+It makes me feel good doing so . He replied good to see your generation too
+have such sort of hobby . I said thankyou so much sir . Then he said " hamere
+Desh videshe bht sare ajube hai "
+
+Do you know them . I replied with 4 names which I was remembering at that time
+. Then he said . Ok . As I ended with the word "statue of Liberty"( the big
+blunder I guess because it's no more in wonder's of the world ) .
+
+So he said In India also some statue is going to inaugurate soon . Do you have
+idea about this . I said yes sir Maharashtra government is planning to
+construct a statue of Chhatrapati Shivaji Maharaj. He said no , I am not
+asking about that I am asking about the one who is inaugurate in some months .
+I said sorry sir I am not aware of this . He said ok .Then frankly I said the
+current affairs of mine is little weak . I need to work on this . Then he said
+Its ok , as long as you are good in your stream , current affairs is not a big
+issue . So what are your favourite subject during your B tech . I replied sir
+, I used to love studying subjects like Strength of material , structural
+analysis , Geotechnical engineering , and Environmental Engineering .
+
+Then he said , ok let's start with Geotechnical engineering . Then he asked
+one of the technical advisor to ask me question based on geotechnical
+engineering .
+
+ **Technical advisor** \- 1
+
+So shall we start with soil stabilisation .
+
+I said yes sir . Then he asked can you tell me
+
+What is soil stabilisation and why we do it .
+
+I said yes sir to enhance the properties of soil , such as to increase the
+shear strength , bearing capacity .
+
+So do you know classification of stabilisation .
+
+I said is it about considering the materials we use to stabilize . Then he
+said justify it . I said like
+
+Lime stabilisation , bitumen Stabilisation , stabilisation by means of
+goetextile .
+
+He said ok
+
+But what you said goetextile is broad concept , can you classify them . I said
+sorry sir , I am not aware of its classification . But One thing I know is
+geosynthetic fibres are being used as a reinforcement in soil .
+
+He said ok .
+
+Then he said some four to five names . ( May be about the classification , and
+asked me do I have heard about them , I said no sir , I am not aware of these
+names) .
+
+He said ok
+
+No problem .
+
+Then he said you said lime stabilisation is used to increase the strength and
+bearing capacity . Then I said yes sir . So he said can you give example where
+it is used . I said yes sir , it is used in black cotton soil to decrease it
+swelling properties , and also increase the bearing capacity .
+
+Then he said can you explain me the concept behind this . I started explaining
+it by the help of compaction chart of soil , before and after lime
+stabilisation on the basis of change in swelling properties . Then he stopped
+me and said no no I am asking you why lime , why not other material , then I
+asked them with the decrease in adsorbed layer thickness due to addition of
+lime and so to increase the vanderwall force of attraction which help the
+particle to come closer and hence explained it with help of chart .
+
+He said ok .
+
+Then he said do you know about consolidation . I explained . Then he asked
+what is secondary consolidation . I explained .
+
+Ok
+
+So do know about the classification of soil .
+
+I said yes , then started explaining about classification of gravel , sand .
+
+And then I said about silt and clay .
+
+He said do we use particle size analysis in order to classify fine grained
+soil . I said no sir . Indian classification use atterberg limits to classify
+the fine grained soil . Then I started to explain them atterberg chart . He
+stopped me and said it's fine .
+
+Then he asked me so do you know about plastic limit . I explained . Then he
+asked me about liquid limit . I explained .
+
+Then he asked me about have you heard about the term solid industrial waste .
+I said yes . Then he asked me can you give me example . I said radioactive
+waste from nuclear industry . He said “gentlemen it come under broad term
+known as nuclear waste “ . I said ok sir . And said sorry sir , I am getting
+this example right now . Ok now my last question , Have you heard about fly
+ash . I said yes sir . What is it . I explained . Isn't it solid waste ? I
+said yes sir it is . He smiled and then said is it a soil or soil like
+substance . I said soil like . Ok den what is its size . I said I am not aware
+of this .
+
+He said ok .
+
+And asked other member to ask me further questions .
+
+ **Technical advisor -2**
+
+Are you ok with structural analysis ?
+
+I said yes sir .
+
+So can you tell me nowadays we use various modelling software to analyse the
+structure . Which method in used in these software to analyse the structure ?
+
+I said stiffness method . Also I gave the detailed reason why we use stiffness
+method and not flexibility method .
+
+Than the very next question what is the difference between flexibility and
+stiffness method ( the plan works :p )
+
+I explained in detail .
+
+After listening to my answer he praised me It seems you love structures alot .
+I smiled ( this gave me lot of confidence )
+
+Than he gave me simple portal frame in the paper kept in front of me and asked
+me to analyse it . I did it with ease by moment distribution method .
+
+Than he complicated the problem by providing the internal hinge in the joint .
+As I had seen such type of problem I did that too with ease.( the very same
+question was solved in our mains batch by Swami sir , Made easy ) . So I was
+confident with my answer . After seeing my answer he said are you sure ? I
+said Yes sir ( by quickly going through my answer ) .
+
+Than he asked me while designing beam we generally take depth to be high than
+width . Why this is so ?
+
+I explained as the stiffness of beam depend upon the moment of inertia of the
+section, and moment of inertia increases more rapidly by increasing the depth
+of the section than its width ( as moment of inertia varies with cube of depth
+of section ) .
+
+So he said ok, you mean to say it will be ok to keep breadth very small and
+depth very high .
+
+I said no sir . It is advisable to keep the ratio of depth to width around 2 .
+
+Why is it so ?
+
+Sir may be due to aesthetic reasons .
+
+He laughed and said me to think technically .
+
+Sir may be to make the section torsion resistant too . Else there will be
+chances of twisting along the width of it kept quite low .
+
+He said ok good .
+
+Can you tell me practically a situation when torsion will come in the beam .
+
+I gave the example of cross beam over the main beam ( cross beam being
+perpendicular to main beam ) and loading only along one side of the cross beam
+.
+
+So how we design the beam for this torsion ?
+
+Sir for torsion we need to provide the reinforcement spiral form (due to pure
+shear case and principal stress arises diagonally ) But practically it is
+difficult to provide them . So we increase the longitudinal and shear
+reinforcement due to this additional torsion force .
+
+He seemed to be satisfied .
+
+He said ok now my last question .
+
+What is the poisson's ratio of concrete and steel ?
+
+I said sir it's 0.3 ( in hesitation ) for concrete . ( The blunder 0.3 is for
+steel )
+
+Ok then what is the poisson's ratio for steel .
+
+I said sorry sir 0.3 is of steel .
+
+Then what is for concrete ?
+
+I said sorry sir I don't remember that right now !
+
+He said these the materials which you will be going to deal daily . You must
+remember these kind of data .
+
+I said I will definitely look after this from now .
+
+ **Technical advisor -3**
+
+So you are comfortable in Environmental engineering or hydrology .
+
+I said in both sir .
+
+Ok then let's begin with environment engineering .
+
+I said ok .
+
+Have you heard about the digestion process ?
+
+I said yes sir and explained with definition .
+
+So what are the types of digestion ?
+
+I said aerobic and anaerobic digestion . And further I explained there
+difference and the suitability of both digestion procedure in context of
+primary slide and secondary sludge .
+
+So he said is it single stage digestion or double stage digestion ?
+
+I said sorry sir , I have not heard about stages in digestion process .
+
+He said ok have you heard about sludge thickening , and why it is done ?
+
+I explained .
+
+Then further he asked me to draw the schematic diagram of activated sludge
+process and explain it .
+
+I explained it to them with diagram .
+
+He then asked me to give the difference in the design criteria of primary
+sedimentation tank and secondary sedimentation tank .
+
+I explained it based on the size of particles to be removed and the detention
+time required (high or low ) in both the tanks .
+
+He seemed to be satisfied .
+
+He said ok last question !
+
+What is the detention time in both the tanks .
+
+I answered ( Hopefully I was remembering the values at that moment ) .
+
+He then further handed over me to Chairperson .
+
+Chairperson smiled and wished me good luck .
+
+I said thankyou sir .
+
+He said I may go now .
+
+I said thankyou and left from the room.
+
+Bit of relaxation as it is over for now . I was happy to give the interview
+well .
+
+ **I obtained 120/200 marks in the interview .**
+
+Considering the marks of other student 120 is good score in interview this
+time .
+
+ **Some useful tips from my side to future aspirant**
+
+  1. Try to be as simple and humble as you can . They are checking your personality rather than your knowledge
+  2. Don't give bluff answer . They know much more than you . It's better to say **No ,** for the one you don't know .
+  3. UPSC is unpredictable . You can't say what will be asked to you . Some will say practical questions will be asked , some will say related to your projects , your job profile will be asked , some will say general awareness question will be asked . But they can ask you anything . In my case they asked nothing related to project , practical questions , job profile . They asked me purely technical things , what we study . **So be prepared for anything . Around 1–2 months will be there for your interview after mains result declaration . Utilise that time effectively .**
+  4. Try to control your interview from your side . Use some terms (in which you are confident) in your previous answer so that it makes the interviewer to ask related to that . ( I did and it worked , and even it worked for many )
+  5. Don't panic before your interview . They will make you comfortable first by asking general questions related to you through your DAF . **So prepare about your DAF well before interview . As mostly initial questions will be from your DAF . Now it's upto you that how much you extend your DAF realted questions .** I had given about 15–20 interviews but UPSC ESE interview had the best environment among all .
+  6. Try to have lots of conversation with chairperson , as final marks is his hand only .
+
+Good luck to all future aspirants !!
+
+Work hard !!
+
+
+##########

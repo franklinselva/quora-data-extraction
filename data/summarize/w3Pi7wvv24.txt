@@ -1,0 +1,134 @@
+Even before applying to a Management Consulting firm, please ask yourself why
+do you want to become a management consultant?
+
+![](https://qph.fs.quoracdn.net/main-qimg-445b4a187da051712b6b55559a66289f)
+
+It is not exactly like this movie, though
+
+If you think you can do the following, then only apply
+
+  * Deal with uncertainty and ambiguity everyday
+  * Can live out of a suitcase
+  * Can work under pressure, and extremely hard & smart everyday
+  * Love people and can tell stories
+
+OK, now that you have decided to apply and secured an interview, this is how
+you should prepare:
+
+  1.  **Prepare answers for basic questions** : (While preparing for case studies and guess estimates, we generally forget to prepare for basic question, so don’t neglect them)
+    1. Tell me about yourself?
+    2. Why consulting?
+    3. Take me through your CV
+    4. Why this company?
+    5. Go though the company website, they must be having sample interview questions/case studies/procedure for interview **(most important step)**
+  2.  **First round is generally guess estimate or market sizing round**. Here you may be asked questions such as how many bulbs are sold in your country? what is the average footfall of your favorite shopping mall? number of planes landing in a particular airport? points to note are:
+    1. They do not want exact numbers, they see your approach
+    2. Ask relevant questions, e.g. you don’t know population of the country, etc.
+    3. Try to solve it from more than 2 ways, could be demand or supply. If there is a difference, justify it
+    4. Generally while practicing it, we assume we will be able to complete it and do not solve it completely. Do it with pen and paper like you would have done during interviews
+  3.  **Next 1–2 rounds generally are case study rounds**. here you can practice by:
+    1. Solve any good case study book
+    2. Do not try to solve multiple case study books, as it may cause confusion. It is better to be a master of one book rather than be a novice of many
+    3. Practice with friends, give mock interviews
+  4. Last round is generally partner round and HR round
+
+ **Note: I cannot say what will be your procedure, it may vary from company to
+company, country to country. But this is the general trend**
+
+
+##########
+1\. Network like crazy in the senior level (principal, partner, director) and
+build a relationship with at least 1-2 folks, in such a way that they would
+vouch for your awesomeness. My advice on achieving this is to use LinkedIn
+extensively, unless you are lucky enough to know someone already. If you
+already come from a target school and MBB come to your school for recruiting,
+then ignore this step.
+
+2\. Prepare a killer resume and cover letter and bring out the best in your
+past achievement. Make the resume very actionable and quantify all the results
+in %, multiples, etc. There is a lot of help online, just Google.
+
+3\. Practice for cases and personal experience interviews (PEI). I don't mean
+1 or 2 cases before your interview. I mean 70-90 live case practices and that
+usually takes 6 months of solid effort. Please DO NOT practice cases with
+people who have no idea on what cases are or other folks who are starting the
+prep along with you. Find people who have already practiced 20 cases or more.
+Use online forums such as preplounge, etc. Also use good material to prepare
+for cases (Case Interview Secrets, firmsconsulting, etc). PEIs are AS
+IMPORTANT as cases, do not ignore them till the last moment. Everyone
+concentrates on cases and forgets about PEI but please dont.
+
+ _I highly encourage you to follow only these resources and can assure higher
+possibility of success._
+
+1\. [Firmsconsulting.com](http://firmsconsulting.com/) \- one of the best
+consulting prep tools in the market. Although, not cheap but extremely
+helpful. If you follow this resource you don't need anything else.
+
+2\. Case interview secrets by Victor Cheng - His book (very important) and his
+online resource.
+
+3\. Preplounge - best place to find online partners to practice with.
+
+ _Some specific advice for McK PST, BCG Potential test or other consultancy
+tests:_
+
+1\. With respect to McK, even though the PST test is given a lot of
+importance, I personally believe that your performance in the team case (part
+of round 1 with PST in multiple countries including US) is as important as
+PST. So even if you slip up slightly in PST, if you give a killer team team
+case performance, you will likely move through to round 2.
+
+2\. With regard to PST/BCG potential test practice all the official online
+test (eg: [Careers | Join us | Interview prep | McKinsey &
+Company](http://www.mckinsey.com/careers/join_us/interview_prep)) as if you
+are taking the real exam. Basically keep strict time limit and score yourself.
+If you get anywhere above 65%, you are all set! I found the actual test to be
+strikingly similar to the online tests. Dont worry more about PST and get on
+with case and fit practice.
+
+3\. Practice your mental math and make it as quick as possible. This I found
+to be really essential and would save a lot of time in the actual test. Victor
+Cheng has put together a great practice arena online -
+[https://www.caseinterview](https://www.caseinterview.com/math/mathtest.php)[.com/ma...](https://www.caseinterview.com/math/mathtest.php)
+
+4\. For the actual cases and fit, I would strongly recommend
+[Firmsconsulting](http://firmsconsulting.com/). But unfortunately it looks
+like you have less time but I would still recommend this website since it is
+amazing! Plus, [Case Interview Secrets: A Former McKinsey Interviewer Reveals
+How to Get Multiple Job Offers in Consulting: Victor Cheng: 9780984183524:
+Amazon.com: Books](http://www.amazon.com/Case-Interview-Secrets-Interviewer-
+Consulting/dp/0984183523), then you are all set.
+
+Message me if you need more advice, refer to my other answers and all the
+best!
+
+
+##########
+**I did my summer internship at BCG and received a Pre-Placement Offer after
+the internship.**
+
+The consulting interviews have three primary components:
+
+  *  **Case interviews** : These case interviews are used to **_simulate real life consulting settings_** , where a client will give a problem to the consultant, and the consultant has to work together with the client to solve the problem. The case is normally of just one line, something like “ _Your client is a furniture retailer, and is facing a decline in profits._ ” You need to **_ask intelligent questions to the interviewer_** to get more details about the issue, and narrow down the problem. The solution is not very important. **_It is the process that really matters_**.  
+  
+Some excellent resources to prepare for case interviews are:
+
+    *  **Case in Point** : Among all the case preparation books available in the market, Case in Point is the best and most widely recommended book for preparation. It gives all the standard frameworks and problem types, and has a lot of practice questions. A must read for anyone preparing for case interviews.
+    *  **Videos by Victor Cheng** : Victor Cheng is a former McKinsey consultant who has written quite a few books on case interview preparation. His videos are available for free on Youtube, and are extremely good. He also has some other material on his website for which you have to subscribe and pay some fee. I didn’t subscribe so I don’t know how useful that material is. But the videos are awesome.
+  *  **Guesstimates** : The consulting firms want to check if a candidate can make intelligent guesses when it comes to estimating things. The questions asked can be of the format, “Estimate the number of bicycles in Stanford University”, or “Estimate the number of gas pumps in Washington DC”. The candidate needs to again break down the problem into pieces and find a nice way to guess. Like the case interviews, **_the solution is not important, the process is_**.  
+  
+The best way to prepare for Guesstimates is also through **Case in Point**. It
+has many solved sample problems and gives some very useful tips to approach
+the problems.
+
+  *  **“Firm Fit” Questions** : All the consulting firms have their own unique culture, and they want to check if the candidate will be a good fit with the firm. The questions might relate to the candidate’s past experiences, his or her leadership experiences, strengths, weaknesses and so on.
+
+The best way to prepare for consulting interviews, especially case interviews,
+is to **practise cases in groups**. I used to prepare in groups of 4. It is
+also recommended to practise some cases with **people outside your friend
+circle** , so that you can get used to solve cases even when you are not in
+your comfort zone.
+
+
+##########

@@ -1,0 +1,351 @@
+**A lot of practice, a little failure, and a sprinkle of luck.** To be honest,
+there is not much of a difference between the coding interview at the Big Four
+and other companies, and most of these interviews test the same basic topics:
+data structures, algorithms, recursion, dynamic programming, etc.
+
+Let me share with you my journey to ‘cracking’ the software engineering
+(internship) interview.
+
+* * *
+
+I applied to tech internships for the first time two years ago, as a Junior CS
+major at Wellesley College. The Big 4 would be a long shot; I had no
+experience working in tech, and had only taken an Intro course and Data
+Structures.
+
+I first heard back from Google. I ordered [Cracking the Coding
+Interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-
+Questions/dp/0984782850/ref=pd_lpo_sbs_14_img_0?_encoding=UTF8&psc=1&refRID=NZJ8BBZA030B3TDP5TC1)
+and a whiteboard, spoke to some classmates, and did practice questions. I had
+two consecutive interviews. One went well, one went just okay.
+
+About a week later, I heard back from Facebook. Again, I spent the two weeks
+before the interview doing practice problems. The interview itself was quite
+hard. A week later, I was rejected.
+
+As the months passed, I practiced and completed more interviews. I _was_
+improving. But, that’s not all it takes; I also needed luck — the right
+questions and the right interviewer.
+
+In January, I heard back from my Google recruiter for a third interview, which
+meant that they didn’t love me enough to accept me, but didn’t want to reject
+me (yet). The interview came and went, and I was rejected a few weeks later.
+
+At the end of January, I heard back from Amazon. By then, I had lost most of
+my hopes. In fact, the day of, I wanted to cancel, thinking there was no point
+in wasting an hour of my time. I sucked it up and attended the interview.
+
+The question was a popular one, and one that I’d practiced many times before:
+[Two Sum](https://leetcode.com/problems/two-sum/). I understood the various
+possible approaches, edge cases, and articulated my answer well — all
+attributed to my months of practice. That Friday, I got the offer letter.
+
+* * *
+
+The point of this story is that nothing comes easy, and there’s no ‘secret
+sauce’ to cracking the coding interview, wherever you are applying. It’s all
+about just getting in as much practice as you can, and solidifying your
+fundamentals. From my experience, the interviews that I performed best on are
+those where I had seen the question (or something similar) before. So, do as
+many problems as you can from a variety of resources, and start preparing in
+advance.
+
+You can perform practice questions by yourself; I’d suggest answering the
+questions out-loud with a whiteboard or in a text-editor, just as you would
+during an interview. Or, practice with a friend and perform mock interviews on
+each other — this will give you practice performing under pressure, as well as
+analyzing a good v.s. bad answer.
+
+Here is a list of resources with plenty of practice problems:
+
+  1. [Cracking the Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850/ref=pd_lpo_sbs_14_img_0?_encoding=UTF8&psc=1&refRID=NZJ8BBZA030B3TDP5TC1)\- a great starter book with all the major concepts and practice problems ranging in difficulty
+  2. [LeetCode](https://leetcode.com/) \- has many practice problems, where you can practice in almost any language
+  3. [HackerRank](https://www.hackerrank.com/) \- has some instructional courses for fundamentals review, and some practice problems
+  4. [CodeLab](https://codelab.interviewbit.com/) \- Facebook’s interview prep site — has timed practice tests
+  5. [GeeksforGeeks](https://www.geeksforgeeks.org/) \- has many popular interview questions an in-depth analysis
+  6. [Glassdoor](https://www.glassdoor.com/index.htm) \- has company-specific interview questions and reviews
+  7. [CareerCup](https://www.careercup.com/) \- similar to Glassdoor
+  8. [YouTube](https://www.youtube.com/) \- watch a [mock interview](https://www.youtube.com/watch?v=XKu_SEDAykw)s or explanations to common questions
+  9. [Interviewing.io ](https://interviewing.io/)\- Access to real mock interviews!
+
+Good luck! :)
+
+* * *
+
+ **EDIT** : Thank you for the comments! I wanted to add that this story and
+this advice is most applicable for intern and new grad applicants (as that is
+my experience thus far), but does not fully extend to more senior positions.
+SDE II or higher roles will require other skills and more difficult concepts
+(systems design, databases, etc.) that may not be covered for entry-level
+roles.
+
+
+##########
+  1. I paid a lot of attention in my Data Structures & Algorithms class, enough so to become the Lead Teaching Assistant the next year.
+  2. I took a higher level algorithm engineering course the semester after.
+  3. I personally think companies like this want people who are passionate about coding and building great software. So for me, I wanted to find a field that got me excited to code, that I could really enjoy putting my energy into. That way it would be easy for me work on side projects, try to contribute to open source projects, speak with engineers working in that specific field.
+  4. About 6 months before I knew I was going to be trying to interview. I bought [CRACKING the CODING INTERVIEW](http://www.crackingthecodinginterview.com/) and casually did problems on [HackerRank](http://hackerank.com) and [LeetCode](http://leetcode.com)
+  5. Every company is different, so I thought it was important to learn the candidate process for each company I was interviewing with. i.e. Is there a coding challenge round, behavioral questions, general application, or specific team applications?
+  6. About a month before and during my interviews I did a [LeetCode](http://leetcode.com) problem everyday, and once a week I practiced white board coding with someone else (who knows how to code).
+  7. Something more implicit, is I’ve been a teaching assistant for a bit now. Being able to articulate technically is crucial in succeeding in interviews, in my opinion. TAing has definitely trained me to be comfortable doing that.
+  8. I used to/still sort of get very nervous during interviews. Because of this, I practiced a lot putting myself in situations with employers, whether it’s mock interviews, hackathon career fairs, volunteering, etc. This really helps ease my nerves.
+
+Good luck!
+
+
+##########
+I think a lot of things worked for me.
+
+I have recently joined Amazon. I am a fresher from college and so being with
+Amazon was initially a far off dream and in the end an incredible journey. I
+would like to take this question in steps.
+
+![](https://qph.fs.quoracdn.net/main-qimg-0d1fc437e11b165e7a362b5eda75a868-c)
+
+ **The History:**
+
+I was never actually preparing to be in amazon. I was preparing for campus
+pool placements. The competition was pretty intense from where I graduated,
+and if you know anything about Indian graduates, then you'd know how difficult
+it is to grab a job and especially when you are mediocre in your stream.
+
+And I would most appropriately call myself pretty mediocre. In 4 years of my
+engineering I only managed to do the following things:
+
+  *  _Three pretty ordinary Android projects._
+
+I am still a beginner in mobile application development. **** Even today. Now
+when I think of it, I don't even know why I started. Maybe peer pressure or
+something, I don't know. And the most common question I get thrown at me:
+
+ _“Why don't you go for cross-platform applications.”_
+
+And my response is mostly just a dead stare into his eyes.
+
+  *  _One month of intern experience at a start up. (Security)_
+
+You see the problem here? In the brackets. Security. I wasn't good enough in
+android to get an internship, and so I somehow managed it in security, because
+it was something which always fascinated me. __ Problem was that during this
+time, I was dipping my fingers into everything without actually getting good
+at anything. A problem which magnified during my 6th semester.
+
+And That's it. That's all the noteworthy things I have done in my college
+life. Now you be the judge. Pretty hilarious, I know.
+
+Now!
+
+Why did I tell you all this?
+
+Because, I know there are many others like me. And what I have learned and
+need to tell you is that…
+
+ _It doesn't matter._
+
+Ok! Maybe a little bit. But in true honesty, you can still save yourself if
+you don't have a fantastic resume to support you. I myself would have flaunted
+my resume here but there's nothing to flaunt in it. So it's better I keep it
+to myself. And yeah, I did it without a good resume.
+
+ **The preparation:**
+
+Then how did I do it?
+
+I did it in 8 months. I knew that much about coding as Donald Trump knows
+about cricket.
+
+Nothing! I knew it existed. But not much.
+
+ _Resources:_
+
+  * Online platforms like _hackerearth, hackerrank, geeksforgeeks._
+  * If you really good and you think the above mentioned level is way too low, go for _codechef_ and _codeforces_.
+
+ _Tips:_
+
+  * Choose a language most comfortable to you. ( Preference - java, c++)
+  * Stick to it. I repeat! Stick to it. Doesn't matter what anyone is doing. Just don't go around changing languages every other day.
+  *  **Data structures and algorithms**. The cream, the pie, the cherry and the filling of your career mould maybe. Anywhere you go this is probably the only confirmed thing they gonna ask you. So start early and improve gradually.
+  *  _Dynamic Programming -_ Do it if you can. It's painful, but it's worth it.
+  * I actually started participating in competitions to brush up my skills, and believe me it helps. So don't run away if you can't do it. You will fall a countless times, but remember waking up will put you 1 step closer to the goal.
+
+ **Time:**
+
+How I managed it?
+
+  *  _Important thing is to not overdo it._
+
+Don't be like that guy who runs the first 2km of the marathon at top speed and
+couldn't go on after that. It's a marathon. You don't have to go fast, you
+have to go long. Don't overshoot yourself.
+
+  *  _Perseverance and discipline._
+
+Ask yourself that if you really want to do it!
+
+Ask yourself daily. Ask yourself whenever you feel like quitting. Ask whenever
+your heart tells you no.
+
+Don't do much. But do often.
+
+  *  _Two roads._
+
+There are two ways to do it.
+
+Doing 7 questions a day and doing nothing rest of the week.
+
+Doing 1 question daily.
+
+I would prefer the latter. And that's what I did. I was so busy during the
+pre-placement season in my college and there were a lot of distractions, I
+never could get enough time.
+
+But I gave myself 15 minutes daily. For 7 out of those 8 months.
+
+Started with **just** 1 problem a day. Moving onto **at least** 1 problem a
+day.
+
+Choose the road wisely.
+
+  *  _Fighting the frustration._
+
+The most important factor. This is what makes people quit. Trust me you are
+not alone and everyone goes through this. You won't get a solution, even if
+you get it you won't get an optimized one. Many times you won't be able to
+figure out the logic. Stuck on the same problem for days.
+
+But. Don't. You. Dare. Give. Up.
+
+  *  _Patience_
+
+You won't be a one day wonder. I failed in 13 interviews before cracking
+amazon. And I know there are people out there for whom it's just a swish of a
+wand to get into these companies, but for a guy like me it was tough.
+
+And I know there are people like me who think it's impossible. Believe me,
+it's possible.
+
+ **The interview:**
+
+Even on that day, I had no hope of cracking it. And that's how I cracked it.
+The thing about an interview is that the more hysterical you are about it. The
+more likely you are to screw it up.
+
+I just went for the sake of marking my attendance, and I got in. Not that I
+hadn't prepared for it. I had done the hard work already, it's just that I had
+lost hope lately, back then.
+
+But then again something else worked for me.
+
+The final element in the piece.
+
+ **Luck.**
+
+If it's your day, nothing can stop you. Else, nothing can make you.
+
+I believe it will be if it's meant to be. You can just do your work and hope
+it works for you.
+
+ **“May the odds be ever in your favour.”**
+
+(That's Hunger games by the way. Love that book.)
+
+Footnotes:
+
+  * [HackerRank](https://www.hackerrank.com)
+  * [HackerEarth - Programming challenges and Developer jobs](https://www.hackerearth.com)
+  * [GeeksforGeeks | A computer science portal for geeks](https://www.geeksforgeeks.org)
+  * [Programming Competition,Programming Contest,Online Computer Programming](https://www.codechef.com)
+  * [Codeforces](https://codeforces.com)
+
+ **A2A.**
+
+P.S: Do let me know if I may have missed out on something. I would be glad to
+edit some more things.
+
+
+##########
+As a recruiter at Facebook, I help people “crack” the coding interview. There
+isn’t a single, defined path to success but there are a few things that
+candidates who do well, have in common.
+
+This list of 10 things come from the candidates I’ve seen ace these interviews
+and have gone on to work at every major tech company, unicorn and fast growing
+startup I can think of.
+
+> The goal is to write just the right amount of good code and communicate
+well. You’re not paid to code, you’re paid to think and figure out problems.
+The byproduct is crystallized thought and instruction for a machine to follow
+in the form of code. I’d rather solve a problem in one line of clear readable
+code than 10 lines of code that’s difficult to understand. I’d rather solve a
+problem in 5 lines of readable commented code than one line of highly complex,
+multi-nested code with multiple ternary operators. You get the idea. - Thanks
+Benjamin[1]
+
+  1. [Cyndy](/profile/Cyndy-Ishida-1)’s first point of being really good with data structures and algorithms is absolutely correct. More specifically search algorithms for the companies mentioned. [This](https://github.com/tayllan/awesome-algorithms) is one the best resources for algorithms online and a terrific guideline for getting good at the fundamentals. Here’s a link for [**Classic Algorithms**](https://github.com/karan/Projects#classic-algorithms) **and**[ **Data Structures**](https://github.com/karan/Projects#data-structures) with projects to help you level up those skills and get interview ready.
+  2. I also recommend buying the book **“Cracking the Coding Interview”** and doing the following: Go buy a whiteboard, put 35 minutes on a timer, go through as many problems as you can in “Cracking the Coding Interview” (try for 2 per hour, take a 20 minute break and do it again a few times), repeat and this time give yourself constraints. Great, feel comfortable? You should feel very comfortable with a whiteboard because your actual interview is likely on a whiteboard. Simple, right?
+  3. Now **back to algorithms and data structures.** Why am I repeating this? It’s because it’s incredibly critical. The [Big-O Cheat Sheet](http://bigocheatsheet.com/) is a good resource for complexities of common algorithms used in Computer Science. For data structures, visualize the behavior and play with its operations here - [Data Structure Visualizations](http://www.cs.usfca.edu/~galles/visualization/Algorithms.html). Extra points if you have the time to go through [Sorting Algorithms](http://www.sorting-algorithms.com/).
+  4.  **Start practicing** today. Even if it is just Leetcode or Hackerrank or whatever you choose. You are a result of the work you put in and if you really want to ace it, **start teaching it** to friends, family or anyone who will listen. The more you talk about it out loud, the better and faster you’ll get.
+  5.  **Learn to love debugging** and showcase that in your interview. [This](https://css-tricks.com/debugging-tips-tricks/) is a great resource for how to do that.
+  6. Learn to “ **think out loud** ”. It’s weird, I know. But in an interview setting, the most important piece is showcasing how you’ve come to a solution or understanding why you’re doing X before Y.
+  7. You’re interviewer wants to see **3 key things in your code.** It should run fast, not take up more memory than it needs to and is stable and easy to maintain. Accomplish that and you’re already ahead of most people. [2]
+  8.  **Master a single language.** Places like Facebook, Google, Amazon and other top companies want to know you’re a good coder and they don’t care which language it’s in. If you ask me, I’d probably not choose something like C# but hey, whatever rocks your boat.
+  9. Remember that **70% of questions consist of one of the following:** Hash tables, Linked lists, Breadth-first search, depth-first search, Quicksort, merge sort, Binary search, 2D arrays, Dynamic arrays, Binary search trees, Dynamic programming, Big-O analysis. If you’re comfortable with all of these, the odds are already in your favor. [3]
+  10. Remember it’s not all about the code. How you can articulate your story, non tech or tech, if you’re likable, enthusiastic, have a passion/hunger for learning or are generally someone with potential can take you a very, very long way. **People hire people.**
+
+Footnotes
+
+[1] [Here’s what I’ve learned nine months into my software engineering
+job](https://medium.freecodecamp.org/9-months-into-a-software-engineering-
+role-this-is-what-i-learned-823230e4be9a)
+
+[2] [How to Win the Coding Interview – Dev
+Mastery](https://blog.devmastery.com/how-to-win-the-coding-
+interview-71ae7102d685)
+
+[3] [How to pass a programming interview](https://triplebyte.com/blog/how-to-
+pass-a-programming-interview)
+
+
+##########
+Not to be too dramatic, but a lot of blood, sweat and tears. Especially that
+last one.
+
+Here are the steps I followed, mostly in order:
+
+  1. I had, in my opinion of course a reasonably solid foundation of Algorithms and Data Structures from courses I took in undergrad. This helped me tremendously. In that vein, I highly recommend [Introduction to Algorithms](https://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844) by CLRS.   
+The book does have a lot of mathematically rigorous proofs which you likely
+will not need but it covers all the algorithms and data structures you could
+possibly encounter in a technical interview.
+
+  2. Outside of the basics, you need to know that a technical interview looks like and what to expect. I’m sure there are 100 other answers on Quora alone that mention [Cracking the Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850/ref=pd_lpo_sbs_14_img_0?_encoding=UTF8&psc=1&refRID=KZJ4FK4YBNC4MB19DQEG) but I’m going to do it one more time because it’s just that good. The prep strategy and explanation of how interviews work are very invaluable in my experience.
+  3. By this point all I really needed was practice and I learned this the hard way. In Fall of 2017 I was rejected by Google, Facebook, Amazon and most other tech companies you’ve probably heard of, for a summer internship.   
+I spent the summer improving my technical interviewing skills a.k.a
+[Leetcode.](https://leetcode.com/) I will admit this isn’t for everyone and
+you really only need to solve several different types of questions to cover
+most interviews.  
+Personally, I enjoy competitive programming and solving problems so I did over
+250 problems and this gave me the confidence to tackle most any question
+thrown at me.
+
+  4. Fortunately, I had enough time left over the summer to work on a [pretty cool side project](https://github.com/SamVenkatesh/FakeBlock) and I would recommend anyone applying for a software engineering role to do the same. Bonus points if you put it on your Github for recruiters/interviewers to look at.
+  5. Technical interviews are obviously very important. However, culture fit is something that is often overlooked. You will likely have at least one culture fit interview wherein they’ll ask you about previous experiences, projects you worked on and and people you collaborated with. I framed answers to questions pertaining to my experiences and I feel that went a long way.   
+This is also a good time to ask your own questions about the company and how
+it works. Genuine questions, do your research beforehand. Generic questions
+might make it seem like you aren’t particularly interested in working there.
+
+  6. Finally, you just gotta go out there and do your best. I hate to admit it, (because it seems like a cop-out) that luck is a pretty big factor when interviewing. Sometimes its just not your day and that’s okay. Learn what you can from the experience and keep moving forward.   
+You don’t need to get lucky every time, **_you just need to get lucky once._**
+
+I got lucky in August, 2018 after a year of failure, when interviewing with
+Facebook for a Full-Time Software Engineering role.
+
+> “Be humble. Be hungry. And always be the hardest worker in the room.” -
+Dwayne Johnson
+
+>
+
+> (My favorite quote, go figure)
+
+
+##########

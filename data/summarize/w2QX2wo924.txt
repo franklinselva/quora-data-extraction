@@ -1,0 +1,462 @@
+This question which I personally found interesting and been asked in Google
+interview.
+
+Here it goes- __**_If you look at a clock and the time is 3:15 then what is
+the angle between the hour hand and minute hand_**?
+
+Take a couple of seconds to think about it and you must be thinking this is
+easy peasy.
+
+But the answer is not 0° as your instinct tells you.
+
+You can rethink for a minute(Don't worry,this isn't an interview :p )
+
+Now coming to the answer,the most common mistake that most of us made was we
+didn't take into account the movement of the hour hand of the clock between 3
+and 4 as a result of those 15 minutes.
+
+Like this.
+
+![](https://qph.fs.quoracdn.net/main-qimg-179029c01b167497db478972921367f3-c)
+
+Since the angle subtended by the entire clock is 360° ,so in an hour, the
+angle covered by the hour hand is 360/12=30° and in quarter of an hour,the
+angle is 30/4=7.5°
+
+ **So,the answer to the question is 7.5°**
+
+PS- if you haven't heard of this question before and got it right in the first
+go then do comment because I haven't seen anybody getting this right in their
+first attempt.Cheers.
+
+
+##########
+**Question :**
+
+A king wants his daughter to marry the smartest of 3 extremely intelligent
+young princes, and so the king's wise men devised an intelligence test.
+
+The princes are gathered into a room and seated, facing one another, and are
+shown 2 black hats and 3 white hats. They are blindfolded, and 1 hat is placed
+on each of their heads, with the remaining hats hidden in a different room.
+
+The king tells them that the first prince to deduce the color of his hat
+without removing it or looking at it will marry his daughter. A wrong guess
+will mean death. The blindfolds are then removed.
+
+You are one of the princes. You see 2 white hats on the other prince's heads.
+After some time you realize that the other prince's are unable to deduce the
+color of their hat, or are unwilling to guess. What color is your hat?
+
+Note: You know that your competitors are very intelligent and want nothing
+more than to marry the princess. You also know that the king is a man of his
+word, and he has said that the test is a ** _fair test_** of intelligence and
+bravery.
+
+.
+
+.
+
+.
+
+.
+
+Think hard before you see the explanation.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+ **Answer:** ** _White_**
+
+ **Explanation :**
+
+The king would not select two white hats and one black hat. This would mean
+two princes would see one black hat and one white hat. You would be at a
+disadvantage if you were the only prince wearing a black hat.
+
+If you were wearing the black hat, it would not take long for one of the other
+princes to deduce he was wearing a white hat.
+
+If an intelligent prince saw a white hat and a black hat, he would eventually
+realize that the king would never select two black hats and one white hat. Any
+prince seeing two black hats would instantly know he was wearing a white hat.
+Therefore if a prince can see one black hat, he can work out he is wearing
+white.
+
+Therefore the only fair test is for all three princes to be wearing white
+hats. After waiting some time just to be sure, you can safely assert you are
+wearing a white hat
+
+
+##########
+**Question** :
+
+You have a glass of tomato soup. You have to give it to two children. How
+would you divide the soup into two so that both of them are satisfied that
+they have got equal share of soup?
+
+ **Assumptions** :
+
+You have one empty glass also.
+
+The two glasses are of different shape and size.
+
+ **Answer** :
+
+Ask one of them to divide the soup into two equal parts. Then allow second one
+to choose his glass. Both of them satisfied.
+
+
+##########
+#1
+
+ **Consider 2 farthest squares of a chess board are removed from it. Let’s
+call this Chess Board C. You have an infinite number of (2 X 1) dominos i.e.
+dominos of size of 2 adjacent chess squares. Is It possible to cover every
+square of C with dominos without letting them overlap in any way?**
+
+ _Think_
+
+.
+
+.
+
+.
+
+.
+
+ **No**.
+
+The farthest squares removed from Chess Board C can either be both black or
+both white.
+
+![](https://qph.fs.quoracdn.net/main-qimg-9fbca5c668f2fe76cf8ced1525d3d191)
+
+But the dominos cover a square each of black and white.
+
+![](https://qph.fs.quoracdn.net/main-qimg-621df6d068971dd2a530986f55573493)
+
+So, with every domino placed you decrease the count of black and white squares
+uncovered equally.
+
+Hence, it is never possible to cover the chessboard with dominos, no matter in
+whichever way you arrange them since you have **two squares of the same
+colour** less.
+
+#2
+
+ **Imagine a circular table.**
+
+![](https://qph.fs.quoracdn.net/main-qimg-e1e4adb81882ab3035cde07fa9f033b6)
+
+ **You and your partner play a game of placing coins on the table, turn by
+turn. The coins are of a fixed surface area. The coin has to be placed flat on
+table with no 2 coins overlapping with each other. The first person who fails
+to find a space to place a coin on the table loses. Both the players play
+intelligently. Will you choose to play 1st or 2nd in the game in order to
+win?**
+
+The idea behind the game is - there is always a place to keep a coin on the
+table if you mirror your opponent’s move (reflection of his coin’s place over
+the center) as long as **he doesn’t keep it exactly on the center of the
+table**.
+
+![](https://qph.fs.quoracdn.net/main-qimg-30ece29cde481bb42c6aa319dee03564)
+
+So, you should start first and keep your coin exactly on the center of the
+table. Now, no matter what location your opponent chooses to place his coin,
+you mirror his moves. As long as he is able to find a place, you will too be
+able to keep a coin. Hence, it will be your opponent first who runs out of
+enough space to keep a coin and you win.
+
+ **Now, consider if there is a hole in the center.**
+
+![](https://qph.fs.quoracdn.net/main-qimg-6768b74e6e89e2d5213d045c4359947d)
+
+ **What’s your strategy now?**
+
+You choose to play 2nd in this case since there is no center here.
+
+
+##########
+I found this puzzle interesting.
+
+Puzzle:
+
+A certain town comprises of 100 married couples. Everyone in the town lives by
+the following rule: If a husband cheats on his wife, the husband is executed
+as soon as his wife reports about him to mayor. No woman can report about
+other’s husband. Every woman in the town knows about all the cheating husbands
+in the town except her own. One day, the mayor of the town announces to the
+whole town that there is at least 1 cheating husband in the town. How many
+days it will take to find out 19 Cheaters from the day of announcement?
+
+Solution:
+
+ **19 Days**
+
+Say there was only 1 cheating husband in the town. There will be 99 women who
+know exactly who the cheater is. The 1 remaining woman, who is being cheated
+on, would have assumed there are no cheaters. But now that the mayor has
+confirmed that there is at least one cheater, she realizes that her own
+husband must be cheating on her. So, her husband gets executed on the day of
+the announcement.
+
+Now let’s assume there are 2 cheaters in the town. There will be 98 women in
+the town who know who the 2 cheaters are. The 2 wives, who are being cheated
+on, would think that there is only 1 cheater in the town. Since neither of
+these 2 women know that their husbands are cheaters, they both do not report
+their husbands in on the day of the announcement. The next day, when the 2
+women see that no husband was executed, they realize that there could only be
+one explanation – both their husbands are cheaters. Thus, on the second day, 2
+husbands are executed.
+
+Through induction, it can be proved that when this logic is applied to **n**
+cheating husbands, they all die on the **n** th day after the mayor’s
+announcement.
+
+Looking for more interview puzzles with descriptive answers? Try this app.
+This app consists of 75 most frequently asked interview puzzles.
+
+[Interview Puzzles - Android Apps on Google
+Play](https://play.google.com/store/apps/details?id=com.education.interviewpuzzles&rdid=com.education.interviewpuzzles)
+
+
+##########
+**_Here is the list of best interview puzzles._**
+
+ **1\. Crossing the Bridge Puzzle**
+
+Puzzle : Four people need to cross a rickety bridge at night. Unfortunately,
+they have only one torch and the bridge is too dangerous to cross without one.
+The bridge is only strong enough to support two people at a time. Not all
+people take the same time to cross the bridge. Times for each person: 1 min, 2
+mins, 7 mins and 10 mins. What is the shortest time needed for all four of
+them to cross the bridge ?
+
+ **Solution :**
+
+ **2\. 25 horses 5 track Puzzle**
+
+Puzzle : There are 25 horses out of which you need to find the fastest 3
+horses. The race ground consist of 5 tracks that means you can run only 5
+horses at a time. If you don't have a stop watch what is the minimum number of
+races required to find the fastest 3 horses ?
+
+ **Solution :**
+
+ **3\. 2 Eggs 100 floor Puzzle**
+
+Puzzle : There is a building of 100 floors If an egg drops from the Nth floor
+or above it will break. If it’s dropped from any floor below, it will not
+break. You’re given 2 eggs. Find N, while minimizing the number of drops for
+the worst case ?
+
+ **Solution :**
+
+ **4\. Ant and Triangle Problem**
+
+Problem : Three ants are sitting at the three corners of an equilateral
+triangle. Each ant starts randomly picks a direction and starts to move along
+the edge of the triangle. What is the probability that none of the ants
+collide ?
+
+ **Solution :**
+
+ **5\. Red and Blue Marbles Puzzle**
+
+Puzzle : There are 2 identical empty jars along side the jars there were 50
+red & 50 blue marbles kept. You need to put all the marbles into both of the
+jars in such a way that when any jar is selected at random the probability of
+picking up a red marble is the highest.
+
+ **Solution :**
+
+ **6\. Connect 3 Houses with 3 Wells.**
+
+Connect 3 Houses with 3 Wells without the lines intersecting ?
+
+Source : [Maths Puzzles
+Games](https://www.youtube.com/playlist?list=PLoePu5if4QWXzezl1lRtrwvbHk8v3Dpqx)
+
+
+##########
+It depends for what position the interview is. These are few puzzles which are
+good for tech interviews and have been asked by top companies.
+
+ **Google**
+
+ **1, 11, 21, 1211, 111221, ………**
+
+[ **What is the next number?**](http://epicworld.co.in/google-interview-
+question-number-sequence-puzzle/)
+
+ **Apple**
+
+You love candy and you are given 3 opaque candy jars which contain candies
+that are either orange or pink. One of them is labeled ‘Orange’, one ‘Pink’
+and one ‘Orange + Pink’. Orange jar has only orange candies, pink jar has only
+pink candies and ‘Orange + Pink’ jar has both orange and pink candies. But,
+all three of them have been mislabeled. You can take out one candy at a time.
+
+[ **What is the minimum number of candies that you need to take out to label
+all 3 jars correctly.**](http://epicworld.co.in/apple-interview-puzzle-
+mislabeled-jars/)
+
+ **Google**
+
+The probability of spotting a truck on a highway in an hour is 0.999. [**What
+is the probability of spotting a truck on that highway in 20
+minutes?**](http://epicworld.co.in/google-interview-simple-probability-
+questions/)
+
+ **Microsoft**
+
+There is an equilateral triangle and three bugs are sitting on the three
+corners of the triangle. Each of the bugs picks up a random direction and
+starts walking along the edge of the equilateral triangle.  
+[ **What is the probability that none of the bugs crash into each
+other?**](http://epicworld.co.in/microsoft-interview-question-3-bugs-puzzle/)
+
+All the best for your interviews!
+
+
+##########
+**Question :**
+
+A king wants his daughter to marry one of 3 young princes, so he devises an
+intelligence test. The princes are gathered into a room and are shown 2 black
+hats and 3 white hats. They are blindfolded, and 1 hat is placed on each of
+their heads, with the remaining hats hidden in a different room. The king
+tells them that the first prince to deduce the color of his hat without
+removing it or looking at it will marry his daughter. A wrong guess will mean
+death. The blindfolds are then removed. You are one of the princes. You see 2
+white hats on the other prince's heads. After some time you realize that the
+other prince's are unable to guess the color of their hat. What is the color
+of your hat?
+
+ **Answer :**
+
+There are two possibilities; either the hat on your head could be black or
+white. There are 3 cases; 1) either the king could have chosen 2 black hats
+and 1 white hat, 2) the king could have chosen 1 black and 2 white hats, and
+3) the king could have chosen 3 white hats. Let us examine these cases 1 by 1.
+
+Case 1: There are 2 black hats and 1 white hat on the princes' heads. In this
+case, the prince wearing the white hat can see that the other two princes have
+black caps on their heads and can immediately guess that he is wearing a white
+cap. This case is obviously not true.
+
+Case 2: There is 1 black hat and 2 white hats on the princes' heads. In this
+case, any prince wearing the white hat (Prince A) can see that one other
+prince is wearing a white hat (Prince B), while the third is wearing a black
+hat (Prince C). Now, if he was wearing a black hat (as in case 1), then the
+prince with the white hat (Prince B) would immediately have guessed the color
+of his hat. However, this is not true because the other prince was unable to
+guess the color of his hat. Hence, it is easy for this prince (Prince A) to
+guess that he is wearing a white hat. This does not happen, as we know that
+the princes are unable to guess the color of their hats. Therefore, this case
+is also not true.
+
+Case 3: This only leaves us with the case where the king chose 3 white hats.
+Therefore, any of the three princes can, after waiting for a while, safely
+guess that they are wearing a white hat.
+
+
+##########
+A Google job interview favorite that was recently solved by Artificial
+Intelligence.
+
+100 hat puzzle
+
+100 prisoners stand in line, one in front of the other. Each wears either a
+red hat or a blue hat. Every prisoner can see the hats of the people in front
+– but not their own hat, or the hats worn by anyone behind. Starting at the
+back of the line, a prison guard asks each prisoner the color of their hat. If
+they answer correctly, they will be pardoned. Before lining up, the prisoners
+confer on a strategy to help them.
+
+What should they do?
+
+
+##########
+1.You are standing before two doors. One of the path leads to heaven and the
+other one leads to hell. There are two guardians, one by each door. You know
+one of them always tells the truth and the other always lies, but you don’t
+know who is the honest one and who is the liar.
+
+You can only ask one question to one of them in order to find the way to
+heaven. What is the question?
+
+[ **HERE’S THE ANSWER**](http://onisedeo.com/uaA)
+
+2.A farmer bought a goat, a wolf and a cabbage from the market. On his way
+home, he has to cross a river. He has a small boat which only allows him to
+take one thing with him at a time. The farmer cannot leave the cabbage and the
+goat together (the goat would eat the cabbage) nor can he leave the goat and
+the wolf together (the wolf would eat the goat). How does he cross the river
+without losing any of the things he bought?
+
+[ **HERE’S THE ANSWER**](http://onisedeo.com/3I8I)
+
+3.The probability of a car passing a certain intersection in a 20 minute
+windows is 0.9. What is the probability of a car passing the intersection in a
+5 minute window? (Assuming a constant probability throughout)
+
+[ **HERE’S THE ANSWER**](http://onisedeo.com/2K3u)
+
+4.On a certain island there are people with assorted eye colors. There are 100
+people with blue eyes and 100 people with brown eyes. Since there are no
+mirrors on this island, no person knows the color of their own eyes. The
+people on the island are not allowed to talk or communicate with each other in
+any way. They are also **NOT** aware of the number of blue or brown eyed
+people on the island. For all they know, they could have red eyes too. But
+they are allowed to observe other people and keep count of the number of
+people with a certain eye color. There is a rule that the people on the island
+have to follow – any person who is sure of their eye color has to leave the
+island immediately.
+
+One day, an outsider comes to the island and announces to the people that he
+sees someone with blue eyes. What do you think happens?
+
+[ **HERE’S THE ANSWER**](http://onisedeo.com/4WD6)
+
+5.You have two sticks and matchbox. Each stick takes exactly an hour to burn
+from one end to the other. The sticks are not identical and do not burn at a
+constant rate. As a result, two equal lengths of the stick would not
+necessarily burn in the same amount of time. How would you measure exactly 45
+minutes by burning these sticks?
+
+[ **HERE’S THE ANSWER**](http://onisedeo.com/4WEp)
+
+
+##########
+Amazon Interview Question → This question was asked to me during my interview
+at Amazon.
+
+There are 100 doors they are all closed.
+
+A Person walks through these 100 doors 100 times. Each time he toggles some of
+the doors. ( Toggles - close if open, open if close )
+
+In the first walk he will toggle all the doors[.](http://doors.in)
+
+In second walk, he will toggle every second door, i.e., 2nd, 4th, 6th, 8th and
+so on
+
+In third walk, he will toggle every third door, i.e. 3rd, 6th, 9th and so on,
+
+So after 100th Walk, what all door will be open?
+
+Answer. The explanation of the puzzle is long in this video so for answer
+directly start from 1.30
+
+
+##########

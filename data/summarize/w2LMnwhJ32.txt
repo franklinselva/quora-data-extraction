@@ -1,0 +1,1168 @@
+**Profile-**
+
+ **10th:** 91.69
+
+ **12th:** 69
+
+ **Grad:** 70 (Computer Engineer from MU)
+
+ **Work Experience:** 21 months - Database Developer at [Media.net | One of
+the largest ad-tech companies worldwide](http://media.net)
+
+ **Category:** NC-OBC
+
+I have been interviewed at FMS twice.
+
+Direct reject the first time :(
+
+Direct convert the second time :D
+
+ **First time-**
+
+ **CAT 2016:** 92.83 percentile
+
+ _There were 2 ladies (L1 and L2) and one gentleman(M1)_
+
+ _L2 was the senior most amongst them_
+
+ **L2:** Ritesh, you’re a Computer Engineer. Do you think we have too many
+Computer Engineers in India?
+
+ **Me:** No ma’am. We’re a developing country and we need computer engineers
+to develop the IT infrastructure of the country. John Adams, a founding father
+of the US once said, “I need to learn Politics and War so that my son may
+learn Engineering, Navigation and Architecture and then his son may pursue the
+nobler aspects of life like Poetry, Music etc.” It always happens in stages.
+We are a developing country and currently we are at a stage where we need
+engineers. Civil Engineers to build roads and other physical infrastructure.
+Computer Engineers to build the IT infrastructure and so on.
+
+ **L2:** Okay. What you’ve just said, draw a graph of that.
+
+ **Me:** (I was befuddled but masked my confusion) Do you mean a tree?
+
+ **L2:** No, a graph with X and Y axis
+
+ **Me:** What do you want me to put on these axes?
+
+ **L2:** Anything that you deem fit.
+
+(I, knowing this wouldn’t exactly please them, put investment in education on
+X-axis and growth on Y-axis)
+
+ **Me:** (Explaining it) Initially when you invest a lot, the growth won’t
+show instantly but it’ll start showing over time.
+
+ **L2:** What is this? (Her features conveying that I didn’t understand her
+question)
+
+ **M1:** Shouldn’t your graph be an inverted U shape? You start studying
+Liberal Arts then study engineering and then return to Liberal Arts.
+
+ **Me:** Oh, in that way, yes it can be.
+
+ **L2:** Have we given him his extempore topic yet?
+
+ **L1:** No
+
+(I had my folder on my lap. I believe it is impertinent to place it on the
+desk without permission)
+
+ **L2:** You can put your folder on the desk. That’s what it is there for.
+
+ **Me:** (Placing it there) Thank you ma’am.
+
+ **L1:** Your extempore topic is ‘Folder’
+
+ **Me:** Sorry. I didn’t get you
+
+ **L1:** (Pointing at my folder) Folder
+
+ **Me:** A folder is used to store documents but with technological
+advancements, I could just scan my docs and store them in the cloud and access
+them from anywhere. But for important occasions like this interview, hard
+copies of important docs are required so a folder is required to encompass
+these hard copies and also convey professionalism. Also, the word fold means a
+group of people having similar characteristics or leaning so we could refer to
+them as a folder of sorts. The verb ‘fold’ means to give in or warp under
+pressure so we could refer to a guy who folds, metaphorically speaking, as a
+folder as in he has folded. He has quit. (I was pretty sure that I had spoken
+for 1+ minute and was running out of ideas so I just faded and said ‘That’s
+all about folder’)
+
+ **M1:** Do you know about supercomputers?
+
+ **Me:** Yes, supercomputers are more powerful than your general PCs, possess
+a large amount of memory and a lot of processing power. They are used in
+number crunching, weather forecasting, scientific calculations etc.
+
+(M1 grilled me for quite some time about supercomputers)
+
+ **M1:** What’s a lot?
+
+ **Me:** Lot is something that transcends what you would deem as normal. It is
+something that’s above average.
+
+ **M1:** Quantify it
+
+ **Me:** Sir, my understanding of supercomputers is limited so I can not
+quantify it with authority. I can only guess. Also, nowadays even general
+purpose computers are really powerful. We have dual, quad and octa core
+microprocessors capable of performing parallel processing and thereby
+processing a large amount of data in a very short time. Data ranging in many
+TBs.
+
+ **M1:** What comes after TBs? Do you know?
+
+ **Me:** TB stands for Terra Byte. I do not know what comes after that.
+
+ **M1:** How many processors if you were to hook up together would you have a
+supercomputer?
+
+ **Me:** I am not sure. I could only conjecture if I were to be allowed to do
+that. And like I said we’ve come a long way. The first microprocessor Intel
+4004 was really weak and today we have powerful 32 and 64 bit octa core
+processors
+
+ **M1:** Yea try a guess about the number of processors
+
+ **Me:** I suppose 7-8 (This was grossly inaccurate. I looked it up later, the
+world’s most powerful super computer has close to 41,000 processors)
+
+ **L2:** You have an accent when you speak. How did you come to have it? Did
+you acquire it or something else?
+
+(I have a slightly foreign accent and I always try to mask it in interviews as
+I don’t like to explain it but damn it she caught it :P)
+
+ **Me:** Yes ma’am. I suppose I grew up watching too many Hollywood movies so
+I might have sub-consciously picked it up. (Nonchalantly) I don’t think too
+much about it though!
+
+ **L2:** Has anybody mentioned it to you?
+
+ **Me:** Yes ma’am, friends have mentioned it. Colleagues have too.
+
+ **L2:** Any converts so far?
+
+ **Me:** No ma’am. I have calls from the new IIMs and they haven’t released
+their lists yet.
+
+ **L2:** So no converts so far?
+
+ **Me:** Yes ma’am. No converts yet.
+
+(The interviewers looked at each other and then told me that the interview was
+over. I was getting up when M1 interjected)
+
+ **M1:** When you go out, read up about supercomputers
+
+ **Me:** (with a wide smile)Yes sir, I certainly do intend to do so.
+
+(I wore a smile throughout the interview even when I felt I was being put on a
+spot)
+
+ **Verdict:** Not converted
+
+ **Scores:**
+
+ _Extempore-_ 5/5
+
+ _Interview-_ 9/10
+
+i.e. a total of 14/15, the highest score awarded to any candidate that year :P
+
+ **Second time-**
+
+ **CAT 2017:** 99.31 percentile
+
+ _There were 2 ladies (L1 and L2) and one gentleman(M1)._
+
+ _L1 didn’t ask anything. L2 was really sweet. M1 could be a little rough at
+times._
+
+ **L2:** We’ll be giving you an extempore topic. You have to speak on it for a
+minute. You’ll have 10 seconds to think. We’ll tell you when to start.
+
+ **Me:** Yes ma’am, certainly.
+
+ **L2:** Do you know about Ritesh Deshmukh?
+
+ **Me:** Not much ma'am.
+
+ **L2:** Okay your extempore topic is 'My favorite heroine'.
+
+ **Me:** Talked about Mila Kunis (Though my favorite is Alexandra Daddario
+because she's quite bodacious to say the least :P)
+
+ **L2:** You seem to have done quite a lot of research on her.
+
+ **Me:** Yes ma'am, she not only acts but is also involved in social work
+along with her husband Ashton Kutcher
+
+ **L2:** Who's your favourite from Bollywood?
+
+ **Me:** Kareena Kapoor ma'am
+
+ **M1:** What about Rani Lakshmi Bai, is she not your favourite heroine?
+
+ **Me:** Yes sir, if we were to interpret heroine in that way, she too is an
+inspiration to many
+
+ **M1:** What do you know about her?
+
+ **Me:** She's known as Jhansi Ki Rani (was going to elaborate, M1
+interrupted)
+
+ **M1:** Who's representing her in a movie?
+
+ **Me:** I'm not sure about it but I if I were to be allowed to guess
+
+ **L2:** Yes try (gesturing assent)
+
+ **Me:** I think Kangana Ranaut
+
+ **L2:** Correct. So, you have 91.69 in 10th, a drop in performance 12th: 69
+and then 70 in B.E.
+
+ **Me:** Yes ma’am
+
+ **L2:** You've mentioned your father is a newspaper vendor (in the form), so
+what do you mean? I mean how does it all work. Could you explain? We don’t
+know exactly which layer a news paper vendor falls in. Like is he in the
+middle layer or where? How is it all structured?
+
+ **Me:** It begins with manufacturing of newspapers (L2, with a look on her
+face that betrayed the feeling that that's not what she was asking)
+
+ **Me:** Also, we have wholesalers who'd aggregate it from multiple newspaper
+companies and then provide it to us. We're retailers. The last leg that meets
+the customer.
+
+ **L2:** So, you're the company's customer facing unit.
+
+ **Me:** Yes ma'am. Also, in today's technologically advanced world there's
+disintermediation happening. So, people are reading news online and people
+like my father are less and less needed and are becoming redundant.
+
+ **L2:** How much do the various people involved make? Wholesalers,
+manufacturers, retailers?
+
+ **Me:** My father makes 25%. That’s what he’s told me. I don’t know about the
+others.
+
+ **L2:** What happens when you have more papers than you can sell?
+
+ **Me:** There are some newspaper companies that allow us to return newspapers
+back to them that have been unsold. This is part of their reverse logistics
+process. Since we're their partners, they manage us well.
+
+ **M1:** So, for the manufacturer once it goes to the retailer, my job is
+done?
+
+ **Me:** No sir, market share is only a reflection of what's happened in the
+past. You also need to think about future and keep customers happy. From that
+perspective, the manufacturer obviously cares about (M1 interjected)
+
+ **M1:** That's not what I meant. I'm talking from the perspective of money.
+Will the wholesaler just take all unsold newspapers back?
+
+ **Me:** Sir, there's reverse logistics. TOI i.e. the manufacturer, for
+instance takes all unsold newspapers back and not the wholesaler.
+
+ **L2:** Is it credit based? Will they not charge you for unsold newspapers?
+How will the money be remitted to you?
+
+ **Me:** No ma'am. There is no credit. Daily payment has to be made. For
+unsold newspapers, money will be credited back. Also, the same newspaper
+company charges different prices at different places sometimes. For instance,
+Hindu charges Rs. 5 in Chennai and Rs. 10 in Mumbai
+
+ **L2:** So you've written you write poetry
+
+ **Me:** Yes ma'am, I pen prose and poetry
+
+ **L2:** Could you recite one of your poems for us? A short one. Whichever
+language it is in
+
+ **Me:** I pen poetry in English, ma’am.
+
+(Recited one poem of mine verbatim. Also, I later found out that L2 herself is
+a poet :P)
+
+ **L2:** (smiling)Were you expecting that we would ask you to recite a poem?
+
+ **Me:** (smiling)No ma’am, I had not expected, but it’s one of my favorite
+poems that I have penned so I remember it well!
+
+ **L2:** Do you have any siblings or are you the only child?
+
+ **Me:** I have a younger sister ma’am.
+
+ **L2:** What is she doing?
+
+ **Me:** She’s pursuing BBA ma’am. She’s in her second year.
+
+ **M1:** Do you have any other calls?
+
+ **Me:** IIM L and K, sir
+
+ **M1:** Why not ABC? You have a good percentile.
+
+ **Me:** It's probably as ma'am mentioned because of my low 12th percentage
+
+(M1 reads my percentage 91.69 in 10th. 69 in 12th and 70 in BE)
+
+ **M1:** So, FMS is your best call (I was amazed he didn’t consider L to be at
+par with FMS but didn’t show it)
+
+ **Me:** Yes sir, I knew ABC would not call me. The whole year my preparation
+has been with one goal in mind- converting FMS. That's the institution that
+I've been aiming for right from the time I started preparing for CAT.
+
+ **M1:** So why do you want to come to FMS?
+
+ **Me:** (gave a prepared answer) FMS was founded in 1954. It has a decades
+old legacy and an extensive alumni network, with alumni employed in both
+public as well as private sector. So, it would be a great opportunity to
+connect with and learn from them.
+
+Being amongst the top B schools in India and also situated in the Delhi-NCR
+region, both corporate and government luminaries through their guest lectures
+provide valuable insights to the students at FMS.
+
+It also attracts quality students with high aptitude from various disciplines
+(Science, Commerce, Arts) that would enable me to learn from them, result in
+peer learning and also pose challenges in front of me to push myself harder to
+excel.
+
+Also, every permanent faculty member is a PhD with extensive teaching
+experience and the faculty to student ratio is high.
+
+All the advantages mentioned above and the structured and rigorous program
+that MBA is would expand my cognitive capabilities and help me develop a
+holistic approach when analysing and resolving problems
+
+ **M1:** Why do you need reservation(NC-OBC)? You have a good percentile
+(99.31)
+
+ **Me:** Sir, it is a right bestowed upon me by the Constitution of India so
+that people like me who are not economically privileged can rise up. A rich
+person will provide the right kind of resources to his son. He’ll get good
+tuition, go to a good school and so on. But the economically underprivileged
+don’t have access to quality resources, so it is there to help them rise up.
+Also OBC reservation is provided based on income. It is not intended for the
+well to do OBCs. I suppose currently there’s a cap at Rs. 8 lakhs for
+providing reservation.
+
+ **M1:** A salary of Rs. 45,000 per month. How are you economically
+underprivileged? (with a smirk and then he looked at the other interviewers)
+
+ **Me:** I am the first graduate in my family. Reservation is based on my
+father’s income and not mine. For the first 21 years of my life, I did not
+have access to proper resources and had to work very hard to rise up.
+
+ **M1:** Are you 21 now?
+
+ **Me:** No sir. But as I said for the first 21 years, I didn’t have access to
+quality resources so my upbringing was such that I was deprived of quality
+resources.
+
+ **L2:** We see 1 or 2 students who have reservation but choose not to take
+it. You seem to be having good skills. Would you want it for your son?
+
+ **Me:** If I am well to do and he has access to quality resources, then no
+ma’am
+
+ **All 3:** Okay, that’s it.
+
+(L2 being the sweet lady that she is also informed me that my GD will be
+conducted once they are done interviewing the others in my panel. She asked me
+to wait and not leave without giving my GD. I was really looking forward to
+interacting with and learning from her once college began)
+
+ **Verdict:** Direct Convert :D
+
+
+##########
+I did something similar to [Luca Petty](/profile/Luca-Petty)’s answer, but my
+experience wasn’t out of choice, but rather out of necessity, and I worked 10
+- 12 hours a day for about 6 months, not 30 days.
+
+ _I’ve worked for multiple agencies in senior roles in my career, and I won’t
+be clarifying which agency I’..._
+
+
+##########
+**Profile** : B. Tech Planning (Urban and Regional), Work exp.: 9 months
+
+ **Interview slot:** 08:30 hrs. 20 April 2018.
+
+The process started with document verification followed by Group Discussion
+and finally Personal Interview.
+
+ **Group Discussion:**
+
+As ABC shortlists were out, GD’s were just wow! (6-7 people in the group).
+
+The panel consisted of 3 professors, all male.
+
+Topic: Globalization is hampering/ destroying Indian culture. The GD went well
+with a lot of points covered during the discussion.
+
+ **Personal Interview-** ** _Panels for GD and PI are the same._**
+
+P1: Introduce yourself to the panel.
+
+Me: Introduced.
+
+P2: (Interrupted) What is this degree of yours- B. Tech Planning?
+
+Me: Stated that it is Urban/ Town Planning and gave details.
+
+(P1 asked me to continue my introduction. I continued and finished)
+
+P1: Why do you want to I an MBA?
+
+Me: Answered.
+
+P1: One last question from my side, name any 3 international real estate firms
+in India.
+
+Me: JLL, Knight Frank, Trump Towers
+
+P1: P2 will now give you a topic for extempore.
+
+P2: Rural India
+
+Me: Spoke about the migration of people, need to develop rural areas,
+government initiatives for the same. _(I felt it went well)_
+
+P3: Two questions for you-
+
+a. You have said about the haphazard development in urban areas- How will you
+getting an MBA help you achieve it? _(I mentioned about it in my extempore but
+don't recollect saying my interest in working for it!)_
+
+Me: Answered.
+
+b. Which ministry looks after Urban development?
+
+Me: Ministry of Urban Development.
+
+P3: And for connectivity between two cities?
+
+Me: Ministry of Roadways and Transport.
+
+P3: Who are the Cabinet Ministers?
+
+Me: For transport- Nitin Gadkari; For MoUD- I can't recollect! _(This was
+embarrassing! -_-)_
+
+P3: Okay!
+
+P2: So your degree is B. Tech Planning, do you have any subjects related to
+Mech, Civil?
+
+Me: No sir. (Then explained that our college is an Engineering college and
+hence the degree needed to be a technical one)
+
+P2: Okay Jay! Thank you, you may leave.
+
+Me: Thank you Sir!
+
+ **Overall suggestions for candidates-**
+
+1\. Carry **a pen** , smiling face and just appropriate confidence (not more,
+not less).
+
+2\. If you've posted the required documents timely, you won't need any
+photocopies. If you haven't, don't worry. There's a xerox shop outside. The
+admission committee will let you know what all photocopies they'll require.
+
+3\. **Rock your GD!** There were just 6-7 students in one panel as ABC had
+declared their shortlists.
+
+4\. Extempore topics of the fellow interviewees-
+
+a. The first one (Probably being the first to be interviewed)
+
+b. A banana
+
+All the Best for your interviews! :)
+
+
+##########
+**FMS Delhi**
+
+Slot- 2:00 PM
+
+20th April’18
+
+CAT Percentile: 98.44 **(Score: 32.986/60)**
+
+Profile:
+
+10th: 84.67 (RBSE) **(Score: 4/5)**
+
+12th: 74.77(RBSE) **(Score: 3/5)**
+
+Graduation: 7.78- Electronics and Communication Engineering-NIT Trichy
+
+Work Exp: 32 Months-Automobile Sector
+
+ **GD Topic:** Law should be an instrument for Social Change.
+
+9 People in my Panel, two were absent. Three Moderators for the GD.
+
+Time: 8 Mins (7(per person a Minute) +1 Min)
+
+(Spoke about the Land Acquisition law, moved from the 1894 law to 2013 Law.
+Mention the Benefits of LAAR (Land Acquisition, Rehabilitation and
+Resettlement) 2013. Mention the IBC (Insolvency and Bankruptcy) Code 2016 and
+its benefits for development. Spoke about the Anti Rape Law 2013 and
+punishment provision under this law. Concluded with the role of executives in
+the implementation of the laws.) **(Score: 6/10)**
+
+ **Interview Process:**
+
+I was 5th in My Panel.
+
+3 Panelists, 2 Male, and 1 Female Professor. Let’s call them P1 (Senior Male
+Professor), P2 (Young Male Professor), P3 (Female Professor).
+
+Interview Coordinator called my name and I entered the room. I stand near the
+seat to wait for the permission to be seated.
+
+P1: Sit Down, Please.
+
+Me: Thank You, Ma’am.
+
+P3: So Ramraj, Introduce yourself.
+
+Me: After the well-rehearsed introduction where I talked about My Strengths,
+Work Experience. I also talked about the Patent, Marketing Project.
+
+*Interrupted by P3.*
+
+Its extempore time now.
+
+P3: Ramraj, We will give you a topic and you have 10 Secs to think about it
+and one minute to speak.
+
+Me: Ok Ma’am.
+
+P3: Your topic is “IPR”.
+
+Me: Can I have a rough page, please?
+
+P2: No, you construct your thoughts and speak.
+
+Me: Ok Sir.
+
+After 10 Secs
+
+Me: Full form of IPR is Intellectual Property Right. Intellectual Property
+(IP) is the product human intellectual. It Includes the concepts, Products,
+Creativity etc. and the rights protected to IP is known as IPR. Patent is one
+of the form of IPR and it protects the Functional Expression of the product.
+Like if a company develops a new technology than that company has exclusive
+rights to use that particular technology, others cannot use that technology
+without the permission of the company. India follows the IPR Act 1970 and the
+no of application per year from India is very less compare to China and USA
+and no of Patents granted to India is also very less compare to China and USA
+**. (Score: 4/5)**
+
+P3: Times up.
+
+P2: Ramraj, You speak so fast. Did you prepare this for the interview?
+
+Me: Sir It is the natural for me.
+
+P2: In which Quality are you working?
+
+Me: Sir, I am working in Current Quality Department.
+
+P2: What Quality Standards you follow?
+
+Me: Sir we follow the TS Standards.
+
+P2: Which no?
+
+Me: Sir its TS 16949.
+
+P2: It is equivalent to ISO.
+
+Me: Sir ISO 9001.
+
+P2: What is Ford’s Quality Standard?
+
+*Out of the blue question for me*
+
+*Blank Face*
+
+P2: Ford ingenuously developed a Quality Standard. What is it?
+
+Me: Sir, in my company, another department is looking for the standard. I do
+not know about this.
+
+P2: It’s QA101. Just have a look at it. Now Ma’am will ask you the questions.
+
+P3: Ramraj, Name any three Social Entrepreneur.
+
+Me: Ma’am in which field?
+
+P3: Any field.
+
+Me: Ma’am I do not know.
+
+P3: Ok Ramraj. We are done. All the best. Thank you.
+
+Me(Smiling): Thank you, Ma’am and left the room. **(PI Score: 9/15)**
+
+And that was it. NO TOFFEES, NO COOKIES.
+
+*It was the shortest interview, lasted only 5 Mins.*
+
+ **Cumulative Score: 58.986**
+
+ **Edit 1: List 1: Waitlist 48**
+
+
+##########
+Profile:
+
+CAT percentile: 99.47
+
+10th:94.6
+
+12th:92.4
+
+Grad: 7.69(Btech: Electrical Engineering)
+
+GD topic: Will IT industry create maximum jobs in India in future?
+
+9 minutes for 7 people (including conclusion)
+
+Me: Gave 2–3 generic points. Number of engineers, governments liberalizing
+rules, cheap manpower available. After everyone spoke once, talked about AI
+and how it will affect jobs. Discussion started on AI. Some guy spoke about
+recession and how IT fires most employees. Countered the argument. GD ended.
+
+I was pretty confident that I had nailed the GD and it will be easy from now
+on. (LOL)
+
+P1: introduce yourself
+
+Me: blanked out. Spoke an introduction I had never prepared. Plus was nervous
+so was speaking a little fast.
+
+P1: Are you in a hurry? Why so fast?
+
+P2: Bht baar rehearse kiya hoga.
+
+Me:*Facepalm* Laughs. Yes sir, it is an important interview.
+
+P1: Ok, extempore topic for you is “ Roses are red”
+
+Me: Smiles. Ok
+
+P1: And the line that follows it in the quote. You need to speak on both.
+
+Me: *Wot?* Ok sir. After ten seconds of gazing awkwardly at the table
+
+Talked about roses coming in different colours and so do violets. Talked about
+generalization, glass ceiling, caste barriers,gender specific roles. Then
+about modernization and need to change with time.
+
+P3: Time up
+
+P1: But where does this quote originate from?
+
+Me: Sir I don’t know
+
+P1: Actual use of this phrase was done where?
+
+Me: Sir I don’t know. I picked it up as an abstract topic.
+
+P1: Yeah. What you said was okay.
+
+P2: Which school are you from?
+
+Me: Mt. Carmel
+
+P2:Why?
+
+Me: *WTF!*
+
+P1 cuts in: Yeah. Pretty good English she has.
+
+P1: Tell us why MBA?
+
+P2: Are you fed up of your job, that CRM and all?
+
+Me: Talked about my role and connected it to management. They looked
+convinced.
+
+P1: You must have prepared for this interview. How did you prepare?
+
+Me: *I didn’t use any source actually* Blurted out reading newspapers and
+forming an opinion on everything. Said Hindu somewhere there.
+
+P1: Who is the publisher ?
+
+Me: Sir, Don’t know
+
+P2: He is south indian.
+
+Me: Yes sir. It is published in Chennai. But I can’t recall his name.
+
+P2:Kasturi
+
+Me: *Confused now* Sir, the owners are the hindu group and Kasturi and sons.
+
+P1 & P2 laughing
+
+ME: *What is happening here*
+
+P1: Content editor btao
+
+Me: Mukund Padmanabham
+
+P2: Says some other random name
+
+P1: What is hindu’s business line called?
+
+Me: Sir I don’t know
+
+P2: This means you don’t pay attention
+
+Me: No sir. I just can’t recall the names right now. Besides Hindu was just a
+bsic framework I used. I did my own research on topics from then on.
+
+P1: Tell us what can we ask you?
+
+Me: Sir I write
+
+P1: *Interrupts* Write what?
+
+Me: Short stories
+
+P1: You must be reading also?
+
+Me: Yes sir *Tried to tell I read novels but was interrupted*
+
+P1: Favorite author
+
+Me: Khaled Hosseini
+
+P1: His works other than Kite runner
+
+Me: Told all three books and the one upcoming in 2018. Als told what the new
+book is about.
+
+P1: What about Paulo Cohelo?
+
+Me: Told about Alchemist, Zahir, adultery. Told my opinion about the two
+writers and why I like Khaleed more.
+
+P2: But these are not short story writers. O Henry, a few other names I hadn’t
+heard of, these are.
+
+P1: Ye kahan sune honge. 100 saal pehle waale hai ye toh!
+
+Me: Sir i have read O Henry’s works. But I mostly read novels.
+
+P2: Have you heard of *some strange author*
+
+Me: No sir
+
+P2: Read it. He writes good.
+
+P2: Now I’ll ask you questions from academics.
+
+P2:What is power factor
+
+Me: Told
+
+P2: Higher/Lower P.F?
+
+P1:Which is better? Why?
+
+Me: *Told*
+
+P2: How do you increase power factor?
+
+ME: Told two methods
+
+P2: Difference between transmission and distribution?
+
+Me: Took a second to think and to frame answer.
+
+P2: What is the difference between generation unit and household.
+
+Me: Told. And told difference between transmission and distribution along with
+it.
+
+P2: Between substations and houses what is there?
+
+ME: Sir transformers
+
+P2: Nothing else?
+
+Me: *Shit!*
+
+P2: Distribution sub stations
+
+Me: *Smiling* Yes sir. Followed by transformers
+
+P2: % loss in T& D
+
+Me: Around 20%
+
+P2: What? Itna zyada
+
+Me: Spoke about generation capacity of India and available % power thus
+accounting for 20% loss
+
+P2: That’s it. Thankyou
+
+Verdict: Converted!
+
+
+##########
+**Date** \- April 16 ( 10:00 AM slot)
+
+ **Venue** \- FMS Delhi
+
+ **Profile**
+
+X- 89.50%(Gujarat Board)
+
+XII - 92.62% (Gujarat Board)
+
+BTech (Mechanical) - 81.2% (NITK Surathkal)
+
+ **CAT** \- 99.81
+
+General | Engineer | Male | Fresher
+
+ **GD** \- Simplicity is the sole reason for success(Not verbatim- it was
+something along these lines)
+
+GD was arguably the most important part of the selection process because the
+panelists who evaluate your GD take your interview as well. There were 8 of us
+and so we were given 9(8+1) minutes to discuss. I began the GD. Spoke for more
+than a minute, drew contrasts by giving out examples. Pitched in 3-4 times
+more. Added that though simplicity is one of the most important virtues, it
+wouldn’t be right to call it the sole reason. Talked about Mr. Manohar
+Parrikar as well. Overall, I felt I did a really good job in the GD.
+
+ **PI** \- I was the penultimate person in my panel. Our panel was taking 8-10
+minute interviews. Finally my turn came at 11:40.
+
+I entered the interview room and saw 2 female panelists F1 and F2.
+
+Me: Good morning ma’am.
+
+F1: Good morning.
+
+Me: May I? (pointing to the chair)
+
+F1: Yes please.
+
+P1: So Praharsh, you’re still studying, is it? .
+
+Me: Yes ma’am.
+
+F1(Looking at my form): You’re studying in an NIT.
+
+Me: Yes ma’am. I’m in my final year pursuing mechanical engineering from NITK
+Surathkal.
+
+F1: What have you done in college?
+
+Me: Told
+
+F1: Tell us about the social initiative you’ve mentioned in your form.
+
+Me: Told
+
+F1: Okay, we’ll now give you a topic. You have to speak on it for 1 minute.
+Your topic is CRY.
+
+ _I knew FMS often gave weird topics. So I wasn’t flustered._
+
+Me: Cry is characterized by flow of tears. A person could cry in a happy
+situation or in a sad one. Say for a mother, her baby’s first cry is extremely
+special….
+
+I was going on when I was interrupted by P1
+
+P1: Do you even know what your topic is? It’s the foundation CRY.
+
+Me: Oh (I was like wtf).
+
+Both of them chuckled.
+
+Me: So should I continue or should I restart with my new topic.
+
+F1: Start again.
+
+ _I had absolutely no clue of what CRY was, what it did,etc._
+
+Me: Said a few very generic statements none of which were related to CRY.
+
+F1 interrupted again.
+
+F1: Do you know what CRY does?
+
+Me(sheepishly): No ma'am
+
+F1: No problem. Know of any other organization?
+
+Me: _I didn’t know anything so I said PETA_
+
+F1: Okay so PETA is your topic.
+
+Me: _I knew what PETA did but I didn’t know much about them.But still I spoke
+for 40-45 seconds and stopped._
+
+F1: You still have time.
+
+Me: _Said something rubbish_
+
+F1: Okay stop. Do you follow news?
+
+Me: Yes ma’am, I do.
+
+F1: Tell me some recent news.
+
+Me: Right now, elections are going on..
+
+F1: No, not elections. Something else.
+
+Me: Jet Airways crisis.
+
+F1: Anything else?
+
+Me: Some time back, the share price of Tata Motors fell a lot in a single day.
+
+ _Finally they found something interesting_
+
+F1: Why did the price fall?
+
+Me: Explained well
+
+F1: What did they do to overcome this?
+
+Me: I didn't know and I should have said the same but I still spoke.
+
+Ma'am, when a business isn't doing well, a company must evaluate their target
+market because businesses cater to consumer needs.
+
+F1: Who taught you all these fancy terms?
+
+Me(smiled): Ma'am, the main aim of any business is profit
+maximization(Blunder)
+
+F1: No no no. It's not to make profits.
+
+Me(trying to make up): Sorry ma'am, it's to maximize wealth.
+
+F1: Yes. You should read an article (She told some name which I forgot
+immediately)
+
+Me: Yes ma'am, I'm sorry. I made a mistake.
+
+F1: Don't be sorry. It's fine.
+
+F1: So are you interested in stocks?
+
+Me: No ma'am, not much.
+
+F1: Do you know what Sensex is?
+
+Me: Told
+
+F1: How are these stocks decided?
+
+Me: I don't know.
+
+F1: No issues. We're done. You may leave.
+
+ _When I was about to reach the door, P1 calls out._
+
+F1: What's the meaning of your name?
+
+Me: Ma'am, Harsh means happiness and Pra means extra. So Praharsh means extra
+happiness.
+
+ _Both of them smiled_.
+
+F1: Okay.
+
+Verdict: **Straight Convert**
+
+This reaffirmed the fact that GD is the most important part since I had a
+below average interview but a really good GD.
+
+
+##########
+FMS Delhi 16/04/2019
+
+Venue : FMS Delhi
+
+GD Topic : Can India Dream to host the Olympics.
+
+There were 8 of us in the panel but only 3–4 of us spoke for the whole
+duration. I spoke about infrastructure and it's maintanence , commonwealth
+games, developing a team, influx of visitors, developing a taste and talent
+for other sports and how currently we must focus on initiatives like Khelo
+India. I spoke for around 4 minutes out of 9 but also gave chances to other
+fellow panelists to speak, it wasn't a fish market but a healthy discussion.
+
+PI: Was second in the panel, the bell rings and they call me in
+
+P1 :- Female
+
+P2:- Male
+
+P3:- Male
+
+P3 walks out of the room as soon as I enter.
+
+P2: Moinack tell me us about yourself?
+
+Me: Told the well prepared answer but with some additions at that moment
+itself so it was sort of spontaneous.
+
+P1: Both your parents are hotel management graduates, so you must be having a
+lot of exotic food at home.
+
+Me: I smile and say yes, and also that I am sort of a chef myself.
+
+P1: So Moinack your Extempore topic is my favourite dish ( Thanked god for
+this as my friends had topics like “Core “ and marketing techniques in
+elections)
+
+Me: comfortably spoke about my favourite dish, how it's made, the special
+ingredients ( it is poppy seeds here). One minute was over and mam asked me to
+stop.
+
+P3 enters the room now
+
+P2: Isn't poppy seed made from a drug so you don't have any side effects.
+
+Me: I explained how the industrially processed ones have no such side effects
+but one can feel hallucinations or extended sleep if they directly get it from
+the fields and make it at home.
+
+P2 : Why the shift to finance, I mean what was the start point?
+
+Me: spoke about the association with a finance professor at VIT Vellore as we
+had 5 compulsory management subjects, influence of Benjamin Graham and stock
+investing.
+
+P2: Tell me the 3 most important ratios according to you
+
+Me: Spoke about return on equity and the 5 step Du Pont analysis, Debt Service
+Coverage Ratio to check the solvency status and Defensive interval ratio ( was
+in leather goods sector at the moment hence this).
+
+P2: Okay Moinack we are done.
+
+I am shocked for 2 seconds, like what happened, others had such long PI's
+atleast 10–13 mins and I am being sent out in 6 minutes. Also P3 didn't ask me
+a single question while he was the one who asked everyone else.
+
+Me: I thank them and was about to leave when P1 asks me my calls and results.
+I mention them, thank them and leave.
+
+Was very nervous about the small PI and a small goof up in the extempore but
+24 April 11:30 pm made it vanish.
+
+Verdict : **CONVERTED In First List.**
+
+P.S the GD plays a big role in FMS, their selection is done there itself
+unless you really make a grave error in the PI.
+
+
+##########
+Profile: X/XII/Engg - 89.8/84.8/69.1  
+  
+CAT: 99.93
+
+Panel consisted of 3 members. Let’s call them P1(F), P2(F) and P3(M).
+
+*Entered*
+
+P2: Naman, tell us something about yourself.  
+I: _This interview was after a month my previous interviews had ended. So I
+was a bit unprepared with my prepared answer._ Told them about my graduation
+and work ex. Forgot to cover my hobbies.
+
+P2: Do you know of any recent M&A in pharma industry?  
+I: Not very recent but Ranbaxy was acquired by Sun pharmaceuticals.
+
+P2: Why do you think M&A take place?  
+I: To capture market share and reduce competition. Explained with an example
+of Flipkart acquiring Ebay India ( _Happened a day or two before the
+interview_ ).
+
+P2: Okay, now P1 will give you your extempore topic.
+
+* _Butterflies in my stomach. What’s the topic gonna be. Zada mushkil na ho bas_ *
+
+P1: You have to speak on the topic ‘Namaste’ for a minute.  
+I: **_Yessssss!_** _. Spoke of whatever points came up in my mind. “_ It is
+very closely associated with me as it is the meaning of my name. It is the
+first word that the foreigners learn when they come to India :p. It is used to
+greet and show respect to others. It is synonymous to hello. That’s all I can
+think of”
+
+P3 spoke for the first time after this and showed his sense of humour.  
+P3: “ **Kisi ko bhagana ho toh bhi bolo Namaste** ”  
+ _Lol.All grinned_
+
+ _P1:_ Tell me 3 women entrepreneurs.  
+I: Could tell only one. Kiran Majumdar Shaw
+
+P1: Which organisation is she heading?  
+I: Biocon
+
+P1: Tell me industry experts instead.  
+I: Indra Nooyi of PepsiCo and Arundhati Bhattacharya of SBI.
+
+P1: How long have they been working in their respective organisations?  
+I: Don’t know, Mam.
+
+P3: Why MBA?  
+I: Told about my career plan and family business
+
+P3: What is the turnover of your family business?  
+I: Told
+
+P3: How to judge a company’s performance?  
+I: Talked about financial statements, mainly income statement and balance
+sheet and what data each of them presents.
+
+P3: Do you know of any financial ratio?  
+I: Sir, I don’t have that much knowledge of finance. _While I was speaking
+this sentence, it suddenly struck me and I blurted out._ **PE Ratio Sir**.
+**The price per earning ratio.** *sigh of relief*
+
+IIM Calcutta results were announced the day before. Asked me if I converted.  
+I: Didn’t convert sir.
+
+P3: Why?  
+I: Didn’t answer well a couple of questions and cat score weightage is also
+less.
+
+P3: And you’ll get the benefit of weightage here.  
+I: Yes sir!
+
+ **Verdict: Direct Convert!!**
+
+
+##########

@@ -1,0 +1,838 @@
+Dear All ,
+
+ **List of top 18 civil engineering interview questions**
+
+Here is the list of 18 questions commonly asked questions in civil engineering
+interviews to civil site engineers and project engineers:
+
+  *  **Name various authorities or workers on a construction site?**
+  * Senior Engineer/Project manager
+  * Site Engineer
+  * Contracter
+  * Mistri
+  * Mason/labor
+  *  **What is least cover provided for different RCC Members?**
+  * Footing = 50 mm
+  * Column = 40mm
+  * Beam = 25mm
+  * Slab = 20mm
+  *  **What are the functions of column in a building?**
+
+Column is a verticle member in building whose primary function is to support
+structural load and transfer it through beams. Upper columns transfers the
+load to the lower columns and finally to the ground through footings.
+
+  *  **What is the cement sand & aggregate ratios for various grades of concrete mix?**
+  * M10 – 1:3:6
+  * M15 – 1:2:4
+  * M20 – 1:1.5:3
+  * M25 – 1:1:2
+  * M30 – 1:1:1
+  *  **What do you mean by honeycomb in concrete?**
+  * Honeycomb, also known as airpocket, is nothing but the air voids in concrete. It is usually formed during concrete casting.
+  *  **Does Water damage concrete?**
+
+Plain concrete is not affected or damaged by water but Reinforced Concrete
+(RCC) can be damaged due to water. This is because the water may seep into the
+concrete and corrode the steel reinforcement inside.
+
+  *  **What is the initial and final setting time of ideal cement mix?**
+
+Initial setting time for ideal cement mix is around 30 minutes for almost all
+kind of cements. For masonry cement it can be 90minutes. Final setting time of
+ideal cement mix should be 10 hours at max. For masonry cement it shouldn’t
+exceed 24hours.
+
+  *  **What are common methods of curing the concrete?**
+  * Spraying
+  * Wet covering of Surface
+  * Ponding
+  * Application of curing chemicals
+  * Steam curing
+  *  **What is the formula for weight of steel?**
+
+Weight of steel in kg can be calculate by formula (D2*L)/162; where D is
+diameter of steel bar in millimeter and L is total length of steel bar in
+meter.
+
+  *  **What do you know about “TMT”?**
+
+TMT stands for “Thermo Mechanically Treated”. Generally we use TMT bars and
+sheet for construction purposes for the reason that they have high strength
+and high corrosion resistance compared to normal steels.
+
+  *  **What is difference between working stress method and limit state method?**
+
+Working stress method is an elastic design method in which structure is
+designed to bear the load upto elastic limit. Whereas, limit state method is a
+plastic design method in which structure is designed to bear the load beyond
+plastic limit.
+
+  *  **What field tests are required for quality check of cement?**
+
+Quality of cement can be checked with color, physical properties, etc. Cement
+should have grey color with light greenish shade. It should feel smooth when
+rubbed between fingers. If hand is inserted in a heap of cement or its bags,
+it should feel cool. When pinch of cement is thrown in Water then cement
+should float for some time before it sink. Also, it should be lump free.
+
+  *  **What are the types of foundation used in construction?**
+
+There are basically two types of foundation: Shallow & Deep foundation. Again
+shallow foundation can be classified as spread footing, combined footing,
+strap or cantilever footing and finally mat or raft footing. Deep foundations
+can be classified as pile footing, pier footing, caissons footing and well
+foundation.
+
+  *  **What are the types of cement?**
+
+There are various types of cement which are: Ordinary Portland Cement (OPC),
+White Portland Cement (WPC), Portland Pozzolana Cement (PPC), Low Heat
+Portland Cement, Coloured Portland Cement, Hydrophobic cement, Rapid Hardening
+Cement, Portland Slag Cement, Sulphate resisting Portland Cement, etc.
+
+  *  **What is guniting?**
+
+It is a process in which mixture of cement & sand in proportion of 1:3 is
+shooted on concrete surface with the help of cement gun under pressure of 2 to
+3 kg/cm2
+
+. It is a highly effective process for repairing concrete walls or damaged
+surfaces.
+
+  *  **What is the function of sand in mortar?**
+
+The main role of sand (aggregate) in mortar or plaster is to provide core
+strength, but it has other benefits too. If water is mixed with binder without
+adding sand to the mixture, both compressive and tensile strength of the
+mixture would be drastically lower than in mixture with added sand. It also
+helps to prevent mortar shrinkage, increases density and helps in setting.
+
+  *  **What are various tests for checking brick quality?**
+
+We can use water absorption test, hardness test, shape & size, crushing
+strength test, soundness test, etc. to check the brick quality. In water
+absorption test, we dip the brick for 16 hours in water. If weight of brick
+after dipping in water doesn’t exceed by 20%, it can be considered as first
+class brick, if below 22.5% it can be considered as second class brick, if
+below 25% it can be considered as third class brick. In crushing test, it
+crushing strength should be minimum of 10 N/mm2 for first class brick, 7.5
+N/mm2
+
+for second class bricks. In hardness test, we scratch the brick with nails. It
+should be scratch free. In soundness test we check the metallic sound by
+striking two bricks with each other.
+
+  *  **What is void ratio?**
+
+Void ratio is the ratio of volume of voids to volume of solids.
+
+The civil engineering interview questions asked above are useful knowledge
+required in day-to-day work on field as a site engineer. Hence, it is vital to
+have sound knowledge of these basic questions.
+
+Find the below link you can go through you will find all the question answers
+for interview and also for IES examination subject wise .
+
+[Civil Engineering Questions and Answers](https://www.indiabix.com/civil-
+engineering/questions-and-answers/)
+
+Regards
+
+#Upvote#
+
+
+##########
+Well it can be anything about anything related to the field , But if you want
+some best and frequent asked questions
+
+here are some of them :)
+
+75 CIVIL ENGINEERING INTERVIEW QUESTIONS:
+
+1\. What is bending moment (BM) & Shear force (SF) – Explain.
+
+2\. What are the steps involved in the concreting process, explain?
+
+3\. Describe briefly the various methods of concrete curing.
+
+4\. What is the minimum curing period?
+
+5\. What Do You Understand by M25 Concrete?
+
+6\. What is Water-Cement Ratio and How it is related to the strength of
+concrete?
+
+7\. What is a bearing capacity of soil?
+
+8\. How to increase the bearing capacity of soil?
+
+9\. What are the different types of foundation?
+
+10\. Explain moment of inertia and its importance.
+
+11\. How do we determine the specific gravity of a cement?
+
+12\. Density Of 1 cum cement?
+
+13\. What are the causes of building collapse?
+
+14\. What is bar bending schedule (BBS) & how to prepare it?
+
+15\. Why is concrete cube test carried out?
+
+16\. Why is concrete slump test carried out?
+
+17\. What is bleeding, segregation, honeycombing of concrete?
+
+18\. What is pre-stressed concrete? Which reinforcement is used in prestressed
+concrete?
+
+19\. What is the ratio of steel and concrete to use in slabs, beams, columns?
+
+20\. Difference between pre-tensioning and post-tensioning?
+
+21\. What are the weights of 16mm, 12mm, 20mm, 25mm, 8mm Dia. Bars.
+
+22\. What is the minimum Propping Period of Beams and Slabs of various Spans?
+
+23\. What are the advantages of Prestressed Concrete over R.C.C?
+
+24\. Quantity of materials required for different works.
+
+25\. Which is stronger solid steel rod or hollow steel pipe?
+
+26\. Initial & final setting time of concrete?
+
+27\. why we use steel reinforcement in concrete for construction?
+
+28\. Is brick strength more or concrete block?
+
+29\. How to Calculate Number of Bricks Per Square Foot?
+
+30\. 28 days compressive strength of concrete in PSI?
+
+31\. How to calculate the unit weight of steel bars?
+
+32\. What is Plinth Level and Sill Level?
+
+33\. What is Brest Wall?
+
+34\. What is Brick crushing strength(PSI)?
+
+35\. How many Types of Joints are in Concrete Pavement ?
+
+36\. How can cracks in concrete be avoided?
+
+37\. How many types Of Damp proofing in construction?
+
+38\. 28 Days Strength of Concrete (1:2:4)?
+
+39\. How many types of slabs are there & how to design it?
+
+40\. How much is the cover for slab?
+
+41\. Maximum % of Steel in columns and beams?
+
+42\. What is fineness modulus?
+
+43\. What is Packing Factor?
+
+44\. Difference between one way slab & two way slab?
+
+45\. Difference between QA & QC?
+
+46\. What do you mean by Fe415?
+
+47\. What are the functions of a column in a building?
+
+48\. How many feet are in 4 square yards?
+
+49\. What is the average density of soil?
+
+50\. What is the ratio of Grades M5, M7.5, M10, M15, M20, M25, M30, M35, M40?
+
+51\. Why foundation is provided?
+
+52\. The concrete slump recommended for beams and slabs; is-
+
+53\. What is the meaning of soil reinforcement?
+
+54\. What is the different type of slump test indications?
+
+55\. What is buckling or crippling load?
+
+56\. Define slenderness ratio. What is its effect on the design of compression
+member?
+
+57\. Shear force and BM diagrams for different types of loadings on beams.
+
+58\. Difference between mild steel and HYSD bars?
+
+59\. What is meant by 80/100 grade bitumen?
+
+60\. What is differential settlement?
+
+61\. What does 33,43 and 53-grades of cement mean?
+
+62\. How do you construct a 25 storey building with no columns?
+
+63\. Types of loads on structure?
+
+64\. Difference between pre-tensioning and post-tensioning?
+
+65\. What is the L/D ratio of a cantilever beam?
+
+66\. What is camber?
+
+67\. What is batching? Difference between volume and weight batching?
+
+68\. How is a theodolite leveled?
+
+69\. What is a benchmark? Name the different types.
+
+70\. Types of admixtures?
+
+71\. What are the CAD softwares you have used?
+
+72\. Interpret a strss vs strain curve.
+
+73\. Define modulus of elasticity.
+
+74\. What are the chemical compositions of cement?
+
+75\. What is creep & shrinkage of concrete?
+
+i hope this will help and you get ur desired job
+
+ALL THE BEST
+
+#MY5
+
+
+##########
+How do you measure concrete?  
+Cubic feet, Cubic yards, Cubic Meter
+
+Which is stronger solid steel rod or hollow steel pipe?  
+On a per pound basis, steel pipe is stronger in bending and is less likely to
+buckle in axial compression.
+
+What is the tallest man made structure in the world?  
+The tallest man made structure is the KVLY-TV mast which is 2063 feet tall.
+The worlds tallest man made structure is Burj Dubai which is 800 meter tall.
+
+What is braced excavation all about?  
+Excavations are braced to prevent the cave-in of surrounding unstable soil.
+
+What is the meaning of soil reinforcement?  
+Soil reinforcement is the act of improving soil strength to enable it support
+or carry more load.
+
+Two common examples are:
+
+a) Mixing a soil amendment such as lime into weak clayey soil and re-
+comPActing to improve soil-bearing caPAcity (often done under the road base in
+highway construction)
+
+b) Installing plastic or composite webbing layers (called geo-grid material)
+alternating with comPActed soil to produce a stronger sloped soil structure
+(often done on steep roadway embankments to improve strength and stability)
+
+What is aggregate?  
+Aggregate is the component of a composite material used to resist compressive
+stress.
+
+What year was the keystone power plant in Indiana County constructed?  
+1967 began commercial operation on unit 1.
+
+What is the force exerted by the Tacoma narrows bridge?  
+The force exerted to the Tacoma narrows bridge was initially the wind
+resistance. The wind resistance caused the whole bridge to act as a system
+with forced vibration with damping.
+
+What are the uses of alloys in daily life and how are alloys made?  
+Alloying is not always done to produce a 'superior' material, but to produce
+materials having a desired requirement in the industry or elsewhere. A classic
+case is of lead solder (containing lead & tin), in which the melting point of
+the constituent elements are lowered, not necessarily a desirable property.
+
+Alloying can be carried out using hot press method (a sheet of material is
+sandwiched with alloying material), rolling the heated base metal in a drum
+full of alloying metal powder, using hot spraying, galvanizing (dipping the
+base in a molten solution of alloying material) etc. Sometimes the alloying
+material is added in small proportions to the molten base metal (e.g., in
+production of different types of steel).
+
+10 What is the worlds largest concrete dam?
+
+The Grand Coulee Dam is said to be the largest concrete dam. Currently the
+world's largest concrete dam is the Itaipu Dam, an accomplishment of two
+neighboring countries, Brazil and Paraguay in South America.
+
+Though it is not finished yet, the Three Gorges (or Sandapong) Dam on the
+Yangtze River in China will take over as the largest upon its completion,
+which is slated for 2009.
+
+What are the main reasons of building collapse?  
+There are several reasons for building collapse. Passage of time is the main
+reason. Also, weak foundations, natural calamities like earthquakes,
+hurricanes, etc., are the major reasons for building collapse. Bombing and
+destruction is also another major reason.
+
+State the applications of modulus of elasticity.  
+Modulus of elasticity is related to the flexibility of the material. The value
+of modulus of elasticity is pretty important in case of deflection of
+different materials used in building construction.
+
+How are the freeway bridges built?  
+The traffic that is likely to go over the bridge at a time is estimated and
+the cement, rocked with rebar stanchions is placed over the freeway to build a
+bridge. Off-ramp from freeway to the bridge and on-ramp from the bridge to the
+freeway are constructed. Cement slabs are used to build a platform.
+
+What is the basic difference in absorption, adsorption, and sorption?  
+Absorption refers to the phenomenon where an atom, molecule or ions enter any
+bulk phase like gas, solid or liquid. Absorption refers to the phenomenon
+where energy of photon is transferred to other entity.  
+Adsorption is similar to absorption. It refers to the surface rather than a
+volume. Adsorption takes place when the gas or liquid solute accumulates on
+the surface of solid. A substance diffuses in liquid or solid to form a
+solution.
+
+Difference between routine maintenance and major maintenance for school
+facilities:  
+Routine maintenance is handling the minor repairs of the school campus. Major
+maintenance can be total reconstruction or renovation of the school.
+
+What is soil analysis?  
+Soil analysis is the testing of soil to determine the nutritional and
+elemental composition of soil. It is generally tested for knowing the contents
+of nitrogen, potassium and phosphorous.
+
+State the building codes.  
+These codes are the set of specifications to ensure the safety associated with
+any building construction. These codes are associated with the height,
+spacing, and installation of the building. These codes play an important role
+in vacating the building in case of any emergency situations.  
+From these interview questions, you will get an idea of the questions
+interviewer can ask you in the civil engineering position interview. Refer to
+some more sample questions here and revise all the answers carefully.
+
+What are the steps involved in the concreting process, explain?
+
+The major steps involved in the process of concreting are as follows:  
+1\. Batching  
+2\. Mixing  
+3\. Transporting and placing of concrete  
+4\. Compacting.
+
+> Batching: The process of measurement of the different materials for the
+making of concrete is known as batching. batching is usually done in two ways:
+volume batching and weight batching. In case of volume batching the
+measurement is done in the form of volume whereas in the case of weight
+batching it is done by the weight.  
+> Mixing: In order to create good concrete the mixing of the materials should
+be first done in dry condition and after it wet condition. The two general
+methods of mixing are: hand mixing and machine mixing.  
+> Transportation and placing of concrete: Once the concrete mixture is created
+it must be transported to its final location. The concrete is placed on form
+works and should always be dropped on its final location as closely as
+possible.  
+> Compaction of concrete: When concrete is placed it can have air bubbles
+entrapped in it which can lead to the reduction of the strength by 30%. In
+order to reduce the air bubbles the process of compaction is performed.
+Compaction is generally performed in two ways: by hand or by the use of
+vibrators.
+
+Describe briefly the various methods of concrete curing.
+
+Curing is the process of maintaining the moisture and temperature conditions
+for freshly deployed concrete. This is done for small duration of time to
+allow the hardening of concrete. The methods that are involved in saving the
+shrinkage of the concrete includes:  
+(a) Spraying of water: on walls, and columns can be cured by sprinkling water.  
+(b) Wet covering of surface: can be cured by using the surface with wet gunny
+bags or straw  
+(c) Ponding: the horizontal surfaces including the slab and floors can be
+cured by stagnating the water.  
+(d) Steam curing: of pre-fabricated concrete units steam can be cured by
+passing it over the units that are under closed chambers. It allows faster
+curing process and results in faster recovery.  
+(e) Application of curing compounds: compounds having calcium chloride can be
+applied on curing surface. This keeps the surface wet for a very long time.
+
+
+##########
+**lets see what are the most commonly asked interview questions for a civil
+engineers.**
+
+[TOP CIVIL ENGINEERING INTERVIEW QUESTION &
+ANSWER](https://www.youtube.com/watch?index=3&list=PLnJp5yObtPP8KXoaWmC7aSz5IPAMuhqFn&v=D1FuDObN44k)
+
+( ** _find out answer for following 50 question in link given above_** )
+
+1\. What are the steps involved in the concreting process, explain?
+
+2\. What are the different types of foundation?
+
+3\. What are the causes of building collapse?
+
+4\. Describe briefly the various methods of concrete curing.
+
+5.What Do You Understand by M25 Concrete?
+
+6\. What is Water-Cement Ratio and How it is related to the strength of
+concrete?
+
+7\. What is bleeding, segregation, honeycombing of concrete?
+
+8\. How to increase the bearing capacity of soil?
+
+9\. How to calculate the unit weight of steel bars?
+
+10\. Why is concrete slump test carried out?
+
+11\. What is the different type of slump test indications?
+
+12\. What is the ratio of steel and concrete to use in slabs, beams, columns?
+
+13\. Difference between pre-tensioning and post-tensioning?
+
+14\. 28 days compressive strength of concrete in PSI?
+
+15\. What are the functions of a column in a building?
+
+16\. What is the average density of soil?
+
+17\. why shear reinforcement is provided?
+
+18\. Why is concrete cube test carried out?
+
+19\. What are the weights of 16mm, 12mm, 20mm, 25mm, 8mm Dia. Bars.
+
+20\. Which is stronger solid steel rod or hollow steel pipe?
+
+21\. How do you construct a 25 storey building with no columns?
+
+22\. What do you know about tender? Discuss different types of tenders.
+
+23.What is bending moment (BM) & Shear force (SF) – Explain
+
+24\. What are the steps involved in the concreting process, explain?
+
+25\. What is the minimum curing period?
+
+26\. What is a bearing capacity of soil?
+
+27\. Why we provide steel in concrete?
+
+28\. How can cracks in concrete be avoided?
+
+29\. Types Of DPC and its Thickness used?
+
+30\. What are the advantages of Prestressed Concrete over R.C.C?
+
+31\. Define slenderness ratio. What is its effect on the design of compression
+member?
+
+32\. Difference between mild steel and HYSD bars?
+
+33\. What do you understand by 80/100 bitumen?
+
+34\. What is differential settlement?
+
+35\. What do 53 stands for in 53-grade cement?
+
+36\. Types of loads on structure?
+
+37.Will water damage concrete?
+
+38\. What is the L/D ratio of a cantilever beam?
+
+39\. What is camber?
+
+40\. What is batching? Difference between volume and weight batching?
+
+41\. What is a benchmark? Name the different types.
+
+42\. Types of admixtures?
+
+43\. Define modulus of elasticity.
+
+44\. What are the chemical compositions of cement?
+
+45\. What is creep & shrinkage of concrete
+
+46\. When the possibility of segregation of concrete is more?
+
+47\. Min. deshuttering (stripping) period of formwork as per IS 456.
+
+48.What is gravity flow?
+
+49\. How is a theodolite leveled?
+
+50\. What is buckling or crippling load?
+
+[https://www.youtube.com/watch?v=...](https://www.youtube.com/watch?index=1&list=PLnJp5yObtPP8KXoaWmC7aSz5IPAMuhqFn&v=_Ih6FNejBtA)
+
+ **Subscribe to**[ **We Civil
+Engineers**](https://www.youtube.com/channel/UCZ86qxDEy4rSgOq7DLECisg/videos?view_as=subscriber)
+**To learn a lot more stuff’s Related to CIVIL ENGINEERING**
+
+Hope it helps
+
+
+##########
+I am going to share Question for civil engineering interview. These questions
+will help you a lot. Fresher students can increase their theoretical
+knowledge.
+
+ **Section 1**
+
+Question 1: What do u mean by M20?
+
+Question 2: What is the nominal mix of M20?
+
+Question 3: How do u measure the workability of concrete?
+
+Question 4: Explain briefly the procedure for the above methods.?
+
+Question 5: Which method would you use in site? What are its demerits?
+
+Question 6: Tell me something about placing of concrete?
+
+Question 7: Have you heard about slip form technique?
+
+Question 8: What is chuting of concrete?
+
+Question 9: As an engineer when will you go for chuting and is it a good
+method of concrete pouring?
+
+Question 10: What are the factores affecting the strength of concrete?
+
+Question 11: Have you heard about Boars compounds?
+
+Question 12: Name the compounds and state their importance.
+
+Question 13: How many different types of slabs are there? Explain each.
+
+Question 14: What is the difference between 1way slab and 2 way slab?
+
+Question 15: Identify which type of slab is above our heads?
+
+Question 16: When to use 1 way and 2 way slab?
+
+Question 17: In slab above our head where is the shear force and bending
+moment maximum?
+
+Question 18: Where is the reinforcement provided for shear and bending ?
+
+Question 3: what is the procedure for form work removal on site?
+
+Question 4: what is difference between nominal & design mix?
+
+Question 5: what are the main admixtures used in concrete?
+
+Question 6: what will you do if transit mixer getting delay in reaching site
+before the i.s.t. of cement?
+
+Question 7: difference between one way and two way slab?
+
+Question 8: what is the green building?
+
+Question 9: why it is required to design the mix on site?
+
+Question 10: what are the common tests performed on concrete and cement?
+
+Question 11: how will u measure the workability of concrete on site?
+
+ **Section 2**
+
+Question 1: what is quick sand condition and how will you rectify it?
+
+Question 2: In RCC how can you determine practically the under and over
+reinformed sections?
+
+Question 3: what's the sequence of removing form work in site and explain it
+logically?
+
+Question 4: shear force and bending moment diagrams of the beams given by the
+interviewer.
+
+Question 5: what is honey combing and how to rectify it on site?
+
+Question 6: questions related to your minor project and major trainings.
+
+Question 7: various codes and their relevance
+
+Question 8: applications of matrix method and MDM.
+
+Question 9: define curb resistances and give practical methods of providing
+vertical alignment on highways?
+
+Question 10: questions related to tests on road aggregates and bitumen.
+
+ **Section 3**
+
+Question 1: Difference between Nominal mix of concrete and Design mix of
+concrete ?
+
+Question 2: Grades of concrete and Grades of Cement
+
+Question 3: How do you define Compressive strength of concrete and what is the
+meaning of M25 concrete
+
+Question 4: Types of Cover in Reinforced concrete and explain them
+
+Question 5: What is singly and Doubly Reinforced beam
+
+Question 6: Types of Retaining wall and difference between them
+
+Question 7: What is Green Buildings and materials to make green building
+
+Question 8: What is parapet wall?
+
+Question 9: How much thickness of plaster we provide for inner and outer wall
+
+Question 10: What is damp proof course and why we use it ?
+
+Question 11: What is the N value of rocks
+
+Question 12: some basic of soil mechanics and Foundation Engineering
+
+ **Section 4**
+
+Question 1: Bending moment diagram of a given framed structure ?
+
+Question 2: Bending Moment diagram of an indeterminate beam. And, how to find
+the moments at the mid span of the beam ?
+
+Question 3: Describe the basic moment distribution method to solve
+indeterminate systems ?
+
+Question 4: Basic assumptions in Concrete Limit Design state and the method to
+design a beam ?
+
+Question 5: Working Stress Design Method for Steel Structures ?
+
+Question 6: How to design a building taking into account the earthquake loads
+and what are the parameters used during the procedure ?
+
+Question 7: Draw a Bending Moment Diagram in a given loading case?
+
+ **Section 5**
+
+Question 1: Basic tests in geotechnical engineering e.g. Plate Load Test,
+DCPT, CPT, SPT and Terzaghi equations.
+
+Question 2: Some questions on the intern.
+
+Question 2: Can a concrete member take tension?
+
+Question 3: what is tension capacity of concrete?...etc
+
+They will ask questions mostly on strength of materials, structural analysis
+and rcc, few questions from steel structures.
+
+Question 1: What is your favourate subject?
+
+Question 2: Assumtions in limitstate method?
+
+Question 3: Bending moment d0iagram for cantilever beam with UDL?
+
+Question 4: Bending moment diagram for propped cantilever with UDL?
+
+Then slowly starting from basics, about the bending moment and shear force
+diagrams of a cantilever beam with UDL on it. Then going deeper into the code
+book details.
+
+Question 1: Questions from SOM
+
+Question 2: draw B.M.D
+
+Question 3: questions from soil mechanics
+
+Question 4: explain terzaghis assumptions
+
+Question 5: draw the phreatic lines
+
+Question 6: questions from foundation engg- explain how load is transmitted,
+
+Question 7: Universal terzaghis eqn, cNc +qNq+.... & each term in that, the
+usual problems when ground water level at various heights
+
+: Bending moment diagrams to continuous beams, frames and also the beans of
+varying cross sections. Definition of a bridge, what is its use and parts of a
+bridge. what are the procedures followed to design a bridge? What are the code
+books that are used in bridge designing and details in the code book.
+
+. questions from stress strain diagram of steels 2. FeFe3C diagram 3. fatigue
+and creep
+
+Brush your concepts on concrete technology structural design and about
+aggregates. Be well with mix design. They may ask you to give a ratio for a
+particular design strength
+
+types of concrete.. why we do plastering of walls... types of foundations.....
+
+how to draw bending moment diagram for beams and frames with lateral loads.
+methods of RCC design and their differences.
+
+I think th questions are enough for fresher students.
+
+ **Best of luck ahead :)**
+
+
+##########
+These are some of the questions which was faced by me during Interview:
+
+  1. Compare Liquefaction and Sand Boiling.- _Liquefaction_ \- In loose saturated sand due to seismic activity or other dynamic loading effective stress becomes zero and excess pore pressure generation takes place which takes the sand in upward direction with muddy water through soil pores this phenomenon is termed as Liquefaction. _Sand boiling/piping-_ when steady seepage takes place in a saturated soil mass in upward direction _,_ water exerts upward pressure on soil grains and reduces the eff.Stress to zero at this time soil starts moving in upward direction. This phenomenon is known as _sand boiling._
+  2. What do you mean by Dowel action? _Dowel action is phenomenon generated automatically inside the structure to transfer shear force._
+  3. What is the basic relationship between Shear Force and Bending Moment? _Rate of change of Bending Moment along length of the member is the Shear force at that point or the slope of Bending Moment Diagram at any point is Shear Force at that point._
+  4. What is the need and benefits of stabilization of soil with the help of Lime? _Answer- Lime decreases the plasticity of soil and reduces the permeability also it is responsible for increased Bearing Capacity of soil Lime is widely used to stabilize High plastic soil like Black Cotton Soil._
+  5. What is alternate depth? _Answer-_ In open channel flow a Number of depths are chosen such that Specific Energy is same at l thode section. Hence, the sections chosen for specific Energy to be same in any open Channel flow are known as Alternate Depth.
+  6. Define Consumptive use of water by plants. _Answer- Consumptive use of water is the term which gives the amount of water required by plants in order to fullfil there_ ** _Evapo-Transpiration_** _need._ _Evaporation from root zone and Transpiration from plant leaves._
+  7. What is the use of Lacing and Bracing in steel structures? _Lacing- as the name suggest Lacing will be a structural part in steel structure that will held two different column sections to act as a single section in case of eccentric loading. Bracing_ \- These are the members which are added in structure in order to give stability to.main structure whether in horizontal plane or vertical plane.
+  8. What are different stresses acting on a circular water tank? _Answer- Hoop stress in circumferential direction, Longitudinal stress along the length, Radial or meridional stress in Radial direction when seeing from top view._
+  9. What is the basic difference between Anchorage bond stress and Flexural bond stress? _Flexural bond stress is generally generated between supports in order to balance the unbalanced shear force caused by variations of Bending Moment. Anchorage bond stress is generated at supports (or end regions of structural members) in order to balance the resist high shear at supports._
+
+  * What is negative superelevation and where does it appears in an Railway Track? _When outer edge is lowered wrt inner edge this geometrical arrangement os known as Negative Superelevation, this condition occurs where any branch track emerges out from the main track._
+  *  **Edit-1-- They also asked me to Solve some numericals**
+  * Numerical 1 was of Earth pressure.
+  * Numerical 2 was of Deflection.
+  * Numerical 3 was of Water budget equation.
+  * Equation 4 was of Hydrostatic Force on curved surface.
+
+
+##########
+**Q1. What do you mean by honeycomb in concrete?**  
+Honeycomb, also known as airpocket, is nothing but the air voids in concrete.
+It is usually formed during concrete casting.
+
+ **Q2. What is flat slab?**  
+The slab which is supported on columns (Flab slab don’t have beams)
+
+ **Q3. What do you mean by One storeyed, Two storeyed building?**  
+The building which has two floors is called two storeyed building.
+
+ **Q4. What do you mean by the moment of inertia?**  
+A quantity expressing a body’s tendency to resist angular acceleration, which
+is the sum of the products of the mass of each particle in the body with the
+square of its distance from the axis of rotation.
+
+ **Q5. What are the types of a slump?**  
+ **True Slump:** The concrete mass after the test when slumps evenly all
+around without disintegration is called the true slump.  
+ **Shear Slump:** When one-half of the concrete mass slide down the other is
+called the shear slump. This type of slump is obtained in a lean concrete mix.  
+ **Collapse Slump:** When the sample is collapsed due to adding excessive
+water, it is known as collapse slump.  
+ **Zero Slump:** For very stiff or dry mixes it does not show any changes of
+the slump after removing the slump cone.
+
+>>[Read More](https://www.mytectra.com/interview-question/civil-engineering-
+interview-questions)>>
+
+
+##########

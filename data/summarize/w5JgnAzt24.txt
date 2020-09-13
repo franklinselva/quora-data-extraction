@@ -1,0 +1,810 @@
+I love this one. Its so simple yet so good.
+
+I first read it in Elon Musk’s biography by Ashlee Vance. It was one of Musk’s
+personal favorite questions to ask in interviews while initially recruiting
+for Tesla.
+
+Question:
+
+> Imagine yourself at a certain point on earth.
+
+>
+
+> If you go 100 km South, followed by 100 km East, followed by 100 km North,
+you end up at your starting point.
+
+>
+
+> What is that point and how many such points are possible?
+
+Don’t go over directly to the solution, think about it!
+
+* * *
+
+Need help?
+
+Hint: Take the 100 as _X_ in the question. If you replace 100 by _X_ in the
+answer as well, it still stands true.
+
+What I mean to say is that the answer is generic for any value of _X_.
+
+* * *
+
+Still can’t?
+
+  * Most people would come up with this solution which is pretty obvious but a little ambiguous.  
+ _  
+The North Pole_
+
+![](https://qph.fs.quoracdn.net/main-qimg-7f5584bbe4631408076b1d5cd4960f05)
+
+But what does it mean to go South when you’re standing at the North pole?  
+Every direction points toward South from the North pole. So we cannot resort
+to this answer without ambiguity.
+
+  * Some people would think about the possibilities of this one.  
+  
+ _The South Pole  
+_  
+But now what does it mean to go South from the South pole?  
+It makes no sense. So this one’s ruled out.
+
+  * The neat answer is:  
+  
+ _Any point 100 km North to the latitude whose circumference is 100 km.  
+  
+_ Refer the image.
+
+![](https://qph.fs.quoracdn.net/main-qimg-53dbb8c5b97094ae24f59f58e26cd3fc)
+
+Explanation: In the part where you go 100 km East, you reach the same point
+where you started going East from as you complete a full circle on that
+latitude.
+
+Therefore, there are infinite such points for which this is possible.
+
+Hope you found this fun to think about.
+
+AD
+
+
+##########
+I remember this incident from NIT RAIPUR. Some XYZ (pardon me as I forgot the
+name of company) was there for campus selection. One of my friend, say DEVIL
+(i have my own reason for this name :P), sat in placement. Well she made all
+the way through written test etc and reached the personal interview round.
+
+Well after few EVERY INTERVIEW questions, one of the panel member,say I, shot
+a question:
+
+ **I:** You made till here so no need to check technical knowledge anymore but
+will check your presence of mind, are you ready?
+
+ **D:** Shoot it, Sir.
+
+ **I:** Well you have 2 vessels of volume 3 liter and 5 liter. How will you
+measure exact 4 liter with them? You have surplus amount of water so don;t
+worry about that.
+
+“ _What is this? This is a direct question from movie DIE HARD, anyone can
+answer it in few minutes.”, if this is going in your mind right now then
+congratulations, you think exactly like my friend. So she answered the
+question in few seconds. It would be lengthy and complex to explain the
+solution by writing, so I will show with help of picture._
+
+ **D:**
+
+![](https://qph.fs.quoracdn.net/main-qimg-eb5fe637a2d5548c1cd96ece1ab6b829)
+
+ _Devil thought that this is the end, and now interview is over and she is in
+the company. But something else was waiting fro her next._
+
+ **I:** Well and good enough. It was an easy question. I actually asked to
+prepare the platform my main question.
+
+ _*What? Main? Are we on a dinner where you will offer starter prior to main
+course*_
+
+So now again you have 2 vessels of 2 liter and 6 liter and you have to measure
+exact 5 liter, how will you do?
+
+( _and interviewer wore make up of a gentle smile on his face_ )
+
+ _Devil, who was smiling and happy inside till now, was in tension now. She
+was all freaked out. Fu*k what is this? Did I miss some part of movie? Where
+did they show this? This is it, I am done. And all sudden her DEVIL mind
+worked and she came up with an answer. With a gentle smile on her face she
+started,_
+
+ **D:**
+
+![](https://qph.fs.quoracdn.net/main-qimg-c36ec5224e7d569204924f298141c190-c)
+
+I will tilt that liter vessel at 45 degree and fill it up till it up till the
+horizontal level. This will be 3 liter and then will fill up 2 liter vessel
+and will empty it in liter vessel making it total 5 liter.
+
+ **I:** Ahh, hmmmm but, let me see.
+
+ _Don’t know whether it was exact right answer or not but for sure it was not
+what Mr. I expected. He was all baffled up. He tried to find mistake and
+wanted to say that answer is not correct but after a while he gave up and gave
+a smile to DEVIL and asked her to leave._
+
+ **VERDICT:** Well don’t know about answer but they were impressed with her
+confidence and presence of mind. **SELECTED. :)**
+
+
+##########
+**It's not my story**
+
+So he was called for an interview.
+
+First question
+
+ **Interviewer** : Tell me about yourself
+
+ **Candidate** : bla bla bla…. Mentioning everything like from qualifications
+to hobbies ..
+
+ **Interviewer** : a few other questions..
+
+ **Candidate** : Answerd all
+
+At last he asked
+
+ **Interviewer** : you ever failed in your life?
+
+ **Candidate** : After a pause, yes. Yes I have
+
+ **Interviewer** : explain
+
+So my friend started his “ **story of failure”.**
+
+I have failed many times in life especially in my academics it all started
+when I was in class 8. In 10 I failed in one subject (Maths). In 11 **all the
+subjects** expect **English.** My school was corrupt enough to push me in 12
+but I failed **in all subjects** except **English & physical education. **I
+knew I was gonna fail in my boards so I was prepared with **plan B**.. Open
+school, all I k ew about open school is, bribe people and get good marks….but
+I failed.
+
+Then on the basis of 10 took admission in Diploma for Mechanical Engineering.
+In my 1 sem I failed in math and cleared that exam in 6 sem. Secured 67 % in
+Diploma as you can see on the resume. Tried to work, given a few interviews
+but **not selected.**
+
+So on the basis of my Diploma I got admission in B.tech (mechanical)
+everything was OK. But I failed in SOM (strength of material). I hate SOM more
+than I hate MATH. I failed in SOM in fourth semester and I haven't cleared the
+exam. My collage gave “ **mercy degree”,** to me. I haven't told about this to
+anyone not even my parents. Not even in any past interview. Appeared in few
+interviews but nobody shortlisted me.
+
+So today I am here, a mechanical engineer giving interview for a BPO for the
+post of telecaller.
+
+It was really hard to maintain an eye contact with interviewer while
+explaining my failures.
+
+Interviewer : you are honest actually very honest. But why? what's up with all
+the honesty?
+
+Candidate : Because it's the best policy with a smiling face and maintaining
+eye contact this time.
+
+ **Result : REJECTED**
+
+
+##########
+These are a Few questions asked in HR interview. The answers to these are
+really STUNNING & INSPIRING...
+
+![](https://qph.fs.quoracdn.net/main-qimg-3b487e30560e1dac164f14afbf1ba5b5)
+
+ **Question ::1**
+
+Interviewer said "I shall either ask you ten easy questions or one really
+difficult question.
+
+Think well before you make up your mind!" The boy thought for a while and
+said, "my choice is one really difficult question."
+
+"Well, good luck to you, you have made your own choice! Now tell me this.
+"What comes first, Day or Night?"
+
+ **Answer::1**
+
+The boy was jolted into reality as his admission depends on the correctness of
+his answer, but he thought for a while and said, "It's the DAY sir!"
+
+"How" the interviewer asked,
+
+"Sorry sir, you promised me that you will not ask me a SECOND difficult
+question!"
+
+.
+
+ **Question::2**
+
+What will you do if I run away with your sister?
+
+ **Answer::2**
+
+The candidate who was selected answered " I will not get a better match for my
+sister than you sir"
+
+.
+
+ **Question::3**
+
+Interviewer (to a student girl candidate) What if one morning you woke up &
+found that you were pregnant.
+
+ **Answer::3**
+
+Girl I will be very excited and take an off, to celebrate with my husband.
+
+Normally an unmarried girl will be shocked to hear this, but she managed it
+well. Why I should think it in the wrong way, she said later when asked.
+
+.
+
+ **Question::4**
+
+Interviewer: He ordered a cup of coffee for the candidate. Coffee arrived kept
+before the candidate, then he asked what is before you?
+
+Candidate: Instantly replied "Tea"
+
+He got selected.
+
+You know how and why did he say "TEA" when he knows very well that coffee was
+kept before.
+
+ **Answer::4**
+
+( The question was "What is before you (U alphabet) Reply was "TEA" ( T
+alphabet)
+
+Alphabet "T" was before Alphabet "U"
+
+.
+
+ **Question::5**
+
+You are driving your car on a wild, stormy night, it's raining heavily, when
+suddenly you pass by a bus stop, and you see three people waiting for a bus:
+
+(i)An old lady who looks as if she is about to die.
+
+(ii)An old friend who once saved your life.
+
+(iii)The perfect partner you have been dreaming about.
+
+Which one would you choose to offer a ride to, knowing very well that there
+could only be one passenger in your car?
+
+This is a Moral/Ethical dilemma that was once actually used as part of a job
+application.
+
+ **Answer::5**
+
+"I would give the car keys to my Old friend and let him take the lady to the
+hospital. I would stay behind and wait for the bus with the partner of my
+dreams."
+
+.
+
+Sometimes just thinking out of the box is all it takes! These are the
+questions which I found on the Social network which shows, what thinking out
+of the box really is. And that’s what made me share these mind provoking
+questions and their answers.
+
+
+##########
+Here are the **_(BAnk ,SSC(staff selection commision), and UPSC_** **)** Best
+interviews question and their Answer ,who just surprised me.
+
+ _Question 1)_
+
+ **Interviewer—** **_Which part of girl's body can be eaten?_**
+
+ _If any one of us were sitting there to interview,then our reaction would be
+something like this:_
+
+![](https://qph.fs.quoracdn.net/main-qimg-ec3a39437a47ec4a66e7542533497973-c)
+
+Answer - Lady **FINGER** _(vegetable)_
+
+ _Question 2)_
+
+ **Interviewer= James bond is thrown out of the plane without parachute,yet he
+survives,How?**
+
+![](https://qph.fs.quoracdn.net/main-qimg-7b6ea248d4fd4ee52343e4ae857ce232-c)
+
+ ** _Answer_** **=sir, Because the plane was on the runway at the time.**
+
+ ** _Question 3)_**
+
+ _Interviewer_ = **A dog had three puppies: Sunday , Monday and Tuesday.**
+
+ **What was the mother's name.**
+
+![](https://qph.fs.quoracdn.net/main-qimg-277d2c282eec511c1f51b6a9f1abf945)
+
+ _Answer_ **= What**
+
+ **WHat** _was the Mother name._
+
+ _Question4)_
+
+ ** _Interviewer_** = **Can you name three consecutive days without using
+Wednesday, Friday and Sunday ?**
+
+I think our Reaction was like that:
+
+![](https://qph.fs.quoracdn.net/main-qimg-871869ac1b27d9d941483a84d5229f58-c)
+
+ **Answer = sir,** ** _Yesterday,Today ,Tomorrow_**
+
+ **Question5)**
+
+ **Interviewer = What would you do if your mother is “** ** _prostitute”?_**
+
+Its my Favorite question and the answer of this shows the candidate’s
+**PRESENCE** of MIND and his/her **intelligence.**
+
+But if this Question were asked to us ,then our reaction would be like this:
+
+![](https://qph.fs.quoracdn.net/main-qimg-75fd7f1c6afc98c5dc1085ed4e828463)
+
+ **Answer = Sir, i would be very happy if my FAther is the only Customer.**
+
+ _In Personal interview Selection of BANks,SSC,or UPSC ,such question are
+often asked from which ,they check the canditate’s Presence of mind and
+his/her intelligence._
+
+Thank u [Shefali Arvind Sethia](/profile/Shefali-Arvind-Sethia) For your
+suggestion.
+
+
+##########
+I was once interviewing a candidate who had already gone through three rounds
+that day and had positive reviews in each of them. I started talking to him,
+and, like I always do, befriended the candidate. I got him comfortable and in
+a relaxed mood so that he could open up and be himself. We dabbled through
+some tech problems and design and he seemed to meet the bar. But a couple of
+things he said seemed a tad sketchy and I thought of digging in more.
+
+ **Me:** Let’s say we are in a race against our top competitor to earn the
+business of a very high profile client. The deal will make us millions of
+dollars in contracts and also be a huge endorsement of our brand. They want to
+move to a cloud service and are considering both companies. In terms of
+service offerings we know that we’re both at par. It’s going to come down to
+pricing.  
+How would you come up with a competitive strategy to evaluate this situation
+and decide on a pricing strategy that will entice the potential customer, be
+more competitive than the other firm and not drive us into heavy losses?
+
+ **Candidate:** I’ll find out who the guy is at my competing firm who is
+working on this and I’ll take him out for dinner. Maybe buy him a few drinks.
+Let the alcohol flow. Loosen his tongue a little if you know what I mean.
+
+ **Me:** You do realize that this is not only unethical, it is also illegal.
+
+ **Candidate:** Why is it illegal? I’m not forcing any information from him.
+He’s giving it to me voluntarily and why should I deny it. When you’re in
+business you need to do whatever it takes to win.
+
+ **Me:** I’m sorry but this is not how we operate here. Our ethical standards
+and our customer’s trust is orders of magnitude more important to us than any
+single deal.
+
+We ended the interview and I went back to my hiring manager and told her
+straight out that she should end the loop right away and no matter what other
+parameters we evaluate him against, this is unacceptable. The panel
+unanimously agreed and that was that.
+
+In the future, I’ve had a few more candidates who got a little too candid and
+shot themselves in the foot. I feel the best interview questions are those
+that are **adaptive** and help you **uncover data points** that might
+otherwise be missed. There’s no one-size-fits-all question that does this and
+it’s the skill and experience of the interviewer that can over time bring this
+out.
+
+![](https://qph.fs.quoracdn.net/main-qimg-1d0996269bc521169d9f49c43b141ed4)
+
+* * *
+
+ _In case we haven’t met before, I’m_[ _Rohan Kamath_](/profile/Rohan-Kamath)
+_._  
+ _Thank you for reading. I hope I could help you smile today. :)_
+
+* * *
+
+ **Update:**
+
+  1. Many people are wondering why this was a question for an SDE role. It wasn’t. The candidate was interviewing for a PM role in a customer facing team where he would have a lot of direct interactions and face time with the customers.
+  2. A lot of folks want to know what would be a good way to answer such a question. The build up to this included a design problem that we had just worked on so I will continue along those lines. Basically as an interviewer, I’m not interested in a single “right answer” for such questions. I want to see your thought process, the methodologies you use, the strategies you implement. I would expect a very data driven answer for something like this. Analyze historic data, analyze the requirements of the customer and how our offering can best fit it, etc. Once we have that, the numbers come into picture. Do some math explain what is a comfortable range for us and them, what is aggressive and why and also what will be the absolute lowest it would make sense for us to go, even at a potential loss and why. Such questions are designed to test your “How” and “Why”; not your “What”.
+  3. Many people seemed to have missed the point of this answer. The point wasn’t that question itself. It was how to construct a question that helps you extract some new and unique data points that are relevant to the role you’re hiring for. Sometimes, as an interviewer, when you see a sign that needs probing, you have to think on your feet and steer away from the game plan.
+
+
+##########
+First, let’s acknowledge that the interview process is hard. It’s really
+difficult to figure out broad complicated insights into a person’s ability and
+working style before actually getting to work with them. I’d suggest there’s
+no single question that gets at everything a hiring manager wants to learn
+about a candidate, but there are a few key things a hiring manager wants to
+learn through the full interview process that can be summed up into three
+questions – in this order:
+
+ **1\. Why are you excited about this job?**
+
+This one is all about seeing that candidates have done their research – that
+they’re familiar with the role and the company, that they know what they
+applied for and actually care about the job. For candidates this gets their
+foot in the door. It’s the bare minimum to not disqualify themselves in a sea
+of qualified candidates.
+
+ **2\. Tell me about a time when you [insert problem relevant to the role].**
+
+Now that their foot is in the door and it’s clear they’re actually interested
+in the role, it’s time to learn whether they have the competence to do the
+job. How have they’ve approached problems in their life or career? Have they
+built valuable, transferable skills? Have they shown that they can learn fast?
+
+ **3\. Our business is experiencing [this specific problem]. How would you
+think through solving it?**
+
+This is something specific to your company – something you may have not solved
+yet and almost certainly something the candidate hasn’t solved in their
+career. This aim isn’t to see how they’ve solved problems in the past, but how
+they would approach it right now in the moment. What information do they think
+they need? What questions do they ask? What inferences can they make when
+they’re missing information?
+
+It’s likely that the candidate has solved similar problems before, but hasn’t
+worked in your company, your industry, or your specific application – for most
+jobs, the person you hire will be required to flex this problems-solving
+muscle every day. If candidates gets far enough in the process, I want to hear
+what it’ll be like to work with them while they’re grappling with a new
+problem.
+
+ ***Bonus: Are you aligned with our values?***
+
+This can be a way to separate two candidates who may be equally competent, and
+more importantly, to determine whether this person will be a productive
+contributor in your company culture. The answers can tell you a lot about a
+candidate.
+
+The forms this question takes completely depends on your company’s values.
+Here at [Flatiron School](https://hubs.ly/H094V3P0), I might ask “What’s a
+time you had to do something impossible?” to get at our belief in making no
+little plans; or “When have you solved a problem by collaborating with
+others?” to get at the importance of working together. Or my favorite: “How
+has luck played a role in your life?” It’s tricky because candidates want to
+show they’re competent – that they’re responsible for their success. But it
+says a lot about a person’s sense of gratitude, positivity, and willingness to
+work and learn together to see them ascribe some of their success to standing
+on the shoulders of giants.
+
+
+##########
+“ **What kind of important work tasks are better done separately/solitarily,
+and not as a team?”**
+
+It’s a question that I often ask of persons who I interview.
+
+Now you’ll be amazed how they then stare at me, their minds all blank as if I
+had just eaten their phone.
+
+Among young executives, especially the post-MBA kinds (I myself am one), that
+term “ _teamwork”_ is seared into their heads. And it is inconceivable to them
+that sometimes it is **not** a good idea to get together as a team to do
+something.
+
+Now this isn’t some kind of smart-ass hypothetical question. Our line of work
+(i.e. finance) involves _a lot_ of analysis. And I am as much of a team player
+as any other you’d find but there are many cases when you get a team together
+to brainstorm something right off the bat, power equations surface immediately
+and vitiate the whole thing. Subordinates will lavish praise on a stupid idea
+expressed by their superior, people feel reluctant to disagree with the
+majority opinion of even their peers. That is precisely **what you do not
+want.**
+
+I am a hard interviewer not in the sense of being rude or cold, but in that I
+will probe to see whether you have bothered to think these issues through. But
+in terms of demeanor I am _always_ warm, unfailingly polite and I employ a
+generous dose of self-deprecating humor.
+
+And if I see that the interviewee is struggling to come up with an answer, I
+genuinely empathize with it and cheerfully tell him/her that it’s perfectly
+okay and I’ll give them another question. I make a comprehensive judgment of
+their caliber based on our meeting and not treat it like some scoring test
+(i.e. “ _you got 4 right and 2 wrong!”)_ and I _really_ don’t enjoy watching
+people squirming in their seats, I am well aware that the interview process
+itself can be nerve wracking, especially with sought after firms.
+
+Other questions that I like to ask include -
+
+  *  **“** ** _Which industry/line of work is your second choice after this one?”_**
+
+Because I want to see if they have a Plan B. If someone replies with “I _only_
+want to work for you guys/your field”, I take that as a sign that s/he is
+either insincere or does not weigh risks appropriately. The former is bad
+enough and the latter is absolutely a no-no in the domain of finance. I
+_never_ ask about other specific firms/competitors, because that is plainly in
+bad taste.
+
+  *  **“** ** _Why do you want to come and work for us? Why this field and firm?”_**
+
+Now this is an absolute stock question, nothing new to it. But here’s the
+thing with me - I want you to tell me features about my firm/industry **that
+cannot be said of others.** And I mean solid tangible stuff, not some generic
+fluff. Things like an innovative line of our business or a differentiated
+strategy in the marketplace - my firm clearly has _both_ of those, they're
+openly known to anyone who bothers to read even a bit on the industry and
+anyone who says "Oh I love you guys!" had better know it.
+
+I’ll get responses like “Because your firm isn’t just focused on money!”
+_(Really son? Are you sure you want to use that one when interviewing for a
+corporate_ ** _finance_** _position_?) “Because you really care about your
+customers!” _(You mean our competitors don’t? )._ Now I don’t mean to say that
+_every single point_ needs to apply _only to us exclusively_ but here’s the
+litmus test - if you can take that answer, plug it in elsewhere with some
+other firm/industry and it works, **that's a dud, a ‘form letter’.**
+
+I've interviewed accountants who talk endlessly about how awesome my firm is
+in terms of "value", but haven't even bothered to read the annual report or
+SEC 10-K filing, who don't even have any idea of our revenues or profit
+margins (all publicly available for free) . It's like telling someone how big
+of a fan you are of theirs but then don't even remember their last name!
+
+  *  **“** ** _So what’s a passion of yours that is entirely unproductive?”_**
+
+Yeah, I appreciate all the volunteering and Habitat for Humanity stuff. I do
+it as well. But you got to unwind, indulge yourself, waste time doing
+something that is merely pleasurable. Something like playing golf/video
+games/eating out. Do you actually _live_ or are you just the equivalent of a
+corporate beauty queen - i.e. a productivity machine who only otherwise wants
+to save the world.
+
+  *  ** _Is depreciation a good or a bad thing? And why?_**
+
+Now this is a technical one strictly for bankers. The party line they’re
+taught in school is “good thing because it can be written off for tax
+purposes.” Yes, it can be. And I’ll also not have to pay a dollar in taxes if
+I hemorrhage losses. If the business flops, that also means zero taxes. Have
+some strategic grasp and foresight, wanting more depreciation to avoid
+corporate taxes is like burning down the barn to kill a rat. Depreciation
+means **degradation** of your assets - **they need to be replenished.** And
+Warren Buffet shares my frustration with finance professionals adhering to
+this fallacy about depreciation being “good”. As he said once on this issue -
+_"Where do these people think capital investments come from? The tooth fairy?_
+”
+
+In summary, I _really_ don’t like asking regular generic questions. Yes, I’ll
+ask you to tell me about yourself, your career path and aspirations, and I’ll
+tell you a bit about myself.
+
+But then I want to see how you think or even _how much_ you think. Because
+that’s what we’re in business for and what earns my team our paychecks.
+
+
+##########
+![](https://qph.fs.quoracdn.net/main-qimg-fec78b551a30d856b93515096e0c2e7e-c)
+
+This was the interview for 1997 UPSC Topper from Maharashtra Mr. Vishwas
+Nangare Patil.
+
+Few details about him if you dont know who he is;
+
+  *  **He is from rural background.**
+  *  **He became IPS officer at the age of 23.**
+  *  **He has selected for Deputy collector, Deputy sales tax Inspector through MPSC and IPS through UPSC in same year.**
+  *  **He has brave Role in countering 26/11 Mumbai Attacks.**
+  *  **He is currently the Inspector-general of police, Kolhapur Range in the state of Maharashtra, India.**
+  *  **He is awarded with “ President’s Police Medal”.**
+
+He was accompanied by Mr. Vikas Jain who was highly qualified (B Tech from
+IIT-Mumbai and MMS from IIM-Ahmedabad) candidate amongst all.
+
+Mr. Jain went for interview first. He walked out of cabin with rage in just 15
+minutes and shouted, "Shit, I have wasted my precious two years here preparing
+for UPSC. Instead,I would easily had 25-30 lacs bank balance if choose to work
+abroad!!"
+
+After seeing the condition of Vikas, Vishwas get into the dilemma, _"If this
+is the condition of such well qualified candidate then what will be our
+chances here!!!"_
+
+Mr. Vishwas entered the cabin for Interview next,
+
+> (There was panel of 6 members led by Lt. Gen. Surendra Nath and one
+translator at corner )
+
+>
+
+>  **Surendra Nath :** Vishwas why don’t you speak in English, There will be
+direct communication between you and me???
+
+>
+
+>  **Vishwas :** Sir, please let me talk in Marathi as i am from rural area.
+
+>
+
+>  **Nath :** Please try in broken English.
+
+>
+
+> You have graduated in 1994 , What you have done for 3 years?
+
+>
+
+>  **Vishwas :** Sir **,** I have established one library for the
+enlightenment, enrichment and uplifting of rural youth as well as sharing
+viable ideas within rural folks..!!
+
+>
+
+> ( Mr. Nath astonished with his fluency over English)
+
+>
+
+>  **Nath :** Vishwas, Your English is very good!!
+
+>
+
+> (But that was the Only sentence he memorized)
+
+>
+
+> ( _Panel members asked some random questions related to his field and he
+answered all with his broken English to the best of his knowledge.)_
+
+>
+
+> Mr. Nath asked one final question in Hindi which leads to his direct
+selection,
+
+>
+
+>  **Nath :** Vishwas iss duniya me tum kyu aaye ho? Iss duniya me aaneka
+tumhara maksad kya he?
+
+>
+
+> ( __**_Translation :_** _Vishwas, Why do you born? What is your motive of
+coming to this world?)_
+
+>
+
+>  **Vishwas :** ( For moment,He looked back into his past, He remembered all
+his struggle to reach here, He remembered the angry face of Vikas, and
+answered)
+
+>
+
+> “Sir, Me yahan sangharsh karne aya hu.!! Pratikul paristhithi se sangharsh
+karke aaj yaha pohcha hu!!! Aur mujhe agar mauka milega to system me jo buri
+chije he uske khilaf sangharsh karunga.”
+
+>
+
+> ( ** _Translation:_** __ “ _Sir, I am here to fight, I fought against all
+odds to reach here and will fight against all odds in system if get a
+chance.”_ )
+
+ **Result :** Vishwas Nangare Sir got selected in interview and Ranked 1st
+scoring 210 marks out of 300 whearas Mr. Vikas scored 80 marks.
+
+[[1]](/profile/Nishant-Patil-81)
+
+Image Source : [Google
+Images](https://www.google.co.in/webhp?dcr=0&output=search&tbm=isch&tbo=u)
+
+Footnotes
+
+[[1] ](/profile/Nishant-Patil-81)[Vishwas Nangare Patil -
+Wikipedia](https://en.wikipedia.org/wiki/Vishwas_Nangare_Patil)
+
+
+##########
+![](https://qph.fs.quoracdn.net/main-qimg-10267fe00b738117651193e003b1e696)
+
+My go-to question to break the interview wide open is:
+
+ ** _“What was your dream job when you were a child and how close are you to
+it?”_**
+
+Let’s break down the questions into two parts: “Your dream job when you were a
+child” and “how close are you”.
+
+ **The first part lets me know WHAT excites the candidate at his very core (as
+a child).**
+
+When we were children things were a lot simpler. We always knew what we wanted
+to be when we grew up, and it sure wasn’t decided by annual incentive schemes
+or corporate insurance plans.
+
+You were brave, so you wanted to be a fireman. You were kind and
+compassionate, so you wanted to be a nurse. You liked muscles and tights, so
+you wanted to be a WWE wrestler.
+
+It wasn’t complicated. _It was the real you wanting to be the future you._
+
+It doesn’t matter if the candidate’s dream job was an actor playing a cowboy
+in the wild west. It does matter, however, that he’s inspired by heroism,
+creativity and showmanship.
+
+ **The second is to know WHERE the candidate sees herself in her journey (as
+an adult)**
+
+Your childhood dream happens to be a long time ago. Along the way, Life
+happened. Family, friends, the economy, money – they somehow conspired to
+derail those dreams.
+
+We forgot what we wanted to be when we grow up, _when we grew up._
+
+Again, how far the candidate is from her childhood dream job is no indication
+of her hireability, but rather, her confidence in the direction she’s moving
+in her career.
+
+She could be nowhere close to her childhood dream of being a wildlife
+explorer, but she can tell me how that dream taught her that difficult goals
+are worth pursuing, such as being the industry’s youngest CEO.
+
+ ** _Why does this interview question work so well?_**
+
+ **1\. It provides an opportunity for the candidate to show authenticity.**
+This peels away the polished corporate veneer many candidates slather
+themselves with before an interview, inviting them to open up to show their
+true selves. Slick answers like “I’ve always wanted to be an account manager
+since I was a kid and I’m this close from fulfilling my dream, if you’d agree
+I deserve the honor” make my eyes glaze over and think how much longer should
+the interview last.
+
+ **2\. It reveals how the candidate views aspiration.** Not that I’d ever
+fault a candidate for not pursuing his astronaut childhood ambition, but it’d
+be interesting to hear how his dream has affected his worldview, his self-
+awareness, or his true calling. Our dreams don’t always have to be fulfilled
+to help us.
+
+ **3\. It lets me know if the candidate has imagination.** As kids, reality
+and imagination have very blurred lines. Think border-crossing doctors saving
+impoverished villagers with his trusty medi-kit, or the world’s best singer
+who performs with her pet parrot. Hearing the candidate’s dream job as a kid
+gives me insight into her audacity and even pragmatism. But hey, if she says
+she had always wanted to be a tax collector, I’d be all ears to hear why.
+
+ **4\. It allows the candidate to tell a story.** A candidate might take the
+chance to share not just what his childhood dream job was, but _why_ it was
+so. We are the ultimate authority on ourselves, and if there’s one story you
+can tell, it’d be a brief story of how you decided you wanted to be a fireman
+when you were five.
+
+ **5\. It lets me observe how the candidate describes something he used to be
+passionate about.** You can tell a lot by how someone talks about their dream,
+even a childhood one. Do they smile wistfully as they remember their naivety?
+Do their voice betray a tinge of sadness or anger when they realized it was
+out of reach? Are they sitting there trying to make up something inspiring for
+the interview?
+
+As with most interview questions, **_how_** **you answer it matters more than
+what you answer**. The best answers showed
+[authenticity](https://www.newandimproved.me/single-post/How-To-Build-Self-
+Confidence-Without-Faking-It-Oh-Yeah-They-Can-Tell) , vulnerability and
+passion. Remember, an interview is a chance to show the person behind the
+professional – be one.
+
+ _PS: I write articles like this at_[
+_newandimproved.me_](http://newandimproved.me/) _. If you liked this, you
+might be interested in getting my free worksheet “_[ _Adversity to
+Advantage_](https://www.newandimproved.me/) _” over there. Thanks and good
+luck for your interview._
+
+
+##########

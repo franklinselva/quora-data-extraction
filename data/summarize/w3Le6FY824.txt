@@ -1,0 +1,173 @@
+Sure, why not? The same way you can mention that you have ‘ ** _been to the
+moon”_** and back. Or may be that you have figured out “ ** _time travel_** ”?
+May be ruining your career as well if you get caught. I don’s see any logic in
+“ _not faking”_ your experience as well.
+
+Not your fault entirely. We have been taught and fed like this, to follow
+others blindly. You saw someone doing the same and decided to go for it. A
+country, where you can fake all kind of certificates and documents, why not
+try this one as well, right?
+
+As you mentioned in the answer that you haven’t worked anywhere and that can
+very well be a reason to have a thought like this in your mind. You can fake a
+paper, not your experience. Let’s just consider a couple of scenarios, where
+you get a job using your fake resume.
+
+  1.  **Scenario A -** You get a job and start working with some small company for 15–20k. Why small company? Because only some non-existent companies will offer you a job, as in most of the big organizations you won’t be able to even qualify for the technical rounds due to no practical experience and trust me, **“** ** _you can’t fake the expertise”._** Now since you have got a job, you will have a lot of pressure because in a couple of weeks, everyone will expect you to work like a pro, and you my friend, are not. You might be asked to leave the organization soon. “Good use of time and efforts”? **No.**
+  2.  **Scenario B-** The fear of getting caught will haunt you and you will be afraid to take any project or work, as you know that you can’t perform the way they expect you to do. It will take a toll on your work & mind and you will be in a much worse situation.
+  3.  **Scenario C-** You fake the experience, got a job and then got fired cause you got caught. You get blacklisted by the company, you might get blacklisted by their connections as well. You lose all the chances of getting a job and have nowhere to go. **_Seriously, nowhere._**
+  4.  **Scenario D** -You get a job, work in a great manner, make it big in 2 years and rule the industry.
+
+Which one of these 4, sounds more realistic to you? Not **Scenario-D** for
+sure.
+
+As you have got a few years of gap, you will be in the reject list of many
+recruiters, as above 6 months will be taken in a negative manner. So the real
+question is, why would any HR or company hire you?
+
+Since I have been doing a lot of hiring myself, a company is looking to match
+most of the following while shortlisting you:-
+
+  1. Relevant skills for the job
+  2. Fit for the organization
+  3. Your value addition to the company
+  4. Willing to learn
+
+ _Sounds better than faking a resume. Doesn’t it?_
+
+ **But how do you do that?**
+
+You see my friend, IT has seen a lot of changes in the last few years and
+there is a huge demand and supply gap for various roles and the reason why you
+couldn’t get a job.
+
+ **Oversupply-** Technologies such java, DotNet, PHP etc. have hit their top
+already and we have more than 1 million engineers graduating every year with
+exactly the same skills in these technologies. Now if you go for these, there
+are no options left for you as you will be one of those millions with no
+addition to the company. In that case, a company will hire someone who
+recently graduated, instead of you.
+
+ **Over-demand-** New technologies such as Node.js, Golang, express.js have
+shown such an instant spike in the last couple of years, that companies are
+facing an issue with low supply of good engineers in these roles. They are
+willing to hire people with the right skills, not considering their
+backgrounds much and this could be the break you are looking for. _Going for
+technologies, that have higher demand and lower supply._
+
+ **How to start-** One more thing that you need to consider is that you can
+not get a job in an MNC directly as you will have **less than 1% of chances**
+now but you should go for start-ups which value the skill set you have and
+offer good salaries between **4–7lpa** easily.
+
+So my suggestion would be to **start learning the skills,** work on some
+projects and understand the industry standards by **applying the skills** to
+build a portfolio and after this, you can start working on your grooming,
+professional profiles, resume and job search to **get hired**. Follow these 3
+steps and you will thank yourself in a couple of months.
+
+I can help you know some platforms to learn the in-demand technologies. You
+can visit Upgrad, edWisor, simplilearn to see the offerings and choose the one
+suitable for you.
+
+While Upgrad and simplilearn focus more on certifications and your main
+concern is to get an opportunity and not just a certification, I would
+recommend you to go for [**edWisor.com**](https://goo.gl/QLc3S4) **** and they
+offer you a job assurance after you learn and you will be able to secure a
+much better opportunity as well. Now, this can be the right start for your
+career.
+
+ **Final suggestion-** Don’t loose hope and start looking in the right
+direction. Forget the degree and forget the gap, just follow the path and the
+steps mentioned above, you will for sure be in the desired position soon.
+
+I will be glad to assist you with more queries if you have any. Feel free to
+request an answer or connect with me.
+
+
+##########
+**Short answer:** Yes, there is an API marketplace called
+[RapidAPI](http://rapidapi.com/?utm_campaign=Quora&utm_medium=link_Marketplace&utm_source=Quora),
+which combines both RapidAPI and the Mashape API Marketplace into the world’s
+largest API marketplace! ** _[disclaimer: I work for RapidAPI]_**
+
+  
+
+ **Long answer:** Yes, you should check out the
+[RapidAPI](http://rapidapi.com/?utm_campaign=Quora&utm_medium=link_Marketplace&utm_source=Quora).
+RapidAPI is an online API marketpl...
+
+
+##########
+Obviously you can do this, but you have to carry on in such a way that you
+will be able to prove right what you are faking to them. (like previous
+employment salary proof, Bank/Provident Fund Account proof etc that you cannot
+fake).
+
+For a startup or small company, they don’t have concern about experience. They
+willing to hire freshers on good salary. All they need is to have employee
+with that level of skill/knowledge in that domain, which justifies his salary-
+package.
+
+REALITY:- As you are fresher and you haven’t yet worked on any client project.
+You are not aware of Agile, Coding-Guidelines, Debugging-tools, Version-
+Control-Tools (used in company).So you will be easily caught in interview by
+developer. Better is to not to take shortcut and start from scratch. There are
+lot of freshers like you, who daily come with interview (handover Resume with
+lots of projects mentioned and some development experience). They mention
+almost all skills they know or just have heard of. Then they fail to
+justify/explain the concept (cannot answer what is expected from him/her) and
+ultimately throws bad impression.
+
+WAYOUT:- If you are good Java developer fresher, go on HacherRank or similar
+online coding challenge portals. Crack challenges as much you can. You will
+get a very good package that you would have never expected.
+
+
+##########
+It isnt that hard. Just go find someone who makes fake certis (be ready to
+spend your hard earned money) and update it in your resume and attend
+interviews. But make sure you have same knowledge in Java to back up your
+experience and dont be as fake as your experience on the resume.
+
+But my friend, just think about it. If you are caught cheating and they find
+out that the experience is fake. You will be black listed. And that is a
+remark that will haunt you for the rest of your life. These high profile MNCs
+will have a common portal (something like CIBIL for banks) where your ID proof
+maybe be used to find any black dots in your career. So you decide. Dont do it
+when you yourself think it is wrong. You may get away with this somehow but
+what if youre caught? You ll be jobless forever. Work hard. Im sure you will
+find a good job.
+
+I can be an example here - I never spoke good english when I was looking out
+for jobs and I was rejected in every company. But I never gave up. I worked
+hard to learn it in any possible way. I read english news papers, watched
+english movies and only spoke english even when my friends mocked me for
+speaking broken english because I couldnt afford to take spoken english
+classes. Im not saying I can now perfectly speak english without any mistakes.
+But atleast my hard work never failed me. And the results werent spontaneous.
+It took me 4 years. I can now confidently speak english and was the only 1 who
+got selected out 100 candidates in a top MNC.
+
+No pain no gain. Best of luck.
+
+
+##########
+Fine…. i accept that all who have answered to this ques… Had suggested the
+right way…
+
+But what about the present scenario… Every small & large companies requirement
+s experienced guys… They are not even ready to test the person skills. Not
+ready to give even one chance…..
+
+Just imagine if there s any vacancy …..which doesn't mention anything about
+experience or passing out year….jst mentions skilled people can apply…. jst
+see the changes….
+
+So if a guy is taking fake experience….then itz not his/her mistake…. he/she s
+forced to do so….
+
+Bcoz itz da matter of livelihood…. money….work…. in one word …..life…..
+
+
+##########

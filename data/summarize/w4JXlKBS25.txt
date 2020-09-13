@@ -1,0 +1,85 @@
+Hi JAVA is a ocean, so as you have going to shown 2+ years of experience you
+must have knowledge how to sailing in the ocean, i mean i want to say you have
+to perfect knowledge,
+
+  1.  **Core java :** You have must have deep knowledge on String class, Collections Framework, Oops, exception handling, multithreading, Logical thinking, **(You are going to asked 50% of the questions from Core java only)**
+  2.  **Advance Java:** Concepts of servlet, Jsp (Basics), life cycles, overal ideas, ( **15% questions)**
+  3.  **FrameWork :** Spring(Dependency _njection,_ AOP.JDBC,MVC) is must, hibernate included more advantage, if you know webservises then super **.(25% question )**
+  4.  **Project Manager round:** which domain you are working, who is you client, which part you have developed in the project, which Appserver you are using and version, Describe your role in project. **(10% questions)**
+
+
+##########
+Should I assume that your experience of 2 years is outside Java? If so, what
+technology? Are you attending a Java developer interview with experience
+outside Java?
+
+2 years is not insignificant. If you are attending Java interview as a
+‘nervous’ java programmer (whose experience is not in-depth), you can prepare
+well and face the challenge. If you are attending Java interview as a non-Java
+programmer, be prepared to lose out to some extent - since you will be
+considered almost or a shade better than the fresher for the new job.
+
+Either way, preparing for Java in the internet world is very easy. The
+previous answers have listed several interesting and useful sites. Also in any
+book shop you may pick up books on Java (towards interview rather than towards
+learning Java programming). Also there are mock tests - most free and some
+paid - available in the internet. Do a google on _mock tests in Java_
+
+Since you have two years of experience, make sure that you would be able to
+explain about the projects you worked on, your role in them, the development
+process you adopted, how you tested the code etc.
+
+Looking back your question was ‘how’ - and the simple answer is: by enough
+practice!
+
+Best wishes.
+
+
+##########
+**Short answer:** Yes, there is an API marketplace called
+[RapidAPI](http://rapidapi.com/?utm_campaign=Quora&utm_medium=link_Marketplace&utm_source=Quora),
+which combines both RapidAPI and the Mashape API Marketplace into the world’s
+largest API marketplace! ** _[disclaimer: I work for RapidAPI]_**
+
+  
+
+ **Long answer:** Yes, you should check out the
+[RapidAPI](http://rapidapi.com/?utm_campaign=Quora&utm_medium=link_Marketplace&utm_source=Quora).
+RapidAPI is an online API marketpl...
+
+
+##########
+Make sure that you understand all Java concepts not just theoretically but
+with coding practice too. Once you know all the fundamentals, Refresh and
+evaluate your knowledge by going through the questions asked in respective
+companies and evaluation tests. These links might help in your preparation -
+
+Interview Questions - [Advance & Core Java Interview Question and
+Answers](https://javasearch.buggybread.com/InterviewQuestions/questionSearch.php?keyword=&searchOption=label)
+
+Online Practice Tests -
+[https://javasearch.buggybread.co...](https://javasearch.buggybread.com/OnlineTest/javaTest.php)
+
+Here is the list of Java Books - Tutorials , Questions that you can look into
+
+[Best of Java - -
+Book](https://javasearch.buggybread.com/BestOfJava/bestOfJava.php?categoryId=2)
+
+Here is the list of Websites - Tutorials , Courses , Questions , Test , Blogs
+
+[Best of Java - -
+Website](https://javasearch.buggybread.com/BestOfJava/bestOfJava.php?categoryId=3)
+
+
+##########
+You can go through various interview questions by searching like Top/most 100
+Java interview questions and it would surely help you out in interviews but I
+would suggest to implement and work on basic programming questions as well
+related to : (A)Wrapper classes like String,Integer , (b)
+Comparable/Comparator implementations and (c)Collections usage . Also work on
+Database end like Oracle SQL/ MySQL queries. The most important thing is you
+should be clear of these concepts as clearing an interview is not big deal,
+you have to implement and work in the projects too.
+
+
+##########
